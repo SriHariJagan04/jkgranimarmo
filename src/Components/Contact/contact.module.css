@@ -1,0 +1,158 @@
+/* =========================
+   Contact Component
+   ========================= */
+
+.contactWrapper {
+  width: 100%;
+  min-height: 70vh;
+  padding: 2rem 6vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--primary-text);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.contactContainer {
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 0 12px 1px rgba(0, 0, 0, 0.1);
+  background-color: var(--card-bg);
+  max-width: 1200px;
+  width: 100%;
+  transition: box-shadow 0.3s ease;
+  border: 1px solid var(--card-border);
+
+}
+
+.contactContainer:hover {
+  box-shadow: 0 0 20px 2px rgba(0, 0, 0, 0.15);
+}
+
+.imageSection {
+  flex: 1;
+  min-width: 300px;
+  max-height: 500px;
+  overflow: hidden;
+  position: relative;
+}
+
+.imageSection img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.formSection {
+  flex: 1.5;
+  padding: 60px 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* background-color: var(--glass-bg); */
+  backdrop-filter: var(--glass-blur);
+  /* border-left: var(--glass-border); */
+  transition: background-color 0.3s ease, backdrop-filter 0.3s ease;
+}
+
+.formSection h2 {
+  font-size: clamp(2rem, 3vw, 2.5rem);
+  font-weight: 700;
+  margin-bottom: 30px;
+  color: var(--primary-text);
+}
+
+.highlight {
+  color: var(--button-primary);
+  border-bottom: 3px solid var(--button-primary);
+  padding-bottom: 2px;
+  display: inline-block;
+}
+
+.formSection form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.formSection input,
+.formSection textarea {
+  padding: 0.85rem 1rem;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  font-size: 1rem;
+  outline: none;
+  transition: border 0.3s ease, box-shadow 0.3s ease;
+  background-color: var(--card-bg);
+  color: var(--primary-text);
+}
+
+.formSection input:focus,
+.formSection textarea:focus {
+  border: 2px solid var(--button-primary);
+  box-shadow: 0 4px 12px rgba(0, 198, 255, 0.25);
+}
+
+.formSection button {
+  padding: 0.85rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: 25px;
+  border: 2px solid var(--quota-btn-border);
+  background-color: var(--quota-btn-bg);
+  color: var(--quota-btn-text);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  align-self: flex-start;
+}
+
+.formSection button:hover {
+  background-color: var(--quota-btn-hover-bg);
+  color: var(--quota-btn-hover-text);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0, 198, 255, 0.3);
+}
+
+/* =========================
+   Responsive
+   ========================= */
+@media (max-width: 1000px) {
+  .contactContainer {
+    flex-direction: column;
+    border-radius: 16px;
+  }
+
+  .formSection {
+    padding: 40px 30px;
+    border-left: none;
+    border-top: var(--glass-border);
+  }
+
+  .imageSection {
+    max-height: 300px;
+  }
+}
+
+@media (max-width: 500px) {
+  .contactWrapper {
+    padding: 3rem 1rem;
+  }
+
+  .formSection {
+    padding: 30px 20px;
+  }
+
+  .formSection h2 {
+    font-size: 1.8rem;
+  }
+
+  .formSection button {
+    width: 100%;
+    text-align: center;
+  }
+}

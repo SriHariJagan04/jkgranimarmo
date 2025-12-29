@@ -1,0 +1,322 @@
+.detailsWrapper {
+  padding: 2rem;
+  background: var(--primary-bg);
+  color: var(--primary-text);
+  max-width: 1200px;
+  margin: auto;
+  font-family: "Inter", sans-serif;
+  line-height: 1.5;
+}
+
+/* ===== Main Card ===== */
+.mainCard {
+  display: flex;
+  border:1px solid var(--card-border);
+  box-shadow: 0 0 2px 1px var(--card-border);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+/* ===== Media Wrapper ===== */
+.mediaWrapper {
+  display: flex;
+  flex: 1 1 50%;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+/* ===== Main Image/Video ===== */
+.mainMedia {
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  background: var(--media-bg);
+  overflow: hidden;
+  box-shadow: inset 0 0 12px rgba(0,0,0,0.04);
+  cursor: zoom-in;
+}
+
+.carouselMedia {
+  width: 100%;
+  max-height: 500px;
+  object-fit: contain;
+  border-radius: 10px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+.carouselMedia:hover {
+  transform: scale(1.03);
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: scale(0.98); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+/* ===== Thumbnails ===== */
+.thumbnailStrip {
+  overflow-y: auto;
+  overflow-x: hidden;
+  width: max-content;
+  max-height: 460px;
+  padding: 8px;
+}
+
+.thumbnail {
+  width: 80px;
+  height: 80px;
+  border-radius: 8px;
+  overflow: hidden;
+  cursor: pointer;
+  border: 2px solid transparent;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  transition: all 0.25s ease;
+  margin-bottom: 8px;
+}
+
+.thumbnail img,
+.thumbnail video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+.thumbnail:hover {
+  transform: scale(1.07);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.activeThumbnail {
+  border-color: var(--highlight-color);
+}
+
+/* ===== Info Section ===== */
+.infoSection {
+  flex: 1 1 50%;
+  padding: 2rem;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.infoSection h1 {
+  font-size: clamp(1.8rem, 2.5vw, 2rem);
+  font-weight: 700;
+  margin-bottom: 1rem;
+  text-align: center;
+
+  /* Gradient Text */
+  background: linear-gradient(
+    90deg,
+    var(--heading-highlight),
+    var(--heading-bottom-style)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+
+.productTitle {
+  font-size: clamp(1.8rem, 2.5vw, 2rem);
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 1rem;
+
+  /* Gradient text */
+  background: linear-gradient(
+    90deg,
+    var(--heading-highlight),
+    var(--heading-bottom-style)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+.productAttributes {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 1rem 2rem;
+  margin: 1rem 0;
+}
+
+.attributeItem {
+  display: flex;
+  flex-direction: column;
+}
+
+.attributeKey {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--secondary-text);
+  margin-bottom: 0.25rem;
+}
+
+.attributeValue {
+  font-size: 1rem;
+  color: var(--primary-text);
+  word-wrap: break-word;
+}
+
+.productDescription {
+  margin-top: 1.5rem;
+  font-size: 1rem;
+  color: var(--secondary-text);
+  line-height: 1.6;
+  border-left: 3px solid var(--highlight-color);
+  padding-left: 1rem;
+  font-style: italic;
+  text-align: justify;
+}
+
+
+/* ===== Similar Products ===== */
+.similarWrapper {
+  margin-top: 3rem;
+}
+
+.similarWrapper h2 {
+  font-size: clamp(1.4rem, 2vw, 1.5rem);
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: var(--primary-text);
+}
+
+.relatedGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 1.5rem;
+}
+
+.relatedCard {
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  box-shadow: 0 0 2px 1px var(--card-border);
+  overflow: hidden;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  height: 220px;
+}
+
+.relatedCard img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+  transition: transform 0.3s ease;
+}
+
+.relatedCard:hover img {
+  transform: scale(1.05);
+}
+
+.relatedCard p {
+  margin: 0.25rem 0;
+  font-size: 0.95rem;
+  color: var(--primary-text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.relatedCard:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+  border: 1px solid var(--highlight-color);
+}
+
+/* ===== Send Enquiry Button ===== */
+.sendEnquiryBtn {
+  background-color: var(--quota-btn-bg);
+  color: var(--quota-btn-text);
+  border: 2px solid var(--quota-btn-border);
+  padding: 0.6rem 1.4rem;
+  border-radius: 10px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 1rem;
+  align-self: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+
+.sendEnquiryBtn:hover {
+  background-color: var(--quota-btn-hover-bg);
+  color: var(--quota-btn-hover-text);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+}
+
+.sendEnquiryBtn:active {
+  transform: scale(0.97);
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 768px) {
+  .mainCard {
+    flex-direction: column;
+  }
+
+  .mediaWrapper {
+    flex-direction: column;
+  }
+
+  .thumbnailStrip {
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto;
+    overflow-y: hidden;
+    max-height: unset;
+    height: 90px;
+    width: 100%;
+    padding: 0.5rem;
+  }
+
+  .thumbnail {
+    height: 60px;
+    flex-shrink: 0;
+    margin-right: 10px;
+    margin-bottom: 0;
+  }
+
+  .relatedCard {
+    height: 230px;
+  }
+
+  .relatedCard img {
+    height: 140px;
+  }
+
+  .infoSectionProductDetails {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+@media (max-width: 500px) {
+  .detailsWrapper {
+    padding: 2rem .5rem;
+  }
+
+  .mainCard {
+    padding: 0;
+  }
+
+  .infoSection {
+    padding: 1rem 0.5rem;
+  }
+}

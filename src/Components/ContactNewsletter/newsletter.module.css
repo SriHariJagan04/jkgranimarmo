@@ -1,0 +1,46 @@
+.newsletterSection {
+  background-color: var(--section-dark);
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.newsletterSection h2 {
+  font-size: 32px;
+  color: white;
+  margin-bottom: 30px;
+  letter-spacing: 4px;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  max-width: 700px;
+  margin: 0 auto;
+  background: white;
+  border-radius: 40px;
+  overflow: hidden;
+}
+
+.form input {
+  flex: 1;
+  padding: 16px;
+  border: none;
+  font-size: 16px;
+  border-radius: 40px 0 0 40px;
+  outline: none;
+}
+
+.form button {
+  background-color: #2e2e2e;
+  color: white;
+  border: none;
+  padding: 0 30px;
+  font-size: 16px;
+  border-radius: 0 40px 40px 0;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.form button:hover {
+  background-color: var(--button-primary);
+}

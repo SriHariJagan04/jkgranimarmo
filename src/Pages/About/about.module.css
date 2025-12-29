@@ -1,0 +1,190 @@
+.aboutPage {
+  background-color: var(--primary-bg);
+  color: var(--primary-text);
+  padding: 40px 6rem;
+  font-family: "Poppins", sans-serif;
+}
+
+.heroSection {
+  background-color: var(--heading-highlight);
+  padding: 40px 20px 40px;
+  text-align: center;
+  color: white;
+  border-radius: 12px;
+  margin-bottom: 40px;
+}
+
+.heroTitle {
+  font-size: 2.8rem;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.breadcrumb {
+  font-size: 0.95rem;
+  color: var(--button-secondary);
+}
+
+.introSection,
+.facilitySection,
+.teamSection {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 40px;
+  margin-bottom: 60px;
+}
+
+.textBlock {
+  flex: 1;
+  min-width: 280px;
+  font-size: 1rem;
+  position: relative;
+}
+
+.textBlock h2 {
+  color: var(--highlight-color);
+  margin-bottom: 12px;
+  font-size: 1.8rem;
+}
+
+.textBlock p {
+  color: var(--secondary-text);
+  line-height: 1.7;
+  text-align: justify;
+}
+
+.textBlock span{
+  position: absolute;
+  right: 0;
+  color: var(--secondary-text);
+}
+
+.introSection,
+.highlightSection,
+.facilitySection,
+.teamSection{
+img {
+  flex: 1;
+  max-width: 500px;
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 10px 20px var(--card-shadow);
+}}
+
+
+.highlightSection {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin: 60px 0;
+  justify-content: center;
+}
+
+.card {
+  flex: 1;
+  min-width: 280px;
+  max-width: 400px;
+  padding: 20px;
+  border:1px solid var(--card-border);
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 8px 20px var(--card-shadow);
+}
+
+.card img {
+  width: 100%;
+  height: 220px;
+  /* object-fit: cover; */
+  border-radius: 8px;
+  margin-bottom: 15px;
+  box-shadow:none;
+}
+
+.card h3 {
+  color: var(--heading-highlight);
+  margin-bottom: 10px;
+}
+
+.factsSection {
+  backdrop-filter: var(--glass-blur);
+  padding: 40px 20px;
+  border-radius: 12px;
+  margin-top: 40px;
+}
+
+.tableTitle {
+  text-align: center;
+  font-size: 2rem;
+  color: var(--highlight-color);
+  margin-bottom: 20px;
+}
+
+.tableContainer {
+  overflow-x: auto;
+}
+
+.factsTable {
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+  border-collapse: collapse;
+  box-shadow: 0 10px 20px var(--card-shadow);
+}
+
+.factsTable th,
+.factsTable td {
+  padding: 12px 16px;
+  text-align: center;
+}
+
+.factsTable tr{
+  border: 1px solid var(--card-border);
+}
+
+.factsTable th {
+  color: var(--heading-highlight);
+  font-weight: 600;
+}
+
+@media (max-width: 808px) {
+
+  .aboutPage {
+    padding: 6rem 4rem;
+  }
+
+
+  .introSection,
+  .facilitySection,
+  .teamSection,
+  .highlightSection {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .card {
+    max-width: 100%;
+  }
+
+  .factsTable th,
+  .factsTable td {
+    font-size: 0.95rem;
+  }
+}
+
+
+@media (max-width: 500px) {
+.aboutPage {
+    padding: 3rem 1rem;
+  }
+
+  .textBlock p{
+    margin: 0 20px;
+  }
+
+  .textBlock span{
+    position: relative;
+    margin: 0 10px;
+    top: 15px;
+  }
+}

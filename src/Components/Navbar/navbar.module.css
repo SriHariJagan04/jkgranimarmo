@@ -1,0 +1,413 @@
+/* ==============================
+   Base Navbar Styles
+============================== */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 1.5rem;
+  background-color: var(--navbar-bg);
+  color: var(--primary-text);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+  transition: transform 0.3s ease-in-out;
+  backdrop-filter: blur(12px); /* Glassy effect */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.navHidden {
+  transform: translateY(-100%);
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 6px;
+}
+
+/* ==============================
+   Desktop Navigation
+============================== */
+.desktopNav {
+  display: none;
+}
+
+.navList {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+
+.navList li {
+  position: relative;
+  color: var(--primary-text);
+}
+
+.navList li a {
+  color: var(--primary-text);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.navList li a:hover {
+  color: var(--active-link);
+}
+
+/* Active link underline */
+.activeLink {
+  color: var(--active-link) !important;
+  font-weight: 700;
+  position: relative;
+  width: 100%;
+  padding: 0 6px;
+}
+
+.activeLink::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  width: 100%;
+  height: 2px;
+  background-color: var(--active-link);
+  border-radius: 2px;
+}
+
+/* ==============================
+   Dropdowns
+============================== */
+.dropdownWrapper {
+  position: relative;
+}
+
+.subcategoryLabel {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-transform: capitalize !important;
+  cursor: pointer;
+}
+.hoverElement {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  color: var(--primary-text);
+  text-decoration: none;
+}
+
+.hoverElement:hover,
+.subcategoryLabel:hover {
+  color: var(--active-link);
+}
+
+.dropdownTitle {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: absolute;
+  top: 100%;
+  right: -50px;
+  background: var(--dropdown-bg);
+  margin-top: 15px;
+  padding: 0.2rem;
+  border-radius: 6px;
+  min-width: 200px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  z-index: 99;
+}
+
+.addBar {
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.dropdown .addBar li {
+  margin: 0 1.5rem;
+  padding: 0.8rem 0;
+}
+
+.dropdown .addBar li a {
+  color: var(--primary-text);
+  font-size: 0.95rem;
+}
+
+.activeSubcategory {
+  color: var(--active-link) !important;
+}
+
+/* Chevron Icon */
+.chevronRight {
+  position: relative;
+  top: 2px;
+  left: 10px;
+  margin-left: auto;
+  opacity: 0.7;
+}
+
+/* ==============================
+   Children Dropdown
+============================== */
+.childrenDropdown {
+  position: absolute;
+  top: 0;
+  left: 195px;
+  margin-top: 8px;
+  margin-left: 8px;
+  background: var(--dropdown-bg);
+  padding: 0.2rem;
+  /* border-radius: 6px; */
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  min-width: 180px;
+  display: flex;
+  flex-direction: column;
+  z-index: 98;
+  max-height: 250px;
+  overflow-y: auto;
+}
+
+.childrenDropdown li {
+  margin: 0 1rem;
+  padding: 0.6rem 0;
+}
+
+.childrenDropdown li a {
+  color: var(--primary-text);
+  font-size: 0.9rem;
+  display: block;
+}
+
+.subcategoryItem > a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+/* ==============================
+   Icons & Inputs
+============================== */
+.searchIcon {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  position: relative;
+}
+
+.searchContainer {
+  position: relative;
+}
+
+.searchInput {
+  margin: 0 0.5rem;
+  padding: 0.4rem 0.4rem;
+  border: 1px solid var(--primary-text);
+  border-radius: 4px;
+  outline: none;
+  width: 180px !important;
+  position: absolute;
+  right: -40px;
+  top: 25px;
+}
+
+.searchDropdown {
+  position: absolute;
+  top: 60px;
+  right: -40px;
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  width: 180px;
+  max-height: 200px;
+  overflow-y: auto;
+  z-index: 999;
+  border-radius: 6px;
+  padding: 0;
+  margin: 0;
+}
+
+.searchDropdown li {
+  list-style: none;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.searchDropdown li:hover {
+  background: var(--hover-bg);
+}
+
+.themeToggle {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+/* ==============================
+   Mobile Navigation
+============================== */
+.mobileNav {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 90;
+}
+
+.noScroll {
+  height: 100vh;
+}
+
+.mobileMenu {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 80%;
+  max-width: 300px;
+  min-height: 150vh;
+  overflow-y: auto;
+  background: var(--mobileMenu-bg);
+  color: var(--primary-text);
+  z-index: 200;
+  padding: 2rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.mobileList {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.mobileList li {
+  font-size: 1.2rem;
+  padding: 5px 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.mobileList li a {
+  color: var(--link-color);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.closeButton {
+  font-size: 2rem;
+  text-align: right;
+  cursor: pointer;
+  margin-bottom: 1rem;
+}
+
+.backArrow {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-bottom: 1rem;
+}
+
+/* ==============================
+   Responsive Adjustments
+============================== */
+@media (min-width: 1400px) {
+  .desktopNav {
+    display: block;
+  }
+  .mobileNav {
+    display: none;
+  }
+  .activeLink::after {
+    bottom: -10px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .childrenDropdown {
+    display: none; /* Hide nested dropdowns on mobile */
+  }
+}
+
+/* ==============================
+   Scrollbar Styling (Scoped)
+============================== */
+.childrenDropdown::-webkit-scrollbar {
+  width: 4px !important;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--scrollbar-track, #222);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-thumb, #555);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--scrollbar-thumb-hover, #888);
+}
+
+.searchWrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding: 8px;
+}
+
+.searchInput {
+  flex: 1;
+  padding: 8px 10px;
+  border: 1px solid var(--card-shadow);
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.suggestionsList {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  background: var(--card-bg);
+  border: 1px solid var(--card-shadow);
+  border-radius: 8px;
+  max-height: 200px;
+  overflow-y: auto;
+  margin-top: 4px;
+  z-index: 1000;
+}
+
+.suggestionsList li {
+  padding: 10px;
+  cursor: pointer;
+  color: var(--primary-text);
+}
+
+.suggestionsList li:hover {
+  background: var(--card-hover-bg);
+  color: var(--button-text);
+}

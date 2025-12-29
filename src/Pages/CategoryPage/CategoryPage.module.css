@@ -1,0 +1,215 @@
+/* ===============================
+   Wrapper
+================================ */
+.wrapper {
+  padding: 4rem 2rem;
+  max-width: 1400px;
+  margin: auto;
+}
+
+/* ===============================
+   Title
+================================ */
+
+
+.title {
+  position: relative;
+  text-align: center;
+  font-size: clamp(2.4rem, 4vw, 3.4rem);
+  font-weight: 600;
+  margin: 0 auto 4rem;
+
+  /* Gradient Text */
+  background: linear-gradient(90deg, var(--heading-highlight), var(--heading-bottom-style));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent; /* fallback */
+}
+
+
+/* Gradient underline */
+.title::after {
+  content: "";
+  display: block;
+  width: 96px;
+  height: 4px;
+  margin: 18px auto 0;
+  border-radius: 999px;
+  background: linear-gradient(
+    90deg,
+    var(--heading-highlight),
+    var(--heading-bottom-style)
+  );
+}
+
+
+
+.subtitle {
+  display: block;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 2.4px;
+  font-weight: 600;
+  color: var(--secondary-text) !important;
+  margin-bottom: 0.75rem;
+}
+
+
+
+/* ===============================
+   Grid
+================================ */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 2.8rem;
+}
+
+/* ===============================
+   Card
+================================ */
+.card {
+  position: relative;
+  background: var(--card-bg);
+  border-radius: 22px;
+  overflow: hidden;
+  cursor: pointer;
+  border: 1px solid var(--card-border);
+  box-shadow:
+    0 10px 28px rgba(0, 0, 0, 0.12),
+    0 0 0 1px rgba(255, 255, 255, 0.02) inset;
+  transition:
+    transform 0.35s ease,
+    box-shadow 0.35s ease,
+    border-color 0.35s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  border-color: var(--highlight-color);
+  box-shadow:
+    0 22px 55px rgba(0, 0, 0, 0.22),
+    0 0 5px 4px rgba(0, 188, 212, 0.15);
+}
+
+/* ===============================
+   Image
+================================ */
+.imageWrap {
+  position: relative;
+  overflow: hidden;
+}
+
+.imageWrap img {
+  width: 100%;
+  height: 230px;
+  object-fit: cover;
+  transition: transform 0.6s ease;
+}
+
+.card:hover .imageWrap img {
+  transform: scale(1.1);
+}
+
+/* Premium overlay */
+.imageWrap::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.05) 30%,
+    rgba(0, 0, 0, 0.55)
+  );
+  opacity: 0.85;
+  transition: opacity 0.4s ease;
+}
+
+.card:hover .imageWrap::after {
+  opacity: 1;
+}
+
+/* ===============================
+   Card Body
+================================ */
+.cardBody {
+  padding: 1.4rem 1.6rem 1.6rem;
+  background: linear-gradient(
+    180deg,
+    var(--card-bg),
+    var(--primary-bg)
+  );
+  text-align: center;
+}
+
+.cardBody h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--card-text);
+  margin-bottom: 0.4rem;
+  line-height: 1.3;
+}
+
+/* Optional description support */
+.cardBody p {
+  font-size: 0.9rem;
+  color: var(--secondary-text);
+  margin-top: 0.4rem;
+}
+
+/* ===============================
+   CTA (optional future)
+================================ */
+.cta {
+  margin-top: 0.75rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+  color: var(--button-primary);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.card:hover .cta {
+  color: var(--highlight-color);
+  transform: translateX(6px);
+}
+
+/* ===============================
+   Not Found
+================================ */
+.notFound {
+  text-align: center;
+  margin: 4rem auto;
+  font-size: 1.6rem;
+  font-weight: 500;
+  color: var(--secondary-text);
+}
+
+/* ===============================
+   Responsive
+================================ */
+@media (max-width: 1024px) {
+  .grid {
+    gap: 2rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .wrapper {
+    padding: 2.5rem 1.2rem;
+  }
+
+  .imageWrap img {
+    height: 190px;
+  }
+
+  .title {
+    margin-bottom: 3.5rem;
+  }
+}

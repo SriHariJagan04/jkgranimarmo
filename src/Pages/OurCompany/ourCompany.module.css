@@ -1,0 +1,251 @@
+/* ourCompany.module.css */
+.companySection {
+  width: 100%;
+  padding: 1.5rem 6rem;
+  background-color: var(--primary-bg);
+  color: var(--primary-text);
+}
+
+/* 1. Info Cards */
+.cardRow {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-auto-rows: auto;
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+
+.card {
+  display: flex;
+  gap: 1rem;
+  border: 1px solid var(--card-border);
+  padding: 1.5rem;
+  border-radius: 10px;
+  /* box-shadow: 0 4px 12px var(--card-shadow); */
+  transition: transform 0.3s ease;
+  position: relative;
+  background-color: transparent;
+}
+.card:hover {
+  transform: translateY(-5px);
+}
+.card h3 {
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+  background: linear-gradient(
+    90deg,
+    var(--highlight-color),
+    var(--heading-highlight)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.card p {
+  text-align: justify;
+}
+
+.cardIcon {
+  position: relative;
+}
+
+.icon {
+  width: 40px;
+  height: 40px;
+}
+
+/* 2. Testimonial Banner */
+.testimonialBanner {
+  background-image: url("https://wallpapercave.com/wp/wp15184770.webp");
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  padding: 3rem 2rem;
+  margin: 4rem 0;
+  border-radius: 12px;
+  text-align: center;
+  color: #fff;
+}
+.testimonialBanner::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(2px);
+  z-index: 0;
+  border-radius: inherit;
+}
+.testimonialBanner p {
+  position: relative;
+  font-size: 1.1rem;
+  font-style: italic;
+  z-index: 1;
+  margin-bottom: 1.5rem;
+}
+.testimonialBtn {
+  position: relative;
+  color: var(--testimonial-btn-text);
+  background-color: var(--testimonial-btn-bg);
+  border: 2px solid var(--testimonial-btn-border);
+  padding: 0.6rem 1.4rem;
+  font-weight: 600;
+  border-radius: 6px;
+  z-index: 1;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+  overflow: hidden;
+
+  transition: 0.3s;
+}
+
+.testimonialBtn:hover {
+  background-color: var(--testimonial-btn-hover-bg);
+  color: var(--testimonial-btn-hover-text);
+  box-shadow: 0 0 12px var(--testimonial-btn-border);
+}
+
+.arrow {
+  animation: arrowSlide 1.5s infinite ease-in-out;
+}
+@keyframes arrowSlide {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(6px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+/* 3. Glimpse Section */
+.glimpse {
+  text-align: center;
+}
+.statsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+.statBox {
+  width: 100%;
+  border:1px solid var(--card-border);
+  padding: 1rem;
+  border-radius: 10px;
+  /* box-shadow: 0 4px 12px var(--card-shadow); */
+}
+.statBox h4 {
+  font-weight: 600;
+  margin-top: 0.5rem;
+}
+.statBox p {
+  font-size: 0.95rem;
+  margin-top: 0.2rem;
+}
+
+.icon{
+  margin: auto;
+  font-size: .5rem;
+}
+
+
+
+.clientScrollerWrapper {
+  margin-top: 3rem;
+  text-align: center;
+  overflow: hidden;
+  position: relative;
+}
+
+.clientScroller {
+  overflow: hidden;
+  width: 100%;
+  position: relative;
+}
+
+.clientTrack {
+  display: flex;
+  gap: 5rem;
+  width: max-content;
+  animation: scrollClients 50s linear infinite;
+  will-change: transform;
+}
+
+
+/* Pause animation on hover or touch */
+.clientScroller:hover .clientTrack,
+.clientScroller:active .clientTrack {
+  animation-play-state: paused;
+}
+
+@keyframes scrollClients {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+/* Double up logos to make loop seamless */
+.clientTrack::after {
+  content: '';
+  display: flex;
+  gap: 3rem;
+  width: fit-content;
+}
+
+
+
+
+
+
+/* Responsive */
+@media (max-width: 1000px) {
+  .companySection {
+    padding-top: 2rem;
+  }
+
+  
+  .cardRow {
+    align-items: center;
+  }
+
+  .card{
+    width: 100%;
+  }
+}
+
+@media (max-width: 500px) {
+  .companySection {
+    width: 100%;
+    padding: 1rem 1.5rem;
+  }
+  .statsGrid {
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    width: 100%;
+    gap: 1rem;
+  }
+
+  .statBox h4 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+
+  .cardRow > .card {
+    width: 100%;
+  }
+}
+
+
+@media (max-width: 420px) {
+.companySection {
+    width: 100%;
+    padding: 2rem 1rem;
+  }
+}

@@ -1,0 +1,205 @@
+[
+  {
+    "name": "Marble",
+    "subcategories": [
+      {
+        "name": "Talai white"
+      },
+      {
+        "name": "Wonder White"
+      },
+      {
+        "name": "Banswara White"
+      },
+      {
+        "name": "Jhanjhar White"
+      },
+      {
+        "name": "Agaria White"
+      },
+      {
+        "name": "Morwad White"
+      },
+      {
+        "name": "Makrana",
+        "children": [
+          "white chakdungri",
+          "white albetta"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Imported Marble",
+    "subcategories": [
+      {
+        "name": "Grey",
+        "children": [
+          "Peitra Grey",
+          "Grey William",
+          "Fastasy Grey",
+          "Drift Grey",
+          "Cosmic Grey",
+          "Grey Dyna",
+          "Kandla Grey",
+          "Iceberg Grey",
+          "Mount Grey"
+        ]
+      },
+      {
+        "name": "Beige",
+        "children": [
+          "Dyna Beige",
+          "Bracia Beige",
+          "Bottochino Beige",
+          "Agora Beige",
+          "Azule Beige",
+          "Bellissiomo Beige",
+          "Travertine Beige",
+          "Regal Beige"
+        ]
+      },
+      {
+        "name": "White",
+        "children": [
+          "Vietnam White",
+          "Statuario White",
+          "Signature White",
+          "Opus White",
+          "Lilac White",
+          "Iranian White",
+          "Carara White",
+          "Bianco Lasa White"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Granites",
+    "subcategories": [
+      {
+        "name": "North Indian",
+        "children": [
+          "Jirawal White",
+          "Z Black",
+          "Tiger Skin",
+          "Tan Brown",
+          "R.Black",
+          "Majestik Black",
+          "Cherry Red",
+          "Cateyes",
+          "3D finish",
+          "Multi Red",
+          "K White",
+          "Olivier Green",
+          "Thunder Brown",
+          "Zidane Black"
+        ]
+      },
+      {
+        "name": "Alaska Granites",
+        "children": [
+          "Alaska Pink",
+          "Alaska Black",
+          "Alaska Gold",
+          "Alaska White",
+          "Alaska Blue Dunes",
+          "Alphonso Brown Alaska"
+        ]
+      },
+      {
+        "name": "South Indian",
+        "children": [
+          "Astoria",
+          "Burgundy White",
+          "Burgundy Gold",
+          "Ferraro White",
+          "Lavender Blue",
+          "Moon White",
+          "Multi Red",
+          "Mundari Gold",
+          "Paradizzo",
+          "Statuario Gold",
+          "Statuario White",
+          "Vizag Blue"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tiles",
+    "subcategories": [
+      {
+        "name": "choco"
+      },
+      {
+        "name": "crema"
+      },
+      {
+        "name": "grey"
+      },
+      {
+        "name": "snow white"
+      },
+      {
+        "name": "super white"
+      },
+      {
+        "name": "terrazzo verde"
+      },
+      {
+        "name": "z black"
+      },
+      {
+        "name": "jaisalmer"
+      },
+      {
+        "name": "dark grey matt"
+      },
+      {
+        "name": "light grey"
+      },
+      {
+        "name": "mushroom"
+      },
+      {
+        "name": "spgrey"
+      },
+      {
+        "name": "sproyalverde"
+      },
+      {
+        "name": "steel grey matt"
+      }
+    ]
+  },
+  {
+    "name": "Sandstone",
+    "subcategories": [
+      {
+        "name": "ITA Gold"
+      },
+      {
+        "name": "Jaisalmer Yellow"
+      },
+      {
+        "name": "Khatu Tickwood"
+      },
+      {
+        "name": "Paradizzo Leather"
+      },
+      {
+        "name": "Gwalior Mint"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "Pink"
+      },
+      {
+        "name": "Rainbow"
+      }
+    ]
+  }
+]

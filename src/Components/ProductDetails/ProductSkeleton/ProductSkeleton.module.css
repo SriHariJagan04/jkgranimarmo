@@ -1,0 +1,115 @@
+.detailsWrapper {
+  padding: 2rem;
+  background: var(--primary-bg);
+  color: var(--primary-text);
+}
+
+.mainCard {
+  display: flex;
+  flex-wrap: wrap;
+  background: var(--card-bg);
+  box-shadow: 0 4px 10px var(--card-shadow);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+/* ---------- Skeleton (Theme-aware) ---------- */
+.skeletonBox,
+.skeletonTitle,
+.skeletonLine,
+.skeletonLineSmall,
+.skeletonBtn {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(
+    90deg,
+    var(--skeleton-bg, var(--card-border)) 25%,
+    var(--skeleton-shimmer, var(--card-shadow)) 50%,
+    var(--skeleton-bg, var(--card-border)) 75%
+  );
+  background-size: 200% 100%;
+  animation: skeletonShimmer 1.4s ease-in-out infinite;
+  border-radius: 6px;
+}
+
+/* Shimmer animation */
+@keyframes skeletonShimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+/* Image placeholder */
+.skeletonBox {
+  flex: 1 1 40%;
+  min-width: 300px;
+  height: 350px;
+  border-radius: 12px 0 0 12px;
+  background: linear-gradient(
+    90deg,
+    var(--card-border) 25%,
+    var(--card-shadow) 50%,
+    var(--card-border) 75%
+  );
+}
+
+/* Text placeholders */
+.skeletonTitle {
+  height: 28px;
+  width: 60%;
+  margin-bottom: 12px;
+}
+
+.skeletonLine {
+  height: 18px;
+  width: 80%;
+  margin-bottom: 8px;
+}
+
+.skeletonLineSmall {
+  height: 14px;
+  width: 45%;
+}
+
+/* Buttons */
+.skeletonBtn {
+  height: 36px;
+  width: 120px;
+  border-radius: 6px;
+}
+
+/* Layout */
+.infoSection {
+  flex: 1 1 60%;
+  padding: 1.5rem;
+}
+
+.gridDetails {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem 2rem;
+  margin: 1rem 0;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .mainCard {
+    flex-direction: column;
+  }
+
+  .skeletonBox {
+    height: 250px;
+    border-radius: 12px 12px 0 0;
+  }
+}
+

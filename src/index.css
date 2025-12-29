@@ -1,0 +1,374 @@
+/* =========================
+   Reset + Font Setup
+   ========================= */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", "Poppins", sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* ===== Scrollbar Styling ===== */
+:global(::-webkit-scrollbar) {
+  width: 20px;
+}
+
+::-webkit-scrollbar {
+  width: 8px !important;
+}
+
+:global(::-webkit-scrollbar-track) {
+  background: var(--scrollbar-track, #222);
+}
+
+:global(::-webkit-scrollbar-thumb) {
+  background: var(--scrollbar-thumb, #555);
+  border-radius: 4px;
+}
+
+:global(::-webkit-scrollbar-thumb:hover) {
+  background: var(--scrollbar-thumb-hover, #888);
+}
+
+/* Firefox */
+:global(html) {
+  scrollbar-color: var(--scrollbar-thumb, #555) var(--scrollbar-track, #222);
+  scrollbar-width: thin;
+}
+
+/* =========================
+   Light Theme Variables
+   ========================= */
+:root {
+  /* Backgrounds & Text */
+  --primary-bg: #fdfdfd; /* cleaner white */
+  --secondary-bg: #f6f7f9; /* soft section background */
+  --primary-text: #1a1a1a; /* deep gray instead of black */
+  --secondary-text: #555f66; /* muted text for subtlety */
+
+  /* Navigation */
+  --navbar-bg: #ffffff;
+  --dropdown-bg: #f7f8fa;
+  --mobileMenu-bg: #ffffff;
+
+  /* Links & Highlights */
+  --link-color: #1a1a1a;
+  --active-link: #00c6ff; /* brighter cyan accent */
+  --highlight-color: #00c6ff; /* for headings and CTAs */
+  --heading-highlight: #2086be;
+  --heading-bottom-style: #32e0fb;
+
+  /* Cards */
+  --card-bg: #fff;
+  --card-border: #e0e0e0;
+  --card-text: #1a1a1a;
+  --card-shadow: rgba(0, 0, 0, 0.08);
+  --card-hover-bg: rgba(0, 198, 255, 0.05);
+
+  /* Buttons */
+  --button-primary: #00c6ff; /* stylish cyan */
+  --button-secondary: #333333;
+  --button-text: #ffffff;
+
+  /* CTA Buttons */
+  --quota-btn-bg: #00c6ff;
+  --quota-btn-text: #ffffff;
+  --quota-btn-border: #00b0e0;
+  --quota-btn-hover-bg: #009acc;
+  --quota-btn-hover-text: #ffffff;
+
+  /* Glassmorphism */
+  --glass-bg: rgba(255, 255, 255, 0.15);
+  --glass-border: 1px solid rgba(255, 255, 255, 0.35);
+  --glass-blur: blur(20px);
+
+  /* Testimonial Buttons */
+  --testimonial-btn-bg: #00c6ff;
+  --testimonial-btn-text: #ffffff;
+  --testimonial-btn-hover-bg: transparent;
+  --testimonial-btn-hover-text: #00c6ff;
+  --testimonial-btn-border: #00c6ff;
+
+  /* Scrollbars */
+  --scrollbar-track: #f6f7f9;
+  --scrollbar-thumb: #c0c0c0;
+  --scrollbar-thumb-hover: #999999;
+
+  --skeleton-bg: #e0e0e0;
+  --skeleton-shimmer: #f5f5f5;
+}
+
+/* =========================
+   Dark Theme Variables
+   ========================= */
+body.dark-theme {
+  /* Backgrounds & Text */
+  --primary-bg: #121418; /* slightly warmer black */
+  --secondary-bg: #1e1f25; /* subtle dark section */
+  --primary-text: #e4e6eb; /* soft white */
+  --secondary-text: #a0a4ab; /* muted gray text */
+
+  /* Navigation */
+  --navbar-bg: #1b1d22;
+  --dropdown-bg: #2a2c33;
+  --mobileMenu-bg: #1b1d22;
+
+  /* Links & Highlights */
+  --link-color: #e4e6eb;
+  --active-link: #00c6ff;
+  --highlight-color: #00c6ff;
+  --heading-highlight: #2086be;
+  --heading-bottom-style: #32e0fb;
+
+  /* Cards */
+  --card-bg: #1f2128;
+  --card-border: #323338;
+  --card-text: #e4e6eb;
+  --card-shadow: rgba(0, 0, 0, 0.15);
+  --card-hover-bg: rgba(255, 255, 255, 0.05);
+
+  /* Buttons */
+  --button-primary: #00c6ff;
+  --button-secondary: #e4e6eb;
+  --button-text: #1a1a1a;
+
+  /* CTA Buttons */
+  --quota-btn-bg: #00c6ff;
+  --quota-btn-text: #ffffff;
+  --quota-btn-border: #00b0e0;
+  --quota-btn-hover-bg: #009acc;
+  --quota-btn-hover-text: #ffffff;
+
+  /* Glassmorphism */
+  --glass-bg: rgba(255, 255, 255, 0.08);
+  --glass-border: 1px solid rgba(255, 255, 255, 0.15);
+  --glass-blur: blur(20px);
+
+  /* Testimonial Buttons */
+  --testimonial-btn-bg: #00c6ff;
+  --testimonial-btn-text: #ffffff;
+  --testimonial-btn-hover-bg: transparent;
+  --testimonial-btn-hover-text: #00c6ff;
+  --testimonial-btn-border: #00c6ff;
+
+  --section-bg-alt: #1a1c22;
+
+  /* Scrollbars */
+  --scrollbar-track: #1e1f25;
+  --scrollbar-thumb: #555;
+  --scrollbar-thumb-hover: #888;
+
+  --skeleton-bg: #2a2c33;
+  --skeleton-shimmer: #3a3b44;
+}
+
+html,
+body {
+  height: 100%;
+  scroll-behavior: auto;
+}
+
+body {
+  background-color: var(--primary-bg);
+  color: var(--primary-text);
+}
+
+.appContainer {
+  padding-top: 70px;
+  position: relative;
+}
+
+.enquiryFormBtn {
+  position: fixed;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%) rotate(180deg);
+  writing-mode: vertical-rl;
+  background-color: var(--button-primary);
+  color: var(--button-text);
+  padding: 12px 8px;
+  border-radius: 8px 0 0 8px;
+  font-weight: 600;
+  cursor: pointer;
+  z-index: 1000;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: white;
+}
+
+.enquiryFormBtn:hover svg {
+  animation: bounceArrow 0.6s infinite alternate;
+}
+
+@keyframes bounceArrow {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-5px);
+  }
+}
+
+/* Overlay for modal */
+.enquiryOverlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+  z-index: 1001;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+/* Modal container */
+.enquiryModal {
+  background: var(--primary-bg);
+  border: 1px solid var(--card-border);
+  color: var(--primary-text);
+  border-radius: 12px;
+  padding: 15px;
+  max-width: 600px;
+  max-height: 95vh;
+  /* overflow-y: auto; */
+  width: 100%;
+  position: relative;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+}
+
+/* Scoped Scrollbar Styling */
+.enquiryModal::-webkit-scrollbar {
+  width: 8px;
+}
+
+.enquiryModal::-webkit-scrollbar-track {
+  background: var(--scrollbar-track, #222);
+}
+
+.enquiryModal::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-thumb, #555);
+  border-radius: 4px;
+}
+
+.enquiryModal::-webkit-scrollbar-thumb:hover {
+  background: var(--scrollbar-thumb-hover, #888);
+}
+
+/* Firefox */
+.enquiryModal {
+  scrollbar-color: var(--scrollbar-thumb, #555) var(--scrollbar-track, #222);
+  scrollbar-width: thin;
+}
+
+/* Close Button */
+#closeBtn {
+  position: absolute;
+  top: 8px;
+  right: 4px;
+  font-size: 1.5rem;
+  background: none;
+  border: none;
+  color: rgba(142, 126, 126, 0.819);
+  cursor: pointer;
+  z-index: 10;
+
+  svg {
+    transition: 0.3s;
+  }
+}
+
+#closeBtn svg:hover {
+  scale: 1.1;
+}
+
+@media (max-width: 768px) {
+  .enquiryModal {
+    max-width: 100%;
+    padding: 5px;
+  }
+
+  .enquiryFormBtn {
+    font-size: 0.75rem;
+    padding: 10px 6px;
+  }
+
+  .appContainer {
+    padding-top: 65px;
+  }
+}
+
+.pageTitle {
+  margin-top: 2rem;
+  position: relative;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-weight: 300;
+  font-size: 40px;
+  transition: all 0.4s ease;
+}
+
+/* Small center bar */
+.pageTitle::before {
+  content: "";
+  position: absolute;
+  bottom: -1px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 28px;
+  height: 5px;
+  background-color: var(--heading-bottom-style);
+  border-radius: 999px;
+}
+
+/* Long underline */
+.pageTitle::after {
+  content: "";
+  display: block;
+  width: 120px;
+  height: 2px;
+  margin: 10px auto 0;
+  background: linear-gradient(
+    90deg,
+    var(--heading-highlight),
+    var(--heading-bottom-style)
+  );
+  border-radius: 999px;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes arrowSlide {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(6px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.container {
+  width: 100%;
+  min-height: 100vh;
+  padding: 0 6rem;
+}
+
+@media (max-width: 800px) {
+  .container {
+    padding: 0 0rem;
+  }
+}

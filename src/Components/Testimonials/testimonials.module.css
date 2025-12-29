@@ -1,0 +1,293 @@
+.testimonialsSection {
+  margin: auto;
+  padding: 2rem;
+  text-align: center;
+  border-radius: 12px;
+  max-width: 900px;
+}
+
+.modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.5); /* semi-transparent black */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000; /* above other content */
+}
+
+.modalContent {
+  background: var(--secondary-bg);
+  padding: 1.5rem;
+  border-radius: 8px;
+  max-width: 500px;
+  width: 90%;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  position: relative;
+}
+
+
+.slider {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: max-content;
+}
+
+.testimonialCard {
+  /* Keep your existing styles */
+  opacity: 0;
+  transform: scale(0.95);
+  transition: all 0.5s ease;
+  position: absolute;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 10px;
+  max-width: 700px;
+  width: 100%;
+  border:1px solid var(--card-border);
+  color: var(--card-text);
+  box-shadow: 0 4px 12px var(--card-shadow);
+
+  /* Add these for better text wrapping and spacing */
+  word-wrap: break-word; /* break long words */
+  white-space: pre-wrap; /* preserve line breaks and wrap */
+  overflow-wrap: break-word; /* additional support for word breaking */
+  max-height: max-content; /* limit max height */
+  overflow-y: auto; /* scroll if too tall */
+}
+
+.active {
+  opacity: 1;
+  transform: scale(1);
+  position: relative;
+}
+
+.topRow {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+}
+
+.titleBlock {
+  text-align: left;
+}
+
+.titleBlock h4 {
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.role {
+  font-size: 0.9rem;
+  color: var(--secondary-text);
+}
+
+.stars {
+  position: absolute;
+  top: 0.8rem;
+  right: 1rem;
+  display: flex;
+  gap: 3px;
+  z-index: 2;
+  pointer-events: none;
+}
+
+.message {
+  font-size: 1rem;
+  font-style: italic;
+  margin: 1rem 0;
+  color: var(--primary-text);
+}
+
+.links {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.links a {
+  text-decoration: none;
+  font-size: 0.9rem;
+  color: var(--heading-highlight);
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.links a:hover {
+  color: var(--active-link);
+}
+
+.dots {
+  margin-top: 1.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
+
+.dot {
+  width: 12px;
+  height: 12px;
+  background-color: var(--card-shadow);
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.activeDot {
+  background-color: var(--highlight-color);
+  transform: scale(1.2);
+}
+
+/* Container for the action buttons */
+.actions {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: flex-end;
+}
+
+/* Edit Button */
+.editBtn {
+  border-color: #007bff;
+  color: #007bff;
+  padding: 4px;
+  border-radius: 6px;
+  background-color: transparent;
+  cursor: pointer;
+  transition: 300ms;
+}
+.editBtn:hover {
+  background-color: #007bff;
+  color: #fff;
+}
+
+/* Delete Button */
+.deleteBtn {
+  border-color: #dc3545;
+  color: #dc3545;
+  padding: 4px;
+  border-radius: 6px;
+  background-color: transparent;
+  cursor: pointer;
+
+}
+
+.deleteBtn:hover {
+  background-color: #dc3545;
+  color: #fff;
+  transition: 300ms;
+}
+
+@media (max-width: 768px) {
+  .testimonialCard {
+    padding: 1rem;
+    max-width: 90%;
+  }
+
+  .logo {
+    width: 48px;
+    height: 48px;
+  }
+
+  .titleBlock h4 {
+    font-size: 1rem;
+  }
+
+  .role {
+    font-size: 0.85rem;
+  }
+
+  .message {
+    font-size: 0.95rem;
+    margin: 0.8rem 0;
+  }
+
+  .links {
+    flex-direction: column;
+    gap: 0.6rem;
+  }
+
+  .links a {
+    font-size: 0.85rem;
+  }
+
+  .slider {
+    height: auto;
+    min-height: 250px;
+  }
+
+  .stars {
+    top: 0.6rem;
+    right: 0.8rem;
+  }
+}
+
+@media (max-width: 480px) {
+
+  .slider {
+    height: 500px;
+  }
+
+  .testimonialsSection {
+    width: 100%;
+    padding: 2rem 0;
+  }
+
+  .topRow {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .titleBlock {
+    text-align: center;
+  }
+
+  .message {
+    font-size: 0.9rem;
+  }
+
+  .logo {
+    width: 42px;
+    height: 42px;
+  }
+
+  .slider {
+    min-height: 260px;
+    width: 100%;
+  }
+
+  .links {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .dots {
+    gap: 6px;
+  }
+
+  .dot {
+    width: 10px;
+    height: 10px;
+  }
+
+  .stars {
+    top: 0.6rem;
+    right: 0.8rem;
+  }
+}

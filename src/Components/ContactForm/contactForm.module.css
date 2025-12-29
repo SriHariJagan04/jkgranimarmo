@@ -1,0 +1,108 @@
+/* =========================
+   Contact Form Styles
+   ========================= */
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 100%;
+}
+
+.row {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.row > input,
+.row > select,
+textarea {
+  flex: 1;
+  padding: 14px 16px;
+  font-size: 1rem;
+  border: 1.5px solid #ccc;
+  border-radius: 12px;
+  background-color: var(--card-bg);
+  color: var(--card-text);
+  transition: border 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
+  outline: none;
+}
+
+.row > input:focus,
+textarea:focus {
+  border: 1px solid var(--button-primary);
+  box-shadow: 0 4px 14px rgba(0, 198, 255, 0.25);
+  background-color: var(--card-bg);
+}
+
+textarea {
+  resize: vertical;
+  height: 140px;
+}
+
+.submitBtn {
+  padding: 14px 24px;
+  background-color: var(--button-primary);
+  color: var(--button-text);
+  border: none;
+  border-radius: 25px;
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+  width: fit-content;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  box-shadow: 0 4px 12px rgba(0, 198, 255, 0.2);
+}
+
+.submitBtn:hover {
+  background-color: var(--quota-btn-hover-bg);
+  color: var(--quota-btn-hover-text);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(0, 198, 255, 0.3);
+}
+
+.submitBtn:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.error {
+  color: #ff4d4f; /* brighter error red */
+  font-size: 0.875rem;
+  margin-top: -6px;
+}
+
+.success {
+  color: #28a745; /* green success */
+  font-size: 0.95rem;
+  margin-top: 6px;
+  font-weight: 500;
+  transition: opacity 0.3s ease;
+}
+
+/* Responsive */
+@media (max-width: 800px) {
+  .row {
+    flex-direction: column;
+  }
+
+  .submitBtn {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+@media (max-width: 500px) {
+  .row > input,
+  textarea {
+    padding: 12px 14px;
+    font-size: 0.95rem;
+  }
+
+  .submitBtn {
+    padding: 12px 18px;
+    font-size: 0.95rem;
+  }
+}

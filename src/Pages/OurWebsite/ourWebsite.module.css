@@ -1,0 +1,275 @@
+/* =========================
+   OurWebsite Component Styling
+   ========================= */
+
+.container {
+  width: 100%;
+  min-height: max-content;
+  padding: 4rem 6vw;
+  background-color: var(--primary-bg);
+  color: var(--primary-text);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* =========================
+   About Us Card
+   ========================= */
+.cardContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4rem;
+  flex-wrap: wrap;
+  padding-bottom: 3rem;
+  overflow: hidden;
+}
+
+.cardImage {
+  flex: 1 1 400px;
+  display: flex;
+  justify-content: center;
+}
+
+.cardImage img {
+  width: 100%;
+  max-width: 480px;
+  border-radius: 16px;
+  transition: transform 0.5s ease, box-shadow 0.5s ease;
+}
+
+
+.cardDescription {
+  flex: 1 1 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 1.8rem;
+}
+
+.cardDescription h1 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 700;
+  color: var(--highlight-color);
+  line-height: 1.2;
+}
+
+.cardDescription p {
+  font-size: clamp(1rem, 2vw, 1.2rem);
+  line-height: 1.6;
+  color: var(--card-text);
+  font-weight: 400;
+  text-align: justify;
+  letter-spacing: 0.3px;
+}
+
+.viewMoreBtn {
+  display: inline-flex;
+  align-items: center;
+  width: max-content;
+  gap: 12px;
+  padding: 0.75rem 1.6rem;
+  font-size: 1rem;
+  font-weight: 600;
+  background-color: var(--quota-btn-bg);
+  color: var(--quota-btn-text);
+  border: 2px solid var(--quota-btn-border);
+  border-radius: 12px;
+  cursor: pointer;
+  transition: all 0.35s ease;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  box-shadow: 0 6px 16px rgba(0, 188, 212, 0.2);
+}
+
+.viewMoreBtn:hover {
+  background-color: var(--quota-btn-hover-bg);
+  color: var(--quota-btn-hover-text);
+  transform: translateY(-3px);
+  box-shadow: 0 0 8px 1px rgba(0, 188, 212, 0.35);
+}
+
+.icon {
+  display: inline-flex;
+}
+
+.viewMoreBtn:hover .icon {
+  animation: arrowSlide 0.8s ease-in-out infinite;
+}
+
+@keyframes arrowSlide {
+  0% { transform: translateX(0); }
+  50% { transform: translateX(6px); }
+  100% { transform: translateX(0); }
+}
+
+/* =========================
+   Popular Products Hero
+   ========================= */
+.popularProductsContainer {
+  width: 100%;
+  min-height: 50vh;
+  position: relative;
+  margin-top: 80px;
+}
+
+.popularProductsHero {
+  position: relative;
+  width: 100%;
+  height: 280px;
+  background-image: url("https://wallpapercave.com/wp/wp15184770.webp");
+  background-size: cover;
+  background-position: center;
+  border-radius: 16px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.25);
+  z-index: 1;
+}
+
+.popularProductsHero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(6px);
+  z-index: 0;
+}
+
+.popularProductsHero h1 {
+  position: relative;
+  z-index: 1;
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 700;
+  color: #fff;
+  text-shadow: 0px 2px 8px rgba(0, 0, 0, 0.6);
+}
+
+/* =========================
+   Popular Products Cards
+   ========================= */
+.popularProductsCardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+  padding-top: 5rem;
+  z-index: 2;
+  position: relative;
+  width: 100%;
+}
+
+.productCard {
+  border:1px solid var(--card-border);
+  border-radius: 16px;
+  box-shadow: 0 0 10px 1px var(--card-shadow);
+  overflow: hidden;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  cursor: pointer;
+}
+
+.productCard:hover {
+  transform: translateY(-6px) scale(1.03);
+  box-shadow: 0 0 16px 3px rgba(0, 0, 0, 0.25);
+}
+
+.productCard img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 12px 12px 0 0;
+  transition: transform 0.4s ease;
+}
+
+.productCard:hover img {
+  transform: scale(1.05);
+}
+
+.productCard h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--primary-text);
+  text-align: center;
+  padding: 0.8rem 1rem 0.5rem;
+}
+
+.cardActions {
+  display: flex;
+  gap: 0.8rem;
+  padding: 0.5rem 1rem 1rem;
+}
+
+.enquiryBtn,
+.viewBtn {
+  flex: 1;
+  padding: 0.55rem 0.8rem;
+  font-size: 0.7rem;
+  font-weight: 600;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: all 0.35s ease;
+  border: 2px solid var(--quota-btn-border);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.enquiryBtn {
+  background-color: var(--quota-btn-bg);
+  color: var(--quota-btn-text);
+}
+
+.enquiryBtn:hover {
+  background-color: var(--quota-btn-hover-bg);
+  color: var(--quota-btn-hover-text);
+}
+
+.viewBtn {
+  background-color: transparent;
+  border: 2px solid var(--card-text);
+  color: var(--card-text);
+}
+
+.viewBtn:hover {
+  background-color: var(--button-secondary);
+  color: var(--primary-bg);
+}
+
+/* =========================
+   Responsive
+   ========================= */
+@media (max-width: 1000px) {
+  .cardContainer {
+    flex-direction: column;
+    gap: 3rem;
+    text-align: center;
+  }
+
+  .cardImage, .cardDescription {
+    flex: 1 1 100%;
+  }
+
+  .popularProductsHero h1 {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 658px) {
+  .container {
+    padding: 4rem 1rem;
+  }
+
+  .popularProductsHero {
+    border-radius: 12px;
+  }
+
+  .popularProductsCardContainer {
+    gap: 1.5rem;
+  }
+
+  .productCard {
+    width: 100%;
+  }
+}

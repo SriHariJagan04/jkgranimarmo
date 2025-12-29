@@ -1,0 +1,311 @@
+/* ===============================
+   CONTACT INFO – PREMIUM STYLES
+   =============================== */
+
+.contactInfoContainer {
+  padding: 4rem 0;
+  background: var(--primary-bg);
+}
+
+/* ===============================
+   INFO CARDS
+   =============================== */
+
+.infoSection {
+  position: relative;
+}
+
+.cardsWrapper {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 36px;
+}
+
+/* ---------- Base Card ---------- */
+.card {
+  position: relative;
+  width: 280px;
+  padding: 56px 32px 40px;
+  border-radius: 18px;
+  border:1px solid var(--card-border);
+  text-align: center;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  isolation: isolate;
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: translateY(-12px);
+  box-shadow: 0 30px 70px var(--card-shadow);
+}
+
+/* ---------- Animated Gradient Border ---------- */
+.card::before {
+  content: "";
+  position: absolute;
+  inset: -2px;
+  border-radius: inherit;
+  background-size: 300% 300%;
+  z-index: -1;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+.card:hover::before {
+  opacity: 1;
+  animation: gradientBorder 4s linear infinite;
+}
+
+@keyframes gradientBorder {
+  0% { background-position: 0% 50%; }
+  100% { background-position: 300% 50%; }
+}
+
+/* ---------- Gradient Variants ---------- */
+.locationCard {
+  border-color: #3b82f6;
+}
+
+.mobileCard {
+  border-color: #22c55e;
+}
+
+.emailCard {
+  border-color: #f59e0b;
+}
+
+.webCard {
+  border-color: #a855f7;
+}
+
+
+.locationCard:hover {
+  box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.3),
+              0 12px 30px rgba(59, 130, 246, 0.25);
+}
+
+.mobileCard:hover {
+  box-shadow: 0 0 0 2px rgba(34, 197, 94, 0.3),
+              0 12px 30px rgba(34, 197, 94, 0.25);
+}
+
+.emailCard:hover {
+  box-shadow: 0 0 0 2px rgba(245, 158, 11, 0.3),
+              0 12px 30px rgba(245, 158, 11, 0.25);
+}
+
+.webCard:hover {
+  box-shadow: 0 0 0 2px rgba(168, 85, 247, 0.3),
+              0 12px 30px rgba(168, 85, 247, 0.25);
+}
+
+
+/* ===============================
+   ICON STYLES
+   =============================== */
+
+.iconWrapper {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  margin: -85px auto 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border:1px solid var(--card-border);
+  background-color: var(--primary-bg);
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+/* Icon colors */
+.locationIcon { color: #3b82f6; }
+.mobileIcon { color: #22c55e; }
+.emailIcon { color: #f59e0b; }
+.webIcon { color: #a855f7; }
+
+/* Icon hover glow */
+.card:hover .iconWrapper {
+  transform: scale(1.15);
+}
+
+.card:hover .locationIcon {
+  box-shadow: 0 0 24px rgba(59, 130, 246, 0.6);
+  border: .2px solid #3b82f6;
+}
+
+.card:hover .mobileIcon {
+  box-shadow: 0 0 24px rgba(34, 197, 94, 0.6);
+  border: .2px solid #22c55e;
+}
+
+.card:hover .emailIcon {
+  box-shadow: 0 0 24px rgba(245, 158, 11, 0.6);
+  border: .2px solid #f59e0b;
+}
+
+.card:hover .webIcon {
+  box-shadow: 0 0 24px rgba(168, 85, 247, 0.6);
+  border: .2px solid #a855f7;
+}
+
+
+/* ===============================
+   TEXT
+   =============================== */
+
+.card h3 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 6px;
+  color: var(--primary-text);
+}
+
+.card p {
+  font-size: 14px;
+  color: var(--secondary-text);
+  line-height: 1.6;
+}
+
+/* ===============================
+   NEWSLETTER SECTION
+   =============================== */
+
+.newsletterSection {
+  margin-top: 5rem;
+  padding: 4rem 1rem;
+  text-align: center;
+  background: linear-gradient(
+    135deg,
+    #0f2027,
+    #203a43,
+    #2c5364
+  );
+}
+
+.newsletterSection h2 {
+  font-size: 28px;
+  font-weight: 600;
+  color: #ffffff;
+  margin-bottom: 24px;
+  letter-spacing: 1px;
+}
+
+/* ---------- Newsletter Form ---------- */
+.form {
+  max-width: 620px;
+  margin: auto;
+  display: flex;
+  background: linear-gradient(180deg, #ffffff, #f9fafb);
+  border-radius: 999px;
+  overflow: hidden;
+  box-shadow:
+    0 10px 30px rgba(0, 0, 0, 0.15),
+    0 0 0 1px rgba(255, 255, 255, 0.6) inset;
+  transition: box-shadow 0.3s ease;
+}
+
+/* Input */
+.form input {
+  flex: 1;
+  padding: 18px 22px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  color: #111827;
+  background: transparent;
+  transition: color 0.3s ease;
+}
+
+.form input::placeholder {
+  color: #9ca3af;
+}
+
+/* Button */
+.form button {
+  padding: 0 42px;
+  background: linear-gradient(
+    135deg,
+    var(--button-primary),
+    #00bcd4
+  );
+  color: #ffffff;
+  border: 1px solid transparent; /* prevents layout shift */
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+  border-radius: 0 999px 999px 0;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.3s ease,
+    border-color 0.3s ease,
+    background 0.3s ease;
+}
+
+/* Hover */
+.form button:hover {
+  transform: translateY(-1px);
+  border-color: var(--button-primary);
+  box-shadow:
+    0 10px 25px rgba(0, 188, 212, 0.45),
+    0 0 0 3px rgba(0, 188, 212, 0.15);
+}
+
+/* Active (click) */
+.form button:active {
+  transform: translateY(0);
+  box-shadow: 0 6px 18px rgba(0, 188, 212, 0.35);
+}
+
+/* Focus within (professional UX) */
+.form:focus-within {
+  box-shadow:
+    0 12px 35px rgba(0, 188, 212, 0.25),
+    0 0 0 2px rgba(0, 188, 212, 0.3);
+}
+
+/* Disabled */
+.form button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  box-shadow: none;
+}
+
+
+/* ===============================
+   RESPONSIVE
+   =============================== */
+
+@media (max-width: 768px) {
+  .cardsWrapper {
+    gap: 28px;
+  }
+}
+
+@media (max-width: 500px) {
+  .cardsWrapper {
+    flex-direction: column;
+    align-items: center;
+    gap: 35px;
+  }
+
+  .card {
+    width: 92%;
+  }
+
+  .form {
+    flex-direction: column;
+    border-radius: 22px;
+  }
+
+  .form input {
+    padding: 16px;
+  }
+
+  .form button {
+    width: 100%;
+    padding: 14px 0;
+    border-radius: 0;
+  }
+}
