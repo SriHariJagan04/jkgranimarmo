@@ -6,7 +6,7 @@ import LoadingScreen from "./Components/LoadingScreen";
 import ErrorBoundary from "./Components/ErrorBoundary";
 import EnquiryForm from "./EnquiryForm/EnquiryForm";
 import ScrollToTop from "./Utils/ScrollToTop";
-import usePageSEO from "./Utils/usePageSEO.JS";
+import usePageSEO from "./Utils/usePageSEO";
 
 /* =========================
    LAZY IMPORTS
