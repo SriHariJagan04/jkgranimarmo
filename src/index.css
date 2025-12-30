@@ -9,7 +9,20 @@
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-/* ===== Scrollbar Styling ===== */
+html,
+body {
+  height: 100%;
+  scroll-behavior: auto;
+}
+
+body {
+  background-color: var(--primary-bg);
+  color: var(--primary-text);
+}
+
+/* =========================
+   Scrollbar Styling
+   ========================= */
 :global(::-webkit-scrollbar) {
   width: 20px;
 }
@@ -41,56 +54,41 @@
    Light Theme Variables
    ========================= */
 :root {
-  /* Backgrounds & Text */
-  --primary-bg: #fdfdfd; /* cleaner white */
-  --secondary-bg: #f6f7f9; /* soft section background */
-  --primary-text: #1a1a1a; /* deep gray instead of black */
-  --secondary-text: #555f66; /* muted text for subtlety */
+  --primary-bg: #fdfdfd;
+  --secondary-bg: #f6f7f9;
+  --primary-text: #1a1a1a;
+  --secondary-text: #555f66;
 
-  /* Navigation */
   --navbar-bg: #ffffff;
   --dropdown-bg: #f7f8fa;
   --mobileMenu-bg: #ffffff;
 
-  /* Links & Highlights */
   --link-color: #1a1a1a;
-  --active-link: #00c6ff; /* brighter cyan accent */
-  --highlight-color: #00c6ff; /* for headings and CTAs */
+  --active-link: #00c6ff;
+  --highlight-color: #00c6ff;
   --heading-highlight: #2086be;
   --heading-bottom-style: #32e0fb;
 
-  /* Cards */
-  --card-bg: #fff;
+  --card-bg: #ffffff;
   --card-border: #e0e0e0;
   --card-text: #1a1a1a;
   --card-shadow: rgba(0, 0, 0, 0.08);
   --card-hover-bg: rgba(0, 198, 255, 0.05);
 
-  /* Buttons */
-  --button-primary: #00c6ff; /* stylish cyan */
+  --button-primary: #00c6ff;
   --button-secondary: #333333;
   --button-text: #ffffff;
 
-  /* CTA Buttons */
   --quota-btn-bg: #00c6ff;
   --quota-btn-text: #ffffff;
   --quota-btn-border: #00b0e0;
   --quota-btn-hover-bg: #009acc;
   --quota-btn-hover-text: #ffffff;
 
-  /* Glassmorphism */
   --glass-bg: rgba(255, 255, 255, 0.15);
   --glass-border: 1px solid rgba(255, 255, 255, 0.35);
   --glass-blur: blur(20px);
 
-  /* Testimonial Buttons */
-  --testimonial-btn-bg: #00c6ff;
-  --testimonial-btn-text: #ffffff;
-  --testimonial-btn-hover-bg: transparent;
-  --testimonial-btn-hover-text: #00c6ff;
-  --testimonial-btn-border: #00c6ff;
-
-  /* Scrollbars */
   --scrollbar-track: #f6f7f9;
   --scrollbar-thumb: #c0c0c0;
   --scrollbar-thumb-hover: #999999;
@@ -103,58 +101,41 @@
    Dark Theme Variables
    ========================= */
 body.dark-theme {
-  /* Backgrounds & Text */
-  --primary-bg: #121418; /* slightly warmer black */
-  --secondary-bg: #1e1f25; /* subtle dark section */
-  --primary-text: #e4e6eb; /* soft white */
-  --secondary-text: #a0a4ab; /* muted gray text */
+  --primary-bg: #121418;
+  --secondary-bg: #1e1f25;
+  --primary-text: #e4e6eb;
+  --secondary-text: #a0a4ab;
 
-  /* Navigation */
   --navbar-bg: #1b1d22;
   --dropdown-bg: #2a2c33;
   --mobileMenu-bg: #1b1d22;
 
-  /* Links & Highlights */
   --link-color: #e4e6eb;
   --active-link: #00c6ff;
   --highlight-color: #00c6ff;
   --heading-highlight: #2086be;
   --heading-bottom-style: #32e0fb;
 
-  /* Cards */
   --card-bg: #1f2128;
   --card-border: #323338;
   --card-text: #e4e6eb;
   --card-shadow: rgba(0, 0, 0, 0.15);
   --card-hover-bg: rgba(255, 255, 255, 0.05);
 
-  /* Buttons */
   --button-primary: #00c6ff;
   --button-secondary: #e4e6eb;
   --button-text: #1a1a1a;
 
-  /* CTA Buttons */
   --quota-btn-bg: #00c6ff;
   --quota-btn-text: #ffffff;
   --quota-btn-border: #00b0e0;
   --quota-btn-hover-bg: #009acc;
   --quota-btn-hover-text: #ffffff;
 
-  /* Glassmorphism */
   --glass-bg: rgba(255, 255, 255, 0.08);
   --glass-border: 1px solid rgba(255, 255, 255, 0.15);
   --glass-blur: blur(20px);
 
-  /* Testimonial Buttons */
-  --testimonial-btn-bg: #00c6ff;
-  --testimonial-btn-text: #ffffff;
-  --testimonial-btn-hover-bg: transparent;
-  --testimonial-btn-hover-text: #00c6ff;
-  --testimonial-btn-border: #00c6ff;
-
-  --section-bg-alt: #1a1c22;
-
-  /* Scrollbars */
   --scrollbar-track: #1e1f25;
   --scrollbar-thumb: #555;
   --scrollbar-thumb-hover: #888;
@@ -163,70 +144,86 @@ body.dark-theme {
   --skeleton-shimmer: #3a3b44;
 }
 
-html,
-body {
-  height: 100%;
-  scroll-behavior: auto;
-}
-
-body {
-  background-color: var(--primary-bg);
-  color: var(--primary-text);
-}
-
+/* =========================
+   Layout Containers
+   ========================= */
 .appContainer {
   padding-top: 70px;
   position: relative;
 }
 
+.container {
+  width: 100%;
+  min-height: 100vh;
+  padding: 0 6rem;
+}
+
+/* =========================
+   Floating Enquiry Button
+   ========================= */
 .enquiryFormBtn {
   position: fixed;
   top: 50%;
   right: 0;
   transform: translateY(-50%) rotate(180deg);
   writing-mode: vertical-rl;
-  background-color: var(--button-primary);
-  color: var(--button-text);
-  padding: 12px 8px;
-  border-radius: 8px 0 0 8px;
-  font-weight: 600;
-  cursor: pointer;
-  z-index: 1000;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+
   display: flex;
   align-items: center;
   gap: 6px;
-  color: white;
+
+  padding: 6px 4px;
+  font-weight: 600;
+  font-size: 0.7rem;
+  letter-spacing: 0.6px;
+
+  color: var(--button-text);
+
+  background: linear-gradient(
+    180deg,
+    rgba(0, 198, 255, 0.95),
+    rgba(0, 154, 204, 0.95)
+  );
+
+  backdrop-filter: var(--glass-blur);
+  border-radius: 0 12px 12px 0;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+  z-index: 1000;
+
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
 }
 
-.enquiryFormBtn:hover svg {
+.enquiryFormBtn:hover {
+  transform: translateY(-50%) rotate(180deg) translateX(-4px);
+  box-shadow: 0 0 14px rgba(0, 198, 255, 0.45);
+}
+
+.enquiryFormBtn svg {
+  font-size: 1rem !important;
+}
+
+.enquiryFormBtn svg {
   animation: bounceArrow 0.6s infinite alternate;
 }
 
-@keyframes bounceArrow {
-  0% {
-    transform: translateY(0);
-  }
-  100% {
-    transform: translateY(-5px);
-  }
-}
-
-/* Overlay for modal */
+/* =========================
+   Enquiry Modal
+   ========================= */
 .enquiryOverlay {
   position: fixed;
   inset: 0;
   background: rgba(0, 0, 0, 0.6);
   backdrop-filter: blur(4px);
   z-index: 1001;
+
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  padding: 20px;
 }
 
-/* Modal container */
 .enquiryModal {
   background: var(--primary-bg);
   border: 1px solid var(--card-border);
@@ -237,82 +234,82 @@ body {
   max-height: 95vh;
   overflow-y: auto;
   width: 100%;
-  position: relative;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+  position: relative;
 }
 
-/* Scoped Scrollbar Styling */
-.enquiryModal::-webkit-scrollbar {
-  width: 8px;
-}
-
-.enquiryModal::-webkit-scrollbar-track {
-  background: var(--scrollbar-track, #222);
-}
-
-.enquiryModal::-webkit-scrollbar-thumb {
-  background: var(--scrollbar-thumb, #555);
-  border-radius: 4px;
-}
-
-.enquiryModal::-webkit-scrollbar-thumb:hover {
-  background: var(--scrollbar-thumb-hover, #888);
-}
-
-/* Firefox */
-.enquiryModal {
-  scrollbar-color: var(--scrollbar-thumb, #555) var(--scrollbar-track, #222);
-  scrollbar-width: thin;
-}
-
-/* Close Button */
+/* =========================
+   Modal Close Button
+   ========================= */
 #closeBtn {
   position: absolute;
   top: 8px;
-  right: 4px;
-  font-size: 1.5rem;
-  background: none;
+  right: 8px;
+
+  width: 36px;
+  height: 36px;
+
+  background: transparent;
   border: none;
-  color: rgba(142, 126, 126, 0.819);
+  border-radius: 50%;
+
+  color: var(--secondary-text);
   cursor: pointer;
-  z-index: 10;
 
-  svg {
-    transition: 0.3s;
-  }
+  transition:
+    background-color 0.25s ease,
+    transform 0.2s ease,
+    box-shadow 0.25s ease,
+    color 0.25s ease;
 }
 
-#closeBtn svg:hover {
-  scale: 1.1;
+/* Icon */
+#closeBtn svg {
+  font-size: 1.4rem;
+  pointer-events: none;
+  transition: transform 0.25s ease;
 }
 
-@media (max-width: 768px) {
-  .enquiryModal {
-    max-width: 100%;
-    padding: 5px;
-  }
-
-  .enquiryFormBtn {
-    font-size: 0.75rem;
-    padding: 10px 6px;
-  }
-
-  .appContainer {
-    padding-top: 65px;
-  }
+/* Hover – professional glass highlight */
+#closeBtn:hover {
+  background: rgba(0, 198, 255, 0.12);
+  color: var(--highlight-color);
+  box-shadow: 0 0 8px 2px rgba(0, 198, 255, 0.25);
+  transform: scale(1.05);
 }
 
+/* Active click */
+#closeBtn:active {
+  transform: scale(0.95);
+  box-shadow: 0 2px 6px rgba(0, 198, 255, 0.25);
+}
+
+/* Keyboard accessibility */
+#closeBtn:focus-visible {
+  outline: none;
+  box-shadow:
+    0 0 0 3px rgba(0, 198, 255, 0.35),
+    0 4px 14px rgba(0, 198, 255, 0.3);
+}
+
+/* Dark theme fine-tuning */
+body.dark-theme #closeBtn:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+
+/* =========================
+   Page Title
+   ========================= */
 .pageTitle {
   margin-top: 2rem;
-  position: relative;
   text-align: center;
   font-family: "Raleway", sans-serif;
   font-weight: 300;
   font-size: 40px;
-  transition: all 0.4s ease;
+  position: relative;
 }
 
-/* Small center bar */
 .pageTitle::before {
   content: "";
   position: absolute;
@@ -325,7 +322,6 @@ body {
   border-radius: 999px;
 }
 
-/* Long underline */
 .pageTitle::after {
   content: "";
   display: block;
@@ -340,35 +336,39 @@ body {
   border-radius: 999px;
 }
 
-@keyframes fadeIn {
+/* =========================
+   Animations
+   ========================= */
+@keyframes bounceArrow {
   from {
-    opacity: 0;
+    transform: translateY(0);
   }
   to {
-    opacity: 1;
+    transform: translateY(-5px);
   }
 }
 
-@keyframes arrowSlide {
-  0% {
-    transform: translateX(0);
-  }
-  50% {
-    transform: translateX(6px);
-  }
-  100% {
-    transform: translateX(0);
-  }
-}
-
-.container {
-  width: 100%;
-  min-height: 100vh;
-  padding: 0 6rem;
-}
-
-@media (max-width: 800px) {
+/* =========================
+   Responsive
+   ========================= */
+@media (max-width: 768px) {
   .container {
-    padding: 0 0rem;
+    padding: 0;
+  }
+
+  .enquiryFormBtn {
+    font-size: 0.75rem;
+    padding: 10px 6px;
+  }
+
+  .appContainer {
+    padding-top: 65px;
+  }
+}
+
+@media (max-width: 768px) {
+  .enquiryFormBtn {
+    font-size: 0.6rem;
+    padding: 10px 0px;
   }
 }

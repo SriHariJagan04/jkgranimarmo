@@ -83,28 +83,101 @@
   z-index: 1;
   margin-bottom: 1.5rem;
 }
+
+/* =========================
+   Testimonial Button
+   ========================= */
 .testimonialBtn {
   position: relative;
-  color: var(--testimonial-btn-text);
-  background-color: var(--testimonial-btn-bg);
-  border: 2px solid var(--testimonial-btn-border);
-  padding: 0.6rem 1.4rem;
-  font-weight: 600;
-  border-radius: 6px;
-  z-index: 1;
   display: inline-flex;
   align-items: center;
-  gap: 6px;
+  gap: 8px;
+
+  padding: 0.65rem 1.6rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+
+  color: var(--button-text);
+  background: linear-gradient(
+    135deg,
+    var(--highlight-color),
+    var(--heading-bottom-style)
+  );
+
+  border: 2px solid var(--highlight-color);
+  border-radius: 8px;
+
   cursor: pointer;
   overflow: hidden;
+  z-index: 1;
 
-  transition: 0.3s;
+  box-shadow:
+    0 0 6px 18px var(--card-shadow),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.15);
+
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.35s ease,
+    color 0.35s ease,
+    background 0.35s ease;
 }
 
+/* Light gloss */
+.testimonialBtn::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+
+  background: linear-gradient(
+    120deg,
+    rgba(255, 255, 255, 0.45),
+    transparent 65%
+  );
+
+  opacity: 0;
+  transition: opacity 0.35s ease;
+  z-index: -1;
+}
+
+/* Hover */
 .testimonialBtn:hover {
-  background-color: var(--testimonial-btn-hover-bg);
-  color: var(--testimonial-btn-hover-text);
-  box-shadow: 0 0 12px var(--testimonial-btn-border);
+  background: transparent;
+  color: var(--highlight-color);
+  transform: translateY(-2px);
+
+  box-shadow:
+    0 0 10px 2px rgba(0, 198, 255, 0.45),
+    inset 0 0 0 1px var(--highlight-color);
+}
+
+.testimonialBtn:hover::before {
+  opacity: 1;
+}
+
+/* Active */
+.testimonialBtn:active {
+  transform: translateY(0);
+  box-shadow:
+    0 6px 16px rgba(0, 198, 255, 0.35);
+}
+
+/* Focus (Accessibility) */
+.testimonialBtn:focus-visible {
+  outline: none;
+  box-shadow:
+    0 0 0 3px rgba(0, 198, 255, 0.35),
+    0 8px 26px rgba(0, 198, 255, 0.45);
+}
+
+/* Icon animation */
+.testimonialBtn svg {
+  font-size: 1.1rem;
+  transition: transform 0.3s ease;
+}
+
+.testimonialBtn:hover svg {
+  transform: translateX(4px);
 }
 
 .arrow {

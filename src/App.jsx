@@ -67,7 +67,7 @@ const App = () => {
       {/* Floating Enquiry Button */}
       {!showForm && (
         <button className="enquiryFormBtn" onClick={toggleForm}>
-          <ArrowBigDownDash />
+          <ArrowBigDownDash size={20}/>
           Submit Your Requirement
         </button>
       )}

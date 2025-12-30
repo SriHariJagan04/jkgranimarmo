@@ -573,7 +573,7 @@ const Navbar = () => {
       <div className={styles.logo}>
         <Link to="/">
           <img
-            src="/Images/logo2.png"
+            src="/Images/logo.png"
             alt="Company logo"
             width="200"
             height="40"

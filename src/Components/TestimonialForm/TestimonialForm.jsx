@@ -189,16 +189,6 @@ export default function TestimonialForm({ initialData = null, onClose }) {
         <button type="submit" className={styles.button} disabled={loading}>
           {loading ? (initialData ? "Saving..." : "Submitting...") : initialData ? "Update" : "Submit"}
         </button>
-        {onClose && (
-          <button
-            type="button"
-            onClick={onClose}
-            className={`${styles.button} ${styles.cancelButton}`}
-            disabled={loading}
-          >
-            Cancel
-          </button>
-        )}
       </div>
 
       {errors.form && <p style={{ color: "red", marginTop: "0.5rem" }}>{errors.form}</p>}
