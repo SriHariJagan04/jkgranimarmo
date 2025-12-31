@@ -46,11 +46,11 @@ const SLUG_DESCRIPTIONS = {
     description: "Best Morwad White Marble Supplier in India – premium quality marble, elegant finish, trusted sourcing, and timely delivery for luxurious and timeless spaces.",
   },
   "marble/makrana-white-chakdungri": {
-    title: "Best Makrana White Chakdungri Marble Supplier in India",
+    title: "Best Makrana Marble Supplier​ in India",
     description: "Best Makrana Marble Supplier in India – authentic premium marble, exquisite finish, reliable sourcing, and timely delivery for luxurious, timeless, and elegant spaces.",
   },
   "marble/makrana-white-albetta": {
-    title: "Best Makrana White Albetta Marble Supplier in India",
+    title: "Best Marble Dealer in Makrana​",
     description: "Best Marble Dealer in Makrana – trusted supplier of premium marble, authentic quality, elegant finishes, and reliable service for timeless and luxurious projects.",
   },
 
