@@ -1,7 +1,8 @@
 .blogSection {
   background-color: var(--primary-bg);
   color: var(--primary-text);
-  padding: 4rem 0rem;
+  padding: 0rem 0rem;
+  padding-top: 5rem;
   transition: all 0.3s ease;
 }
 
@@ -69,5 +70,14 @@
   .blogIntro,
   .sectionContent {
     font-size: 1rem;
+  }
+}
+
+
+
+@media (max-width: 768px) {
+   .blogTitle {
+    font-size: 1.6rem;
+    text-align: justify;
   }
 }
