@@ -222,6 +222,7 @@ body.dark-theme {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 1.5rem;
 }
 
 .enquiryModal {
@@ -231,7 +232,7 @@ body.dark-theme {
   border-radius: 12px;
   padding: 15px;
   max-width: 600px;
-  max-height: 95vh;
+  max-height: 92vh;
   overflow-y: auto;
   width: 100%;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
@@ -366,9 +367,13 @@ body.dark-theme #closeBtn:hover {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 500px) {
   .enquiryFormBtn {
     font-size: 0.6rem;
     padding: 10px 0px;
+  }
+
+  .enquiryModal {
+    padding: 0;
   }
 }

@@ -1,4 +1,3 @@
-import { text, title } from "framer-motion/client";
 
 export const ImageData = {
   marble: {
