@@ -379,7 +379,7 @@ ideal for statement floors, sculptural staircases, and walls that glow with soft
 
   //Imported Marble
   "imported-marble": {
-    "grey-peitragrey": {
+    "grey-peitra-grey": {
       name: "Peitra Grey",
       thickness: "18mm",
       origin: "Imported",
@@ -389,7 +389,7 @@ Bold white veining lightning-bolts across a charcoal canvas, delivering cinemati
 book-matched feature walls, and luxe commercial lobbies that demand a standing ovation.`,
       images: ImageData.importedmarble.peitragrey,
     },
-    "grey-greywilliam": {
+    "grey-grey-william": {
       name: "Grey William",
       thickness: "18mm",
       origin: "Imported",
@@ -399,7 +399,7 @@ Smoky charcoal layers drift beneath quicksilver veins, conjuring depth and movem
 bath surrounds, and grand entrances into hushed galleries of modern opulence.`,
       images: ImageData.importedmarble.greywilliam,
     },
-    "grey-fastasygrey": {
+    "grey-fastasy-grey": {
       name: "Fastasy Grey",
       thickness: "18mm",
       origin: "Imported",
@@ -409,7 +409,7 @@ Veils of pearl, dove, and charcoal swirl together like watercolor on silk, gifti
 feature walls, and boutique floors an ethereal, gallery-grade serenity that whispers rather than shouts.`,
       images: ImageData.importedmarble.fastasygrey,
     },
-    "beige-dynabeige": {
+    "beige-dyna-beige": {
       name: "Dyna Beige",
       thickness: "18mm",
       origin: "Imported",
@@ -419,7 +419,7 @@ Feathery cream filaments drift across a honey-wheat field, wrapping interiors in
 perfect for spa-inspired bathrooms, serene living floors, and hospitality spaces that breathe effortless calm.`,
       images: ImageData.importedmarble.dynabeige,
     },
-    "beige-braciabeige": {
+    "beige-bracia-beige": {
       name: "Bracia Beige",
       thickness: "18mm",
       origin: "Imported",
@@ -429,7 +429,7 @@ A gentle mosaic of shell-white fossils and toasted almond clouds creates a tacti
 kitchen islands, hotel lobbies, and tranquil spa retreats into timeless havens of understated European elegance.`,
       images: ImageData.importedmarble.braciabeige,
     },
-    "beige-bottochinobeige": {
+    "beige-bottochino-beige": {
       name: "Bottochino Beige",
       thickness: "18mm",
       origin: "Imported",
@@ -439,7 +439,7 @@ Delicate ivory ripples drift through a honey-almond sea, catching light in a sof
 ideal for stately foyers, elevator cabs, and palatial floors that demand quiet grandeur and effortless polish.`,
       images: ImageData.importedmarble.bottochinobeige,
     },
-    "white-vietnamwhite": {
+    "white-vietnam-white": {
       name: "Vietnam White",
       thickness: "16mm, 18mm",
       origin: "Imported",
@@ -449,7 +449,7 @@ A phantom-silver veil drifts across an immaculate ivory field, gifting Michelin-
 and gallery-white floors a weightless, floating calm that feels suspended in time.`,
       images: ImageData.importedmarble.vietnamwhite,
     },
-    "white-statuariowhite": {
+    "white-statuario-white": {
       name: "Statuario White",
       thickness: "18mm",
       origin: "Imported",
@@ -459,7 +459,7 @@ Bold, charcoal bolts slash across a luminous porcelain canvas, turning counterto
 into instant sculptures that steal every gaze in the room—Michelangelo’s choice, re-imagined for today.`,
       images: ImageData.importedmarble.statuariowhite,
     },
-    "white-signaturewhite": {
+    "white-signature-white": {
       name: "Signature White",
       thickness: "18mm",
       origin: "Imported",
@@ -469,7 +469,7 @@ Zero veining, zero noise—just mirror-bright purity that amplifies space and li
 of minimalist penthouses, luxury boutiques, and any surface that must feel limitless and immaculate.`,
       images: ImageData.importedmarble.signaturewhite,
     },
-    "white-opuswhite": {
+    "white-opus-white": {
       name: "Opus White",
       thickness: "18mm",
       origin: "Imported",
@@ -479,7 +479,7 @@ Its soft, cloud-like movement invites calm to high-end hospitality suites, spa r
 that prize serenity over statement.`,
       images: ImageData.importedmarble.opuswhite,
     },
-    "white-lilacwhite": {
+    "white-lilac-white": {
       name: "Lilac White",
       thickness: "18mm",
       origin: "Imported",
@@ -489,7 +489,7 @@ The whispered lilac haze softens gallery-bright spaces, giving couture boutiques
 a dream-like filter that feels both modern and forever young.`,
       images: ImageData.importedmarble.lilacwhite,
     },
-    "white-iranianwhite": {
+    "white-iranian-white": {
       name: "Iranian White",
       thickness: "18mm",
       origin: "Imported",
@@ -499,7 +499,7 @@ A cool alabaster plane hosts the faintest silver-ash veins—like wind-scored du
 statement staircases and spa corridors with a hushed, museum-grade calm that feels centuries old yet instantly now.`,
       images: ImageData.importedmarble.iranianwhite,
     },
-    "white-cararawhite": {
+    "white-carara-white": {
       name: "Carara White",
       thickness: "18mm",
       origin: "Imported",
@@ -509,7 +509,7 @@ Feather-soft grey veins drift across a snow-white sky, giving kitchens, bath mon
 an effortless Renaissance elegance that never shouts—yet always commands the room.`,
       images: ImageData.importedmarble.cararawhite,
     },
-    "white-biancolasawhite": {
+    "white-bianco-lasa-white": {
       name: "Bianco Lasa White",
       thickness: "18mm",
       origin: "Imported",
@@ -519,7 +519,7 @@ Platinum veins pulse like distant lightning through a translucent white glacier,
 statement islands and curated galleries a crisp, alpine luminosity that feels forever winter-fresh.`,
       images: ImageData.importedmarble.biancolasawhite,
     },
-    "beige-agorabeige": {
+    "beige-agora-beige": {
       name: "Agora Beige",
       thickness: "18mm",
       origin: "Imported",
@@ -529,7 +529,7 @@ Silken wheat fields ripple beneath a veil of powdered gold, wrapping boutique ho
 home spas and editorial kitchens in a tactile, cashmere calm that invites fingertips to linger.`,
       images: ImageData.importedmarble.agorabeige,
     },
-    "beige-azulebeige": {
+    "beige-azule-beige": {
       name: "Azule Beige",
       thickness: "18mm",
       origin: "Imported",
@@ -539,7 +539,7 @@ Its soft, coastal movement turns seaside villas, rooftop lounges and hospitality
 into sun-drenched retreats that breathe Mediterranean ease.`,
       images: ImageData.importedmarble.azulebeige,
     },
-    "beige-bellissiomobeige": {
+    "beige-bellissiomo-beige": {
       name: "Bellissiomo Beige",
       thickness: "18mm",
       origin: "Imported",
@@ -549,7 +549,7 @@ Under warm lighting it glows like candle-lit alabaster, lending penthouse foyers
 an effortless dolce-vita glamour that feels permanently golden hour.`,
       images: ImageData.importedmarble.bellissiomobeige,
     },
-    "beige-travertinebeige": {
+    "beige-travertine-beige": {
       name: "Travertine Beige",
       thickness: "18mm",
       origin: "Imported",
@@ -559,7 +559,7 @@ Those iconic cavities catch shadow and light like tiny amphitheatres, giving hot
 a living, breathing texture that has adorned Roman emperors and modern starchitects alike.`,
       images: ImageData.importedmarble.travertinebeige,
     },
-    "beige-regalbeige": {
+    "beige-regal-beige": {
       name: "Regal Beige",
       thickness: "18mm",
       origin: "Imported",
@@ -569,7 +569,7 @@ Subtle hieroglyphic bands meander across a warm ivory bed, crowning conference t
 hotel atriums and executive suites with a quiet pharaonic authority that never needs to raise its voice.`,
       images: ImageData.importedmarble.regalbeige,
     },
-    "grey-driftgrey": {
+    "grey-drift-grey": {
       name: "Drift Grey",
       thickness: "18mm",
       origin: "Imported",
@@ -579,7 +579,7 @@ Linear, sandy striations mimic beach-worn planks, giving coastal properties, roo
 and spa walkways the relaxed soul of a seaside boardwalk—without a splinter in sight.`,
       images: ImageData.importedmarble.driftgrey,
     },
-    "grey-cosmicgrey": {
+    "grey-cosmic-grey": {
       name: "Cosmic Grey",
       thickness: "18mm",
       origin: "Imported",
@@ -589,7 +589,7 @@ Under spotlights the metallic flecks ignite like miniature galaxies, turning fea
 and executive lifts into private observatories for stargazers who demand terrestrial luxury.`,
       images: ImageData.importedmarble.cosmicgrey,
     },
-    "grey-greydyna": {
+    "grey-grey-dyna": {
       name: "Grey Dyna",
       thickness: "18mm",
       origin: "Imported",
@@ -599,7 +599,7 @@ Its kinetic energy animates open-plan offices, designer staircases and art-galle
 with a restless, metropolitan pulse that never repeats the same step twice.`,
       images: ImageData.importedmarble.greydyna,
     },
-    "grey-kandlagrey": {
+    "grey-kandla-grey": {
       name: "Kandla Grey",
       thickness: "18mm",
       origin: "Imported",
@@ -609,7 +609,7 @@ Hard-wearing and frost-proof, it steels driveways, pool copings and rooftop terr
 with an industrial chic that calms both traditional villas and glass-walled penthouses.`,
       images: ImageData.importedmarble.kandlagrey,
     },
-    "grey-iceberggrey": {
+    "grey-iceberg-grey": {
       name: "Iceberg Grey",
       thickness: "18mm",
       origin: "Imported",
@@ -619,7 +619,7 @@ When sunlight grazes its surface the stone glitters like fresh frost, giving spa
 wine-cellar floors and winter-gardens a crisp, Nordic serenity that never melts.`,
       images: ImageData.importedmarble.iceberggrey,
     },
-    "grey-mountgrey": {
+    "grey-mount-grey": {
       name: "Mount Grey",
       thickness: "18mm",
       origin: "Imported",
@@ -633,7 +633,7 @@ with a quiet, cinematic gravitas that makes every conversation feel like a scene
 
   // Granites
   granites: {
-    "north-indian-jirawalwhite": {
+    "north-indian-jirawal-white": {
       name: "Jirawal White",
       color: "White",
       thickness: "16mm, 18mm",
@@ -645,7 +645,7 @@ choice for kitchen countertops, exterior cladding, and high-traffic flooring
 in luxury residences and commercial spaces.`,
       images: ImageData.granites.jirawalwhite,
     },
-    "north-indian-zblack": {
+    "north-indian-z-black": {
       name: "Z Black",
       color: "Black",
       thickness: "16mm, 18mm",
@@ -657,7 +657,7 @@ modern kitchen countertops, statement walls, designer flooring, and high-end
 architectural accents.`,
       images: ImageData.granites.zblack,
     },
-    "north-indian-tigerskin": {
+    "north-indian-tiger-skin": {
       name: "Tiger Skin",
       color: "Brown",
       thickness: "16mm, 18mm",
@@ -668,7 +668,7 @@ Its exotic look, combined with durability and heat resistance, makes it an impre
 choice for outdoor cladding, decorative flooring, and designer kitchen countertops.`,
       images: ImageData.granites.tigerskin,
     },
-    "north-indian-tanbrown": {
+    "north-indian-tan-brown": {
       name: "Tan Brown",
       color: "Brown",
       thickness: "16mm, 18mm",
@@ -692,7 +692,7 @@ retain polish for years, it is a preferred choice for sleek kitchen platforms,
 luxury flooring, and striking façade applications that demand a bold, contemporary look.`,
       images: ImageData.granites.rblack,
     },
-    "north-indian-majestikblack": {
+    "north-indian-majestik-black": {
       name: "Majestik Black",
       color: "Black",
       thickness: "16mm, 18mm",
@@ -704,7 +704,7 @@ material for designer interiors, luxury countertops, hotel lobbies, and
 exclusive architectural masterpieces.`,
       images: ImageData.granites.majestikblack,
     },
-    "north-indian-cherryred": {
+    "north-indian-cherry-red": {
       name: "Cherry Red",
       color: "Red",
       thickness: "16mm, 18mm",
@@ -727,7 +727,7 @@ strength make it a preferred stone for luxury countertops, decorative walls,
 temple designs, and statement flooring projects.`,
       images: ImageData.granites.cateyes,
     },
-    "north-indian-3dfinish": {
+    "north-indian-3d-finish": {
       name: "3D Finish",
       color: "Grey",
       thickness: "16mm, 18mm",
@@ -738,7 +738,7 @@ and resilience, it is widely chosen for feature walls, designer flooring, and cr
 architectural highlights.`,
       images: ImageData.granites.threedfinish,
     },
-    "north-indian-multired": {
+    "north-indian-multi-red": {
       name: "Multi Red",
       color: "Red",
       thickness: "16mm, 18mm",
@@ -749,7 +749,7 @@ long-lasting durability make it ideal for exterior facades, heritage projects,
 and statement interior accents.`,
       images: ImageData.granites.multiredNorth,
     },
-    "north-indian-kwhite": {
+    "north-indian-k-white": {
       name: "K White",
       color: "White",
       thickness: "16mm, 18mm",
@@ -760,7 +760,7 @@ stain resistance make it perfect for contemporary kitchens, sleek flooring,
 and minimalist design themes.`,
       images: ImageData.granites.kwhite,
     },
-    "north-indian-oliviergreen": {
+    "north-indian-olivier-green": {
       name: "Olivier Green",
       color: "Green",
       thickness: "16mm, 18mm",
@@ -771,7 +771,7 @@ make it an excellent choice for luxury bathroom vanities, outdoor landscapes, an
 eco-inspired interiors.`,
       images: ImageData.granites.oliviergreen,
     },
-    "north-indian-thunderbrown": {
+    "north-indian-thunder-brown": {
       name: "Thunder Brown",
       color: "Brown",
       thickness: "16mm, 18mm",
@@ -782,7 +782,7 @@ enduring strength, it is often used in high-traffic flooring, grand staircases,
 and rustic yet luxurious designs.`,
       images: ImageData.granites.thunderbrown,
     },
-    "north-indian-zidaneblack": {
+    "north-indian-zidane-black": {
       name: "Zidane Black",
       color: "Black",
       thickness: "16mm, 18mm",
@@ -793,7 +793,7 @@ long-lasting polish make it a premium choice for modern countertops, luxury floo
 and contemporary facades.`,
       images: ImageData.granites.zidaneblack,
     },
-    "alaska-granites-alaskapink": {
+    "alaska-granites-alaska-pink": {
       name: "Alaska Pink",
       color: "Pink",
       thickness: "18mm",
@@ -804,7 +804,7 @@ unique warmth and durability, it is well-suited for vanity tops, elegant floorin
 and upscale decorative walls.`,
       images: ImageData.granites.alaskapink,
     },
-    "alaska-granites-alaskablack": {
+    "alaska-granites-alaska-black": {
       name: "Alaska Black",
       color: "Black",
       thickness: "18mm",
@@ -815,7 +815,7 @@ Its striking character makes it a showstopper for luxury countertops,
 accent walls, and designer commercial spaces.`,
       images: ImageData.granites.alaskablack,
     },
-    "alaska-granites-alaskagold": {
+    "alaska-granites-alaska-gold": {
       name: "Alaska Gold",
       color: "Gold",
       thickness: "18mm",
@@ -826,7 +826,7 @@ and durability, it is often used in premium flooring, high-end kitchens,
 and opulent architectural projects.`,
       images: ImageData.granites.alaskagold,
     },
-    "alaska-granites-alaskawhite": {
+    "alaska-granites-alaska-white": {
       name: "Alaska White",
       color: "White",
       thickness: "18mm",
@@ -837,7 +837,7 @@ Its versatility makes it a favorite for contemporary interiors,
 sleek countertops, and elegant facades.`,
       images: ImageData.granites.alaskawhite,
     },
-    "alaska-granites-alaskabluedunes": {
+    "alaska-granites-alaska-blue-dunes": {
       name: "Alaska Blue Dunes",
       color: "Blue",
       thickness: "18mm",
@@ -848,7 +848,7 @@ and resilience make it ideal for spa-style bathrooms, statement flooring,
 and artistic interiors.`,
       images: ImageData.granites.alaskabluedunes,
     },
-    "alaska-granites-alphonsobrownalaska": {
+    "alaska-granites-alphonso-brown-alaska": {
       name: "Alphonso Brown Alaska",
       color: "Brown & Black",
       thickness: "18mm",
@@ -870,7 +870,7 @@ It is widely used in upscale homes for flooring, countertops,
 and interior wall cladding.`,
       images: ImageData.granites.astoria,
     },
-    "south-indian-burgundywhite": {
+    "south-indian-burgundy-white": {
       name: "Burgundy White",
       color: "Burgundy",
       thickness: "18mm",
@@ -881,7 +881,7 @@ makes it a premium choice for artistic flooring, modern vanities,
 and standout decorative walls.`,
       images: ImageData.granites.burgundywhite,
     },
-    "south-indian-burgundygold": {
+    "south-indian-burgundy-gold": {
       name: "Burgundy Gold",
       color: "Burgundy",
       thickness: "18mm",
@@ -891,7 +891,7 @@ and golden flecks that shimmer under light. Its luxurious finish makes it a
 preferred material for grand entrances, hotel lobbies, and premium interiors.`,
       images: ImageData.granites.burgundygold,
     },
-    "south-indian-ferrarowhite": {
+    "south-indian-ferraro-white": {
       name: "Ferraro White",
       color: "White",
       thickness: "18mm",
@@ -902,7 +902,7 @@ versatility make it suitable for chic modern kitchens, luxury bathrooms,
 and corporate spaces.`,
       images: ImageData.granites.ferrarowhite,
     },
-    "south-indian-lavenderblue": {
+    "south-indian-lavender-blue": {
       name: "Lavender Blue",
       color: "Lavender",
       thickness: "18mm",
@@ -913,7 +913,7 @@ a popular choice for stylish flooring, artistic countertops, and
 designer interiors.`,
       images: ImageData.granites.lavenderblue,
     },
-    "south-indian-moonwhite": {
+    "south-indian-moon-white": {
       name: "Moon White",
       color: "White",
       thickness: "18mm",
@@ -924,7 +924,7 @@ It is well-suited for premium flooring, high-end countertops, and
 contemporary decorative projects.`,
       images: ImageData.granites.moonwhite,
     },
-    "south-indian-mundarigold": {
+    "south-indian-mundari-gold": {
       name: "Mundari Gold",
       color: "Gold",
       thickness: "18mm",
@@ -945,7 +945,7 @@ grey, and cream shades that create a flowing, artistic design. This versatile
 stone enhances both modern and classic interiors with timeless elegance.`,
       images: ImageData.granites.paradizzo,
     },
-    "south-indian-statuariogold": {
+    "south-indian-statuario-gold": {
       name: "Statuario Gold",
       color: "Whitish Gold",
       thickness: "18mm",
@@ -956,7 +956,7 @@ Its regal charm makes it an exceptional pick for luxury bathrooms,
 statement walls, and premium flooring.`,
       images: ImageData.granites.statuariogold,
     },
-    "south-indian-statuariowhite": {
+    "south-indian-statuario-white": {
       name: "Statuario White",
       color: "White",
       thickness: "18mm",
@@ -967,7 +967,7 @@ Its durability and timeless appeal make it perfect for upscale flooring,
 stylish countertops, and boutique interiors.`,
       images: ImageData.granites.statuariowhite,
     },
-    "south-indian-vizagblue": {
+    "south-indian-vizag-blue": {
       name: "Vizag Blue",
       color: "Blue",
       thickness: "18mm",

@@ -7,11 +7,31 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://jkgranimarmo.in/aboutus</loc>
+    <loc>https://jkgranimarmo.in/about-us</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jkgranimarmo.in/ourproducts</loc>
+    <loc>https://jkgranimarmo.in/marble</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jkgranimarmo.in/imported-marble</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jkgranimarmo.in/granites</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jkgranimarmo.in/sandstone</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jkgranimarmo.in/tiles</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jkgranimarmo.in/our-products</loc>
     <priority>0.9</priority>
   </url>
   <url>
@@ -20,81 +40,81 @@
   </url>
 
   <!-- Marble -->
-  <url><loc>https://jkgranimarmo.in/marble/talaiwhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/marble/wonderwhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/marble/banswarawhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/marble/jhanjharwhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/marble/agariawhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/marble/morwadwhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/marble/makrana-makranawhitechakdungri</loc></url>
-  <url><loc>https://jkgranimarmo.in/marble/makrana-makranawhitealbetta</loc></url>
+  <url><loc>https://jkgranimarmo.in/marble/talai-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/marble/wonder-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/marble/banswara-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/marble/jhanjhar-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/marble/agaria-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/marble/morwad-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/marble/makrana-white-chakdungri</loc></url>
+  <url><loc>https://jkgranimarmo.in/marble/makrana-white-albetta</loc></url>
 
   <!-- Imported Marble -->
-  <url><loc>https://jkgranimarmo.in/importedmarble/grey-peitragrey</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/grey-greywilliam</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/grey-fastasygrey</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/beige-dynabeige</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/beige-braciabeige</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/beige-bottochinobeige</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/white-vietnamwhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/white-statuariowhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/white-signaturewhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/white-opuswhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/white-lilacwhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/white-iranianwhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/white-cararawhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/white-biancolasawhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/beige-agorabeige</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/beige-azulebeige</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/beige-bellissiomobeige</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/beige-travertinebeige</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/beige-regalbeige</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/grey-driftgrey</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/grey-cosmicgrey</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/grey-greydyna</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/grey-kandlagrey</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/grey-iceberggrey</loc></url>
-  <url><loc>https://jkgranimarmo.in/importedmarble/grey-mountgrey</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/grey-peitra-grey</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/grey-grey-william</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/grey-fastasy-grey</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/beige-dyna-beige</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/beige-bracia-beige</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/beige-bottochino-beige</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/white-vietnam-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/white-statuario-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/white-signature-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/white-opus-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/white-lilac-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/white-iranian-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/white-carara-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/white-biancolasa-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/beige-agora-beige</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/beige-azule-beige</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/beige-bellissiomo-beige</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/beige-travertine-beige</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/beige-regal-beige</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/grey-drift-grey</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/grey-cosmic-grey</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/grey-grey-dyna</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/grey-kandla-grey</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/grey-iceberg-grey</loc></url>
+  <url><loc>https://jkgranimarmo.in/imported-marble/grey-mount-grey</loc></url>
 
   <!-- Granites -->
-  <url><loc>https://jkgranimarmo.in/granites/northindian-jirawalwhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/northindian-zblack</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/northindian-tigerskin</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/northindian-tanbrown</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/northindian-r.black</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/northindian-majestikblack</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/northindian-cherryred</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/northindian-cateyes</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/northindian-3dfinish</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/northindian-multired</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/northindian-kwhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/northindian-oliviergreen</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/northindian-thunderbrown</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/northindian-zidaneblack</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/alaskagranites-alaskapink</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/alaskagranites-alaskablack</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/alaskagranites-alaskagold</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/alaskagranites-alaskawhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/alaskagranites-alaskabluedunes</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/alaskagranites-alphonsobrownalaska</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/southindian-astoria</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/southindian-burgundywhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/southindian-burgundygold</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/southindian-ferrarowhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/southindian-lavenderblue</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/southindian-moonwhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/southindian-mundarigold</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/southindian-paradizzo</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/southindian-statuariogold</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/southindian-statuariowhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/granites/southindian-vizagblue</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/north-indian-jirawal-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/north-indian-z-black</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/north-indian-tiger-skin</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/north-indian-tan-brown</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/north-indian-r.black</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/north-indian-majestik-black</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/north-indian-cherry-red</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/north-indian-cateyes</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/north-indian-3d-finish</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/north-indian-multi-red</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/north-indian-k-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/north-indian-olivier-green</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/north-indian-thunder-brown</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/north-indian-zidane-black</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/alaska-granites-alaska-pink</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/alaska-granites-alaska-black</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/alaska-granites-alaska-gold</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/alaska-granites-alaska-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/alaska-granites-alaska-blue-dunes</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/alaska-granites-alphonso-brown-alaska</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/south-indian-astoria</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/south-indian-burgundy-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/south-indian-burgundy-gold</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/south-indian-ferraro-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/south-indian-lavender-blue</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/south-indian-moon-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/south-indian-mundari-gold</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/south-indian-paradizzo</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/south-indian-statuario-gold</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/south-indian-statuario-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/granites/south-indian-vizag-blue</loc></url>
 
   <!-- Sandstone -->
-  <url><loc>https://jkgranimarmo.in/sandstone/itagold</loc></url>
-  <url><loc>https://jkgranimarmo.in/sandstone/jaisalmeryellow</loc></url>
-  <url><loc>https://jkgranimarmo.in/sandstone/khatutickwood</loc></url>
-  <url><loc>https://jkgranimarmo.in/sandstone/paradizzoleather</loc></url>
-  <url><loc>https://jkgranimarmo.in/sandstone/gwaliormint</loc></url>
+  <url><loc>https://jkgranimarmo.in/sandstone/ita-gold</loc></url>
+  <url><loc>https://jkgranimarmo.in/sandstone/jaisalmer-yellow</loc></url>
+  <url><loc>https://jkgranimarmo.in/sandstone/khatu-tickwood</loc></url>
+  <url><loc>https://jkgranimarmo.in/sandstone/paradizzo-leather</loc></url>
+  <url><loc>https://jkgranimarmo.in/sandstone/gwalior-mint</loc></url>
   <url><loc>https://jkgranimarmo.in/sandstone/red</loc></url>
   <url><loc>https://jkgranimarmo.in/sandstone/pink</loc></url>
   <url><loc>https://jkgranimarmo.in/sandstone/rainbow</loc></url>
@@ -103,16 +123,16 @@
   <url><loc>https://jkgranimarmo.in/tiles/choco</loc></url>
   <url><loc>https://jkgranimarmo.in/tiles/crema</loc></url>
   <url><loc>https://jkgranimarmo.in/tiles/grey</loc></url>
-  <url><loc>https://jkgranimarmo.in/tiles/snowwhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/tiles/superwhite</loc></url>
-  <url><loc>https://jkgranimarmo.in/tiles/terrazzoverde</loc></url>
-  <url><loc>https://jkgranimarmo.in/tiles/zblack</loc></url>
-  <url><loc>https://jkgranimarmo.in/tiles/jaisalmertile</loc></url>
-  <url><loc>https://jkgranimarmo.in/tiles/darkgreymatt</loc></url>
-  <url><loc>https://jkgranimarmo.in/tiles/lightgrey</loc></url>
+  <url><loc>https://jkgranimarmo.in/tiles/snow-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/tiles/super-white</loc></url>
+  <url><loc>https://jkgranimarmo.in/tiles/terrazzo-verde</loc></url>
+  <url><loc>https://jkgranimarmo.in/tiles/z-black</loc></url>
+  <url><loc>https://jkgranimarmo.in/tiles/jaisalmer</loc></url>
+  <url><loc>https://jkgranimarmo.in/tiles/dark-grey-matt</loc></url>
+  <url><loc>https://jkgranimarmo.in/tiles/light-grey</loc></url>
   <url><loc>https://jkgranimarmo.in/tiles/mushroom</loc></url>
   <url><loc>https://jkgranimarmo.in/tiles/spgrey</loc></url>
   <url><loc>https://jkgranimarmo.in/tiles/sproyalverde</loc></url>
-  <url><loc>https://jkgranimarmo.in/tiles/steelgreymatt</loc></url>
+  <url><loc>https://jkgranimarmo.in/tiles/steel-grey-matt</loc></url>
 
 </urlset>
