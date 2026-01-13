@@ -155,6 +155,47 @@ const SLUG_DESCRIPTIONS = {
     description:
       "Premium Regal Beige Marble available at JK Grani Marmo – the Best Supplier in India for style, elegance, and lasting beauty.",
   },
+  "imported-marble/beige-regal-beige11": {
+    title: "Best Vietnam White Marble Supplier in India",
+    description:
+      "Looking for the Best Vietnam White Marble Supplier in India? Get premium quality marble, competitive pricing, and reliable nationwide delivery across India.",
+  },
+  "imported-marble/white-statuario-white": {
+    title: "Best Statuario White Marble Supplier in India",
+    description:
+      "Best Statuario White Marble Supplier in India offering premium Italian-quality slabs, elegant veining, competitive prices, and reliable delivery nationwide.",
+  },
+  "imported-marble/white-signature-white": {
+    title: "Best Signature White Marble Supplier in India",
+    description:
+      "Best Signature White Marble Supplier in India offering premium quality marble, elegant finish, competitive prices, and trusted nationwide delivery for luxury projects.",
+  },
+  "imported-marble/white-opus-white": {
+    title: "Best Opus White Marble Supplier in India",
+    description:
+      "Best Opus White Marble Supplier in India providing premium-quality marble, refined veining, competitive pricing, and reliable nationwide delivery for luxury spaces.",
+  },
+  "imported-marble/white-lilac-white": {
+    title: "Best Lilac White Marble Supplier in India",
+    description:
+      "Best Lilac White Marble Supplier in India offering premium quality marble with elegant purple veining, competitive prices, and reliable nationwide delivery.",
+  },
+  "imported-marble/white-iranian-white": {
+    title: "Best Iranian White Marble Supplier in India",
+    description:
+      "Best Iranian White Marble Supplier in India offering premium quality marble, elegant white tones, competitive pricing, and reliable nationwide delivery for all projects.",
+  },
+  "imported-marble/white-carara-white": {
+    title: "Best Carara White Marble Supplier in India",
+    description:
+      "Best Carara White Marble Supplier in India offering premium quality marble, classic white elegance, competitive prices, and reliable nationwide delivery.",
+  },
+  "imported-marble/white-bianco-lasa-white": {
+    title: "Best Bianco Lasa White Marble Supplier in India",
+    description:
+      "Best Bianco Lasa White Marble Supplier in India offering premium quality marble, pure white elegance, competitive pricing, and reliable nationwide delivery.",
+  },
+  
 
   // ... continue for all Imported Marble colors
 
