@@ -5649,4 +5649,2900 @@ export const subproductBlogData = {
       ],
     },
   },
+
+  granites: {
+    // Granite data can be added here in the future
+    "north-indian-jirawal-white": {
+  title:
+    "Best Jirawal White Granite Manufacturer in India – Premium Quality by JK Granimarmo",
+
+  intro: [
+    "JK Granimarmo is proud to be recognized as the Best Jirawal White Granite Manufacturer in India, delivering superior-quality granite that reflects elegance, durability, and long-lasting performance. Jirawal White Granite is known for its soft white background, subtle grey patterns, and exceptional strength, making it a preferred choice for residential, commercial, and architectural projects.",
+    "With advanced manufacturing facilities, strict quality control, and a commitment to excellence, JK Granimarmo ensures that every slab of Jirawal White Granite meets international standards. Our granite is widely used by architects, builders, and designers who demand premium finish and consistent quality.",
+  ],
+
+  sections: [
+    {
+      title: "About Jirawal White Granite",
+      content: [
+        "Jirawal White Granite is a premium Indian granite variety famous for its clean appearance and uniform texture. It blends seamlessly with both modern and traditional designs. Its natural hardness and resistance to heat, moisture, and scratches make it suitable for a wide range of applications.",
+        "As the Best Jirawal White Granite Manufacturer in India, JK Granimarmo sources high-grade raw blocks and processes them using modern technology to ensure flawless surface finish and precise dimensions.",
+      ],
+      points: [
+        "Elegant white background with soft grey patterns",
+        "High durability and low maintenance",
+        "Excellent resistance to stains and weather",
+        "Suitable for indoor and outdoor applications",
+      ],
+    },
+
+    {
+      title: "JK Granimarmo – Excellence in Granite Manufacturing",
+      content: [
+        "JK Granimarmo is a trusted name in the natural stone industry, known for manufacturing and supplying premium granite. Our fully equipped manufacturing units allow us to maintain complete control over quality, consistency, and supply timelines.",
+        "We use:",
+      ],
+      points: [
+        "Advanced cutting and polishing machinery",
+        "Precision calibration techniques",
+        "Skilled professionals and quality inspectors",
+      ],
+      text: [
+        "This integrated approach helps us maintain our reputation as the Best Jirawal White Granite Manufacturer in India, delivering products that exceed client expectations.",
+      ],
+    },
+
+    {
+      title: "Applications of Jirawal White Granite",
+      content: [
+        "Jirawal White Granite is highly versatile and is widely used in:",
+      ],
+      points: [
+        "Flooring and wall cladding",
+        "Kitchen countertops and platforms",
+        "Bathroom vanity tops",
+        "Staircases and window sills",
+        "Building facades and exterior spaces",
+        "Commercial and hospitality projects",
+      ],
+      text: [
+        "Its elegant appearance and structural strength make it ideal for both luxury and high-traffic environments.",
+      ],
+    },
+
+    {
+      title: "Quality Assurance & Manufacturing Standards",
+      content: [
+        "At JK Granimarmo, quality is our foundation. Each Jirawal White Granite slab undergoes a thorough inspection process that includes:",
+      ],
+      points: [
+        "Checking color uniformity and surface finish",
+        "Ensuring precise thickness and dimensions",
+        "Testing for durability and strength",
+      ],
+      text: [
+        "These strict measures allow us to consistently deliver products that meet global quality benchmarks. This dedication to perfection strengthens our identity as the Best Jirawal White Granite Manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Why Choose JK Granimarmo?",
+      content: [
+        "Clients choose JK Granimarmo because we offer:",
+      ],
+      points: [
+        "Premium-grade Jirawal White Granite",
+        "Large inventory for bulk and project requirements",
+        "Competitive factory-direct pricing",
+        "Customized slab sizes and finishes",
+        "Timely delivery across India and abroad",
+      ],
+      text: [
+        "To explore our complete granite manufacturing expertise, visit Best Granite Manufacturer in India",
+      ],
+    },
+
+    {
+      title: "Pan-India Supply & Export Capability",
+      content: [
+        "JK Granimarmo supplies Jirawal White Granite across all major cities in India and also caters to international markets. Our robust logistics network and safe packaging ensure that granite reaches clients in perfect condition, regardless of order size or destination.",
+        "We work closely with developers, architects, contractors, and exporters, ensuring consistent supply and unmatched service.",
+      ],
+    },
+
+    {
+      title: "Manufacturing Excellence That Adds Value",
+      content: [
+        "Our modern manufacturing techniques enhance the natural beauty of Jirawal White Granite while preserving its strength and durability. We offer multiple finishes such as:",
+      ],
+      points: [
+        "Polished",
+        "Honed",
+        "Flamed",
+        "Leather finish",
+      ],
+      text: [
+        "This allows our clients to choose the right surface texture for their specific design requirements.",
+      ],
+    },
+
+    {
+      title: "Partner with the Best Jirawal White Granite Manufacturer in India",
+      content: [
+        "Choosing the right manufacturer is crucial to achieving quality results and long-term value. With advanced infrastructure, strict quality standards, and years of industry expertise, JK Granimarmo continues to lead as the Best Jirawal White Granite Manufacturer in India.",
+        "If you are planning a project that demands elegance, strength, and reliability, trust JK Granimarmo to deliver world-class Jirawal White Granite that enhances the beauty and durability of your space.",
+      ],
+    },
+  ],
+    },
+
+    "north-indian-z-black": {
+  title:
+    "Best Z Black Granite Manufacturer in India – Premium Quality by JK Granimarmo",
+
+  intro: [
+    "When it comes to strength, durability, and timeless elegance, Z Black Granite stands as one of the most preferred choices in the natural stone industry. JK Granimarmo is proudly recognized as the Best Z Black Granite Manufacturer in India, delivering superior-quality granite that meets the demands of residential, commercial, and large-scale infrastructure projects.",
+    "With advanced manufacturing facilities, skilled craftsmanship, and strict quality control, JK Granimarmo ensures that every Z Black Granite slab reflects consistency, strength, and a flawless finish. Our granite is widely used by architects, builders, contractors, and exporters who seek reliability and long-term value.",
+  ],
+
+  sections: [
+    {
+      title: "Why Z Black Granite Is a Preferred Choice",
+      content: [
+        "Z Black Granite is known for its deep black color, uniform texture, and exceptional durability. It is widely used for:",
+      ],
+      points: [
+        "Flooring and wall cladding",
+        "Kitchen countertops and platforms",
+        "Staircases and window sills",
+        "Exterior facades and paving",
+        "Commercial and industrial applications",
+      ],
+      text: [
+        "Its resistance to scratches, stains, heat, and heavy foot traffic makes it ideal for both interior and exterior use. As the Best Z Black Granite Manufacturer in India, JK Granimarmo ensures that every slab maintains high structural integrity and aesthetic appeal.",
+      ],
+    },
+
+    {
+      title: "About JK Granimarmo – Excellence in Granite Manufacturing",
+      content: [
+        "JK Granimarmo is a trusted name in the natural stone industry, known for manufacturing and supplying premium granite products. Our manufacturing process is designed to maintain consistency in thickness, surface finish, and color tone.",
+        "Our infrastructure includes:",
+      ],
+      points: [
+        "Modern cutting and polishing machines",
+        "Precision calibration units",
+        "Advanced surface finishing technology",
+        "Dedicated quality inspection teams",
+      ],
+      text: [
+        "This integrated manufacturing setup allows us to consistently deliver world-class granite and strengthens our position as the Best Z Black Granite Manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Manufacturing Process of Z Black Granite at JK Granimarmo",
+      content: [
+        "Our manufacturing process is a combination of technology, expertise, and quality control:",
+      ],
+      points: [
+        "Selection of Premium Blocks",
+        "Precision Cutting",
+        "Surface Finishing",
+        "Quality Inspection",
+        "Secure Packaging & Dispatch",
+      ],
+      text: [
+        "We source high-grade Z Black Granite blocks from reliable quarries to ensure uniformity and strength.",
+        "Blocks are cut into slabs and tiles using advanced machinery for accurate dimensions.",
+        "Polishing, honing, flamed, and leather finishes are applied based on client requirements.",
+        "Each slab is tested for thickness, surface consistency, and durability.",
+        "Final products are carefully packed to avoid damage during transportation.",
+      ],
+    },
+
+    {
+      title: "Applications of Z Black Granite",
+      content: [
+        "Z Black Granite manufactured by JK Granimarmo is widely used in:",
+      ],
+      points: [
+        "Luxury homes and apartments",
+        "Commercial buildings and corporate offices",
+        "Hotels, malls, and hospitals",
+        "Industrial flooring and heavy-use zones",
+        "Public infrastructure and landscaping",
+      ],
+      text: [
+        "Its versatility and strength make it suitable for projects that demand both performance and elegance.",
+        "With state-of-the-art infrastructure and experienced professionals, JK Granimarmo continues to lead as the Best Z Black Granite Manufacturer in India, supplying premium granite that meets national and international standards while fulfilling bulk and customized project requirements.",
+      ],
+    },
+
+    {
+      title: "Quality Assurance & Standards",
+      content: [
+        "At JK Granimarmo, quality is non-negotiable. Each Z Black Granite slab is inspected for:",
+      ],
+      points: [
+        "Uniform black shade",
+        "Accurate thickness and calibration",
+        "Surface smoothness and polish",
+        "Structural strength and durability",
+      ],
+      text: [
+        "Our commitment to quality ensures that our granite performs exceptionally well even in demanding environments.",
+      ],
+    },
+
+    {
+      title: "Why Choose JK Granimarmo?",
+      content: [
+        "What makes JK Granimarmo stand out in the granite industry:",
+      ],
+      points: [
+        "Consistent premium quality",
+        "Large production capacity",
+        "Competitive manufacturer pricing",
+        "Custom sizes, thicknesses, and finishes",
+        "Reliable supply across India and exports",
+        "Dedicated client support",
+      ],
+      text: [
+        "We combine manufacturing excellence with customer satisfaction, making us a preferred granite partner nationwide.",
+        "If you are also exploring a complete range of granite varieties and manufacturing expertise, visit our home page as the Best Granite Manufacturer in India to discover our full portfolio of premium granite solutions.",
+      ],
+    },
+
+    {
+      title: "Pan-India Supply & Export Capability",
+      content: [
+        "JK Granimarmo supplies Z Black Granite across all major Indian cities and exports to international markets. Our logistics network ensures:",
+      ],
+      points: [
+        "Safe handling and packaging",
+        "On-time delivery",
+        "Consistent product quality",
+      ],
+      text: [
+        "Whether it is a small residential order or a large commercial project, we deliver with the same commitment and professionalism.",
+      ],
+    },
+
+    {
+      title: "Trusted Partner for Architects & Builders",
+      content: [
+        "Architects and builders choose JK Granimarmo for:",
+      ],
+      points: [
+        "Reliable bulk supply",
+        "Consistent granite shade",
+        "Custom cutting options",
+        "Strong project execution support",
+      ],
+      text: [
+        "Our Z Black Granite is designed to add both beauty and durability to modern architectural spaces.",
+      ],
+    },
+
+    {
+      title: "Sustainability & Responsible Practices",
+      content: [
+        "We follow responsible quarrying and manufacturing practices that reduce environmental impact while ensuring long-term resource sustainability. Ethical sourcing and efficient production make JK Granimarmo a future-ready granite manufacturer.",
+      ],
+    },
+
+    {
+      title: "Partner with the Best Z Black Granite Manufacturer in India",
+      content: [
+        "Choosing the right manufacturer is essential for achieving lasting quality and visual excellence in any project. With advanced manufacturing, strict quality control, and industry expertise, JK Granimarmo proudly stands as the Best Z Black Granite Manufacturer in India.",
+        "For premium Z Black Granite that delivers strength, beauty, and reliability, trust JK Granimarmo as your long-term granite manufacturing partner.",
+      ],
+    },
+  ],
+    },
+
+    "north-indian-tiger-skin": {
+  title:
+    "Best Tiger Skin Granite Manufacturer in India – Premium Granite by JK Granimarmo",
+
+  intro: [
+    "When it comes to bold aesthetics and unmatched durability, Tiger Skin Granite stands out as a top choice for modern and luxury construction projects. JK Granimarmo is proudly recognized as the Best Tiger Skin Granite Manufacturer in India, delivering superior-quality granite that combines striking patterns with long-lasting performance. Known for its unique golden-brown tones and dramatic veining, Tiger Skin Granite adds character and elegance to both residential and commercial spaces.",
+    "With advanced manufacturing facilities and strict quality standards, JK Granimarmo ensures that every slab reflects perfection in design, strength, and finish. Our granite is trusted by architects, builders, interior designers, and exporters who seek premium materials that elevate project value.",
+  ],
+
+  sections: [
+    {
+      title: "What Makes Tiger Skin Granite Special?",
+      content: [
+        "Tiger Skin Granite is admired for its distinctive texture and bold appearance. Its natural patterns resemble the stripes of a tiger, giving it a dynamic and luxurious look. Along with visual appeal, it is known for its exceptional hardness and resistance to wear and tear.",
+        "Some of its key features include:",
+      ],
+      points: [
+        "High durability and strength",
+        "Unique golden, brown, and black patterns",
+        "Excellent resistance to heat and scratches",
+        "Low maintenance requirements",
+        "Long-lasting beauty",
+      ],
+      text: [
+        "These qualities make Tiger Skin Granite an ideal choice for areas that demand both elegance and durability.",
+      ],
+    },
+
+    {
+      title: "About JK Granimarmo – Excellence in Granite Manufacturing",
+      content: [
+        "JK Granimarmo is a trusted name in the natural stone industry, known for its advanced manufacturing processes and premium granite quality. As the Best Tiger Skin Granite Manufacturer in India, we maintain full control over quarrying, processing, polishing, and final inspection to ensure flawless output.",
+        "Our infrastructure includes:",
+      ],
+      points: [
+        "State-of-the-art cutting and polishing machinery",
+        "Precision finishing units",
+        "Skilled technicians and quality control teams",
+      ],
+      text: [
+        "This systematic approach allows us to deliver consistent quality across every batch and meet the diverse requirements of clients across India and abroad.",
+      ],
+    },
+
+    {
+      title: "Applications of Tiger Skin Granite",
+      content: [
+        "Tiger Skin Granite is widely used in both residential and commercial projects due to its strength and distinctive appearance. Some of its major applications include:",
+      ],
+      points: [
+        "Flooring in luxury homes and villas",
+        "Kitchen countertops and platforms",
+        "Staircases and wall cladding",
+        "Hotel lobbies and reception areas",
+        "Commercial complexes and office interiors",
+        "Exterior facades and landscape features",
+      ],
+      text: [
+        "Its ability to withstand heavy foot traffic and environmental conditions makes it suitable for indoor and outdoor applications.",
+      ],
+    },
+
+    {
+      title: "Manufacturing Process at JK Granimarmo",
+      content: [
+        "At JK Granimarmo, the manufacturing process is designed to deliver precision and perfection. From selecting the finest granite blocks to processing them using modern equipment, every step is carefully managed.",
+        "Our process includes:",
+      ],
+      points: [
+        "Quarry selection and block extraction",
+        "Cutting blocks into slabs using advanced machinery",
+        "Polishing and surface finishing",
+        "Resin treatment for enhanced durability",
+        "Quality inspection and packaging",
+      ],
+      text: [
+        "This ensures that every slab meets the highest standards and reinforces our reputation as the Best Tiger Skin Granite Manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Quality Assurance and Durability Standards",
+      content: [
+        "Quality is the backbone of JK Granimarmo’s operations. Each Tiger Skin Granite slab is thoroughly checked for:",
+      ],
+      points: [
+        "Thickness accuracy",
+        "Surface uniformity",
+        "Structural integrity",
+        "Color consistency",
+      ],
+      text: [
+        "These measures guarantee that our granite maintains its strength, beauty, and durability even in demanding environments.",
+      ],
+    },
+
+    {
+      title: "Why Choose JK Granimarmo for Tiger Skin Granite?",
+      content: [
+        "Choosing the right granite manufacturer is crucial for achieving superior results. JK Granimarmo stands apart due to its commitment to quality, reliability, and customer satisfaction.",
+        "Key benefits include:",
+      ],
+      points: [
+        "Premium-grade granite sourced from selected quarries",
+        "Consistent quality and uniform patterns",
+        "Competitive pricing for bulk orders",
+        "Custom sizing and finishing options",
+        "Timely delivery across India",
+      ],
+      text: [
+        "Our strong reputation in the granite industry has positioned us alongside the Best Granite Manufacturer in India, making JK Granimarmo a trusted partner for premium stone solutions.",
+      ],
+    },
+
+    {
+      title: "Export-Quality Tiger Skin Granite",
+      content: [
+        "JK Granimarmo also caters to international markets by supplying export-grade Tiger Skin Granite. Our products meet global quality standards and are securely packed to ensure safe transportation.",
+        "We serve:",
+      ],
+      points: [
+        "International architects and developers",
+        "Construction firms",
+        "Stone distributors",
+        "Luxury interior design projects",
+      ],
+      text: [
+        "This global presence further strengthens our credibility as the Best Tiger Skin Granite Manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Sustainable and Responsible Manufacturing",
+      content: [
+        "We follow responsible quarrying and manufacturing practices that minimize environmental impact. By optimizing resource usage and reducing waste, JK Granimarmo contributes to sustainable development while maintaining premium quality.",
+      ],
+    },
+
+    {
+      title: "Customization Options",
+      content: [
+        "To meet project-specific needs, we offer:",
+      ],
+      points: [
+        "Custom slab sizes",
+        "Different thickness options",
+        "Polished, honed, leather, and flamed finishes",
+        "Edge profiling",
+      ],
+      text: [
+        "These options ensure that Tiger Skin Granite fits seamlessly into any architectural or design vision.",
+      ],
+    },
+
+    {
+      title: "Choose the Best Tiger Skin Granite Manufacturer in India",
+      content: [
+        "Tiger Skin Granite is an investment in durability, luxury, and timeless beauty. Choosing a reliable manufacturer ensures consistent quality and long-term value. With modern infrastructure, skilled craftsmanship, and a commitment to excellence, JK Granimarmo continues to lead as the Best Tiger Skin Granite Manufacturer in India.",
+        "If you are looking for premium Tiger Skin Granite that combines strength, aesthetics, and superior finish, JK Granimarmo is your trusted partner for quality stone solutions.",
+      ],
+    },
+  ],
+    },
+
+    "north-indian-tan-brown": {
+  title:
+    "Best Tan Brown Granite Manufacturer in India – Premium Granite by JK Granimarmo",
+
+  intro: [
+    "Tan Brown Granite is one of the most premium and globally demanded granite varieties, known for its rich dark brown base, striking reddish crystals, and exceptional durability. JK Granimarmo is proud to be recognized as the Best Tan Brown Granite Manufacturer in India, delivering superior-quality granite that perfectly balances luxury, strength, and timeless appeal. Our Tan Brown Granite is widely used in high-end residential projects, luxury commercial spaces, hotels, and large architectural developments across India and international markets.",
+    "With advanced manufacturing facilities and a quality-driven approach, JK Granimarmo ensures that every slab of Tan Brown Granite meets international standards in terms of finish, consistency, and performance. Our granite is not just a building material; it is a statement of elegance and long-lasting value.",
+  ],
+
+  sections: [
+    {
+      title: "The Growing Demand for Tan Brown Granite",
+      content: [
+        "Tan Brown Granite is admired for its bold appearance and exceptional strength. Its natural pattern, which features rich brown tones combined with black and copper-colored mineral deposits, makes it a preferred choice for premium interiors and exteriors. This granite variety is resistant to scratches, heat, moisture, and wear, making it ideal for both functional and decorative applications.",
+        "As the Best Tan Brown Granite Manufacturer in India, JK Granimarmo supplies granite that is sourced from premium quarries and processed using modern technology. Our focus on uniform color, precise cutting, and superior polishing ensures that clients receive granite that enhances both aesthetics and durability.",
+      ],
+    },
+
+    {
+      title: "About JK Granimarmo – Excellence in Granite Manufacturing",
+      content: [
+        "JK Granimarmo is a trusted name in the natural stone industry, known for manufacturing and supplying premium granite varieties. Our manufacturing process is carefully designed to maintain consistency, quality, and reliability at every stage.",
+        "Our infrastructure includes:",
+      ],
+      points: [
+        "Modern gang saw and cutting machines",
+        "Advanced polishing and surface treatment lines",
+        "Strict quality control systems",
+        "Skilled technicians and granite experts",
+      ],
+      text: [
+        "This end-to-end control over production allows JK Granimarmo to deliver flawless Tan Brown Granite, strengthening our reputation as the Best Tan Brown Granite Manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Superior Quality Tan Brown Granite",
+      content: [
+        "At JK Granimarmo, quality is the foundation of everything we do. Our Tan Brown Granite is known for:",
+      ],
+      points: [
+        "High compressive strength",
+        "Excellent resistance to heat and stains",
+        "Long-lasting polish and surface finish",
+        "Uniform thickness and dimensional accuracy",
+        "Exceptional durability for heavy-traffic areas",
+      ],
+      text: [
+        "Each slab undergoes detailed inspection before dispatch to ensure that it meets strict quality benchmarks. This attention to detail makes our granite suitable for both domestic and international projects.",
+      ],
+    },
+
+    {
+      title: "Applications of Tan Brown Granite",
+      content: [
+        "Tan Brown Granite is widely used across a variety of applications due to its durability and luxurious appearance:",
+      ],
+      points: [
+        "Kitchen countertops and platforms",
+        "Flooring in luxury homes and villas",
+        "Wall cladding and feature walls",
+        "Staircases and window sills",
+        "Hotel lobbies and commercial interiors",
+        "Exterior facades and landscape areas",
+      ],
+      text: [
+        "Because of its versatility and strength, Tan Brown Granite is an ideal choice for projects that require both elegance and long-term performance.",
+      ],
+    },
+
+    {
+      title: "Advanced Manufacturing Process",
+      content: [
+        "As the Best Tan Brown Granite Manufacturer in India, JK Granimarmo follows a systematic and technologically advanced manufacturing process:",
+      ],
+      points: [
+        "Selection of high-quality granite blocks",
+        "Precision cutting using modern machinery",
+        "Surface treatment for enhanced durability",
+        "High-gloss and matte finish polishing",
+        "Final quality inspection and safe packaging",
+      ],
+      text: [
+        "This streamlined approach ensures consistency and superior finish in every granite slab we manufacture.",
+      ],
+    },
+
+    {
+      title: "Why Choose JK Granimarmo for Tan Brown Granite",
+      content: [
+        "Choosing the right manufacturer is crucial for project success. JK Granimarmo stands out because of its commitment to quality, transparency, and customer satisfaction.",
+        "Key advantages include:",
+      ],
+      points: [
+        "Premium-grade Tan Brown Granite directly from manufacturing units",
+        "Large production capacity for bulk requirements",
+        "Competitive pricing without compromising quality",
+        "Custom thickness, sizes, and finishes",
+        "Timely delivery across India and global markets",
+      ],
+      text: [
+        "Clients looking for the Best Granite Manufacturer in India often rely on JK Granimarmo for consistent quality and dependable service.",
+      ],
+    },
+
+    {
+      title: "Pan-India Supply & Global Export Capability",
+      content: [
+        "JK Granimarmo supplies Tan Brown Granite to major cities across India and exports to international markets. Our strong logistics network ensures secure packaging and safe transportation, even for large volumes.",
+        "We understand the requirements of global buyers and adhere to international quality standards, making our granite suitable for premium architectural and commercial projects worldwide.",
+      ],
+    },
+
+    {
+      title: "Sustainable and Responsible Manufacturing",
+      content: [
+        "We believe in responsible stone processing and sustainable practices. JK Granimarmo follows ethical sourcing, efficient material usage, and environmentally conscious manufacturing methods. This not only preserves natural resources but also ensures long-term business sustainability and client trust.",
+      ],
+    },
+
+    {
+      title: "Trusted Partner for Premium Granite Projects",
+      content: [
+        "JK Granimarmo works closely with architects, builders, interior designers, and infrastructure developers to deliver granite solutions that meet exact design and performance expectations. Our Tan Brown Granite enhances spaces with a perfect combination of elegance, durability, and natural beauty.",
+        "As the Best Tan Brown Granite Manufacturer in India, we continue to set benchmarks in quality, reliability, and customer satisfaction.",
+      ],
+    },
+
+    {
+      title: "Best Tan Brown Granite Manufacturer in India – JK Granimarmo",
+      content: [
+        "Tan Brown Granite is an investment in luxury and long-lasting strength. Selecting the right manufacturer ensures superior results and long-term value. With modern infrastructure, experienced professionals, and a quality-first approach, JK Granimarmo proudly leads as the Best Tan Brown Granite Manufacturer in India.",
+        "If you are planning a premium residential, commercial, or architectural project and want granite that delivers unmatched elegance and durability, JK Granimarmo is your trusted manufacturing partner.",
+      ],
+    },
+  ],
+    },
+
+    "north-indian-r.black": {
+  title:
+    "Best R Black Granite Manufacturer in India – Premium Quality by JK Granimarmo",
+
+  intro: [
+    "Granite is one of the most durable and visually striking natural stones, and R Black Granite is among the most preferred choices for modern architecture and luxury interiors. JK Granimarmo proudly stands as the Best R Black Granite Manufacturer in India, offering premium-grade R Black Granite that combines strength, elegance, and long-lasting performance. Our granite is widely used in residential, commercial, and industrial projects where quality and consistency matter the most.",
+    "With advanced manufacturing facilities and a strong quality-control system, JK Granimarmo ensures that every slab of R Black Granite meets the highest industry standards. Our commitment to excellence has earned us the trust of architects, builders, contractors, and exporters across India and international markets.",
+  ],
+
+  sections: [
+    {
+      title: "Why R Black Granite Is in High Demand",
+      content: [
+        "R Black Granite is known for its deep black color, uniform texture, and exceptional durability. Its timeless appeal makes it suitable for a wide range of applications, from luxury interiors to heavy-duty exterior installations. This granite variety offers:",
+      ],
+      points: [
+        "High resistance to scratches and wear",
+        "Low water absorption",
+        "Long-lasting polish",
+        "Elegant and premium appearance",
+      ],
+      text: [
+        "As the Best R Black Granite Manufacturer in India, JK Granimarmo supplies granite that is perfect for projects demanding both strength and sophisticated aesthetics.",
+      ],
+    },
+
+    {
+      title: "About JK Granimarmo – Excellence in Granite Manufacturing",
+      content: [
+        "JK Granimarmo is a leading natural stone manufacturer known for its precision processing and premium quality standards. Our granite manufacturing process is designed to deliver consistency and perfection in every slab.",
+        "Our infrastructure includes:",
+      ],
+      points: [
+        "Advanced gang saws and cutting machines",
+        "Precision polishing and surface finishing units",
+        "Skilled professionals and strict quality inspection teams",
+      ],
+      text: [
+        "This integrated manufacturing system allows JK Granimarmo to maintain complete control over quality and production, strengthening our position as the Best R Black Granite Manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Manufacturing Process of R Black Granite",
+      content: [
+        "Our R Black Granite is manufactured using a systematic and quality-driven approach:",
+      ],
+      points: [
+        "Block Selection – Only premium-grade raw blocks are selected from trusted quarries.",
+        "Precision Cutting – Blocks are cut into slabs using high-accuracy machinery.",
+        "Surface Treatment – Slabs undergo polishing, honing, or leather finishing as required.",
+        "Quality Inspection – Each slab is checked for thickness, color uniformity, and surface finish.",
+        "Final Packaging – Safe and secure packaging for damage-free transportation.",
+      ],
+      text: [
+        "This detailed process ensures that clients receive granite of superior quality and long-lasting performance.",
+      ],
+    },
+
+    {
+      title: "Applications of R Black Granite",
+      content: [
+        "R Black Granite manufactured by JK Granimarmo is suitable for a wide range of applications, including:",
+      ],
+      points: [
+        "Kitchen countertops and platforms",
+        "Flooring and wall cladding",
+        "Staircases and window sills",
+        "Bathroom vanities and wash areas",
+        "Exterior facades and paving",
+        "Commercial spaces and high-traffic areas",
+      ],
+      text: [
+        "Its high strength and elegant look make it a top choice for both functional and decorative purposes.",
+      ],
+    },
+
+    {
+      title: "Quality Assurance & Performance Standards",
+      content: [
+        "Quality is the foundation of our manufacturing philosophy. Every slab of R Black Granite is tested for:",
+      ],
+      points: [
+        "Structural strength and durability",
+        "Thickness accuracy and surface smoothness",
+        "Color consistency and finish quality",
+        "Resistance to moisture and wear",
+      ],
+      text: [
+        "These strict quality measures reinforce our reputation as the Best R Black Granite Manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Why Choose JK Granimarmo for R Black Granite?",
+      content: [
+        "JK Granimarmo stands out due to its dedication to quality, transparency, and customer satisfaction. Clients prefer us because we offer:",
+      ],
+      points: [
+        "Premium-quality R Black Granite directly from manufacturing units",
+        "Large production capacity for bulk and project requirements",
+        "Competitive pricing without quality compromise",
+        "Custom thickness, finishes, and sizing options",
+        "Timely delivery across India and export markets",
+      ],
+      text: [
+        "Our commitment to excellence makes us a trusted partner for long-term granite supply.",
+      ],
+    },
+
+    {
+      title: "Trusted Name in the Granite Industry",
+      content: [
+        "JK Granimarmo has earned recognition not only for R Black Granite but also for its overall expertise in granite manufacturing. Clients seeking the Best Granite Manufacturer in India often associate JK Granimarmo with reliability, quality, and consistency, making us a preferred brand in the natural stone industry.",
+      ],
+    },
+
+    {
+      title: "Pan-India Supply & Export Capability",
+      content: [
+        "We supply R Black Granite to all major cities across India and also export to international markets. Our strong logistics network and advanced packaging methods ensure safe delivery and on-time execution of orders, regardless of size or location.",
+        "Whether it is a luxury residential project or a large commercial development, JK Granimarmo has the capacity and experience to meet your granite requirements efficiently.",
+      ],
+    },
+
+    {
+      title: "Sustainability & Responsible Manufacturing",
+      content: [
+        "We follow responsible quarrying and manufacturing practices that minimize environmental impact. Efficient resource utilization, waste reduction, and ethical sourcing define our approach, ensuring long-term sustainability and compliance with industry standards.",
+      ],
+    },
+
+    {
+      title: "Partner with the Best R Black Granite Manufacturer in India",
+      content: [
+        "Choosing the right manufacturer is crucial to ensure durability, aesthetics, and value for money. With modern infrastructure, strict quality control, and a customer-first approach, JK Granimarmo continues to lead as the Best R Black Granite Manufacturer in India.",
+        "If you are planning a project that demands premium-quality granite with unmatched strength and elegance, trust JK Granimarmo for reliable manufacturing, flawless finishing, and professional service.",
+      ],
+    },
+  ],
+    },
+
+    "north-indian-majestik-black": {
+  title:
+    "Best Majestik Black Granite Manufacturer in India – Premium Quality by JK Granimarmo",
+
+  intro: [
+    "When it comes to strength, elegance, and timeless appeal, Majestik Black Granite stands out as one of the most preferred natural stones in the market. JK Granimarmo is proudly recognized as the Best Majestik Black Granite Manufacturer in India, offering premium-grade granite that meets the highest standards of durability, aesthetics, and performance. Our Majestik Black Granite is widely used in residential, commercial, and architectural projects where quality and visual impact matter the most.",
+    "With years of experience in natural stone manufacturing, JK Granimarmo combines advanced technology with skilled craftsmanship to deliver granite that reflects excellence in every slab. From quarry selection to final finishing, our manufacturing process is designed to ensure consistency, strength, and flawless appearance.",
+  ],
+
+  sections: [
+    {
+      title: "About Majestik Black Granite",
+      content: [
+        "Majestik Black Granite is known for its deep black background, uniform texture, and exceptional hardness. Its rich color and polished finish make it an ideal choice for modern and luxury spaces. This granite variety is highly resistant to scratches, heat, and moisture, making it suitable for both interior and exterior applications.",
+        "As the Best Majestik Black Granite Manufacturer in India, JK Granimarmo ensures that every slab maintains perfect color consistency and surface quality. Our granite enhances the visual appeal of any space while offering long-term durability.",
+      ],
+    },
+
+    {
+      title: "About JK Granimarmo – Excellence in Granite Manufacturing",
+      content: [
+        "JK Granimarmo is a trusted name in the natural stone industry, known for its commitment to quality, precision, and customer satisfaction. Our granite manufacturing unit is equipped with modern machinery that enables accurate cutting, polishing, and finishing.",
+        "Our infrastructure includes:",
+      ],
+      points: [
+        "Advanced gang saw and block cutting machines",
+        "Automatic polishing and surface treatment lines",
+        "Quality testing and inspection facilities",
+      ],
+      text: [
+        "This integrated approach allows us to deliver superior Majestik Black Granite in both standard and customized sizes, establishing us as the Best Majestik Black Granite Manufacturer in India for diverse project requirements.",
+      ],
+    },
+
+    {
+      title: "Applications of Majestik Black Granite",
+      content: [
+        "Majestik Black Granite is highly versatile and widely used across different sectors:",
+      ],
+      points: [
+        "Kitchen countertops and platforms",
+        "Flooring and wall cladding",
+        "Staircases and window sills",
+        "Building facades and exterior elevation",
+        "Commercial complexes and luxury interiors",
+        "Monuments and architectural structures",
+      ],
+      text: [
+        "Its strength and low maintenance make it a long-term investment for high-traffic and premium spaces.",
+      ],
+    },
+
+    {
+      title: "Manufacturing Process at JK Granimarmo",
+      content: [
+        "Our granite manufacturing process follows strict quality standards:",
+      ],
+      points: [
+        "Selection of Raw Blocks",
+        "Precision Cutting",
+        "Surface Treatment",
+        "Quality Inspection",
+      ],
+      text: [
+        "Only premium-grade granite blocks are chosen to ensure uniform texture and strength.",
+        "Advanced cutting machines provide accurate dimensions and reduce material wastage.",
+        "Slabs are polished, flamed, or leather-finished based on application requirements.",
+        "Each slab is checked for thickness, color consistency, and surface perfection.",
+      ],
+    },
+
+    {
+      title: "Why Majestik Black Granite Is a Preferred Choice",
+      content: [
+        "Majestik Black Granite is favored by architects and designers due to its:",
+      ],
+      points: [
+        "Luxurious black finish",
+        "Exceptional durability",
+        "Low water absorption",
+        "Easy maintenance",
+        "Compatibility with modern and classic designs",
+      ],
+      text: [
+        "Its bold appearance adds sophistication and strength to any architectural space.",
+      ],
+    },
+
+    {
+      title: "What Makes JK Granimarmo Stand Out",
+      content: [
+        "In a competitive market, JK Granimarmo has built a reputation based on trust, quality, and reliability. Our focus on innovation and customer satisfaction makes us different from other manufacturers.",
+        "Key advantages of choosing JK Granimarmo:",
+      ],
+      points: [
+        "Direct manufacturing and quality control",
+        "Consistent supply for bulk projects",
+        "Competitive pricing without quality compromise",
+        "Customization in thickness, size, and finish",
+        "On-time delivery across India and abroad",
+      ],
+      text: [
+        "Our commitment to excellence has strengthened our position as the Best Majestik Black Granite Manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Pan-India Supply and Export Capabilities",
+      content: [
+        "JK Granimarmo supplies Majestik Black Granite across major Indian cities and also exports to international markets. Our strong logistics network ensures safe packaging and timely delivery.",
+        "Whether the project is residential, commercial, or large-scale infrastructure, we have the capability to fulfill all granite requirements efficiently.",
+      ],
+    },
+
+    {
+      title: "Trusted by Architects and Builders",
+      content: [
+        "Architects, builders, and contractors prefer JK Granimarmo for its consistent quality and professional approach. Our Majestik Black Granite has been used in numerous premium projects where durability and elegance were essential.",
+        "Many clients who seek the Best Granite Manufacturer in India rely on JK Granimarmo for reliable manufacturing standards and superior product quality.",
+      ],
+    },
+
+    {
+      title: "Sustainability and Responsible Manufacturing",
+      content: [
+        "JK Granimarmo believes in sustainable practices and responsible sourcing. We follow ethical quarrying methods and optimize resource utilization to minimize environmental impact. This approach ensures long-term growth while maintaining ecological balance.",
+      ],
+    },
+
+    {
+      title: "Choose Excellence with JK Granimarmo",
+      content: [
+        "Choosing the right manufacturer plays a crucial role in the success of any project. With advanced manufacturing facilities, strict quality control, and a wide distribution network, JK Granimarmo continues to deliver unmatched value in granite products.",
+        "Our dedication to precision, durability, and customer satisfaction has made us a trusted name among granite buyers across the country.",
+      ],
+    },
+
+    {
+      title: "Your Trusted Partner in Majestik Black Granite",
+      content: [
+        "If you are looking for premium-quality Majestik Black Granite that combines strength, beauty, and reliability, JK Granimarmo is the right choice. With years of industry experience and modern manufacturing capabilities, we continue to lead as the Best Majestik Black Granite Manufacturer in India.",
+        "Our granite enhances architectural brilliance and adds lasting value to every project, making JK Granimarmo a preferred partner for excellence in natural stone manufacturing.",
+      ],
+    },
+  ],
+   },
+
+   "north-indian-cherry-red": {
+  title:
+    "Best Cherry Red Granite Manufacturer in India – Premium Quality by JK Granimarmo",
+
+  intro: [
+    "Cherry Red Granite is one of the most striking and durable natural stones, known for its rich red color, uniform grain pattern, and exceptional strength. JK Granimarmo proudly stands as the Best Cherry Red Granite Manufacturer in India, offering superior-quality granite that enhances the beauty and longevity of residential, commercial, and architectural projects.",
+    "With advanced manufacturing facilities and a commitment to excellence, JK Granimarmo ensures that every slab of Cherry Red Granite meets the highest standards of durability, finish, and visual appeal. Our granite is widely used by architects, builders, and designers who seek a perfect balance of aesthetics and performance.",
+    "Cherry Red Granite is admired for its vibrant tone, resistance to wear, and low maintenance, making it an ideal choice for both interior and exterior applications. At JK Granimarmo, we combine natural stone expertise with modern technology to deliver granite that truly stands out.",
+  ],
+
+  sections: [
+    {
+      title: "Why Cherry Red Granite Is a Preferred Choice",
+      content: [
+        "Cherry Red Granite is valued for its unique appearance and robust nature. Its deep red shade adds warmth and luxury to any space, while its dense structure ensures long-term durability. This granite variety is suitable for areas that experience heavy foot traffic and harsh weather conditions.",
+        "Some of the key benefits of Cherry Red Granite include:",
+      ],
+      points: [
+        "Exceptional hardness and strength",
+        "Resistance to scratches and stains",
+        "Low water absorption",
+        "Long-lasting color and shine",
+        "Easy maintenance",
+      ],
+      text: [
+        "As the Best Cherry Red Granite Manufacturer in India, JK Granimarmo ensures that each slab retains its natural beauty and superior performance for years to come.",
+      ],
+    },
+
+    {
+      title: "About JK Granimarmo",
+      content: [
+        "JK Granimarmo is a trusted name in the natural stone industry, known for manufacturing and supplying premium granite products. Our Cherry Red Granite is sourced from carefully selected quarries and processed using advanced machinery to ensure precision, consistency, and durability.",
+        "Our manufacturing unit is equipped with:",
+      ],
+      points: [
+        "High-precision cutting machines",
+        "Advanced polishing lines",
+        "Quality inspection systems",
+        "Skilled craftsmen and technicians",
+      ],
+      text: [
+        "This integrated manufacturing approach allows us to maintain complete control over quality and deliver products that meet global standards.",
+      ],
+    },
+
+    {
+      title: "Manufacturing Excellence in Cherry Red Granite",
+      content: [
+        "Our granite manufacturing process is designed to ensure flawless results. From block selection to the final polished slab, every step is carefully monitored.",
+        "The process includes:",
+      ],
+      points: [
+        "Selection of premium-grade granite blocks",
+        "Precision cutting to exact dimensions",
+        "Surface treatment for enhanced strength",
+        "High-gloss polishing for superior finish",
+        "Strict quality checks before dispatch",
+      ],
+      text: [
+        "This dedication to precision makes JK Granimarmo the Best Cherry Red Granite Manufacturer in India for projects that demand perfection.",
+      ],
+    },
+
+    {
+      title: "Applications of Cherry Red Granite",
+      content: [
+        "Cherry Red Granite is widely used in various residential and commercial applications, including:",
+      ],
+      points: [
+        "Flooring in homes and commercial spaces",
+        "Kitchen countertops and platforms",
+        "Staircases and window sills",
+        "Exterior cladding and building facades",
+        "Monuments and landscaping projects",
+      ],
+      text: [
+        "Its natural beauty and durability make it a preferred choice for architects and designers who want a bold yet timeless finish.",
+      ],
+    },
+
+    {
+      title: "Quality Assurance and Standards",
+      content: [
+        "At JK Granimarmo, quality is never compromised. Every Cherry Red Granite slab undergoes strict testing for:",
+      ],
+      points: [
+        "Thickness accuracy",
+        "Surface uniformity",
+        "Color consistency",
+        "Structural strength",
+        "Polishing quality",
+      ],
+      text: [
+        "Our rigorous quality control processes ensure that clients receive granite that is reliable, long-lasting, and visually flawless.",
+      ],
+    },
+
+    {
+      title: "Why Choose JK Granimarmo",
+      content: [
+        "Choosing the right granite manufacturer is essential for the success of any project. JK Granimarmo offers unmatched reliability and product excellence.",
+        "Reasons to choose us:",
+      ],
+      points: [
+        "Premium-quality Cherry Red Granite",
+        "Modern manufacturing facilities",
+        "Competitive pricing",
+        "Large production capacity",
+        "Custom sizes and finishes",
+        "Timely delivery across India",
+      ],
+      text: [
+        "Our strong reputation and long-term client relationships are proof of our commitment to quality and service.",
+        "To explore our complete granite manufacturing expertise, you can also visit our main page as the Best Granite Manufacturer in India, where we showcase our full range of premium granite products.",
+      ],
+    },
+
+    {
+      title: "Pan-India Supply and Export Capability",
+      content: [
+        "JK Granimarmo supplies Cherry Red Granite to all major cities across India and also caters to international markets. Our strong logistics network ensures safe packaging and on-time delivery, regardless of order size.",
+        "Whether you need granite for a small residential project or a large commercial development, we have the capacity and expertise to meet your requirements.",
+      ],
+    },
+
+    {
+      title: "Partner with the Best Cherry Red Granite Manufacturer in India",
+      content: [
+        "Cherry Red Granite is an investment in strength, beauty, and long-term value. Partnering with a reliable manufacturer ensures consistent quality and superior results. With advanced infrastructure, expert craftsmanship, and a customer-focused approach, JK Granimarmo continues to lead as the Best Cherry Red Granite Manufacturer in India.",
+        "For premium Cherry Red Granite that combines elegance, durability, and performance, trust JK Granimarmo as your preferred granite manufacturing partner.",
+      ],
+    },
+  ],
+  },
+
+  "north-indian-cateyes": {
+  title:
+    "Best Cateyes Granite Manufacturer in India – Premium Quality by JK Granimarmo",
+
+  intro: [
+    "Granite is a symbol of strength, elegance, and long-lasting beauty, and Cateyes Granite stands out for its distinctive patterns and rich appearance. JK Granimarmo is proudly known as the Best Cateyes Granite Manufacturer in India, delivering premium-grade granite that enhances the aesthetics and durability of residential, commercial, and architectural projects. Our Cateyes Granite is carefully processed to ensure consistent quality, exceptional finish, and long-term performance.",
+    "With years of expertise in natural stone manufacturing, JK Granimarmo combines advanced technology with skilled craftsmanship to create granite products that meet both Indian and international standards. From sourcing raw blocks to final polishing, every step is handled with precision and quality control.",
+  ],
+
+  sections: [
+    {
+      title: "About Cateyes Granite",
+      content: [
+        "Cateyes Granite is admired for its unique texture, striking color tones, and natural elegance. Its distinctive appearance makes it a preferred choice for luxury interiors and premium architectural projects. This granite variety offers an ideal balance between beauty and durability, making it suitable for both interior and exterior applications.",
+      ],
+      text: [
+        "As the Best Cateyes Granite Manufacturer in India, JK Granimarmo ensures that every slab of Cateyes Granite reflects superior craftsmanship, structural strength, and visual consistency. Our granite is processed to withstand heavy usage while maintaining its elegant finish for years.",
+      ],
+    },
+
+    {
+      title: "JK Granimarmo – Excellence in Granite Manufacturing",
+      content: [
+        "JK Granimarmo is a trusted name in the natural stone industry, recognized for its commitment to quality and innovation. Our manufacturing facilities are equipped with advanced machinery that allows precise cutting, surface treatment, and polishing of Cateyes Granite.",
+        "Our production process includes:",
+      ],
+      points: [
+        "Selection of premium raw granite blocks",
+        "Advanced cutting and shaping technology",
+        "Resin treatment and surface strengthening",
+        "High-gloss and matte polishing options",
+        "Strict quality inspection before dispatch",
+      ],
+      text: [
+        "This systematic approach has established JK Granimarmo as a reliable partner for clients looking for the finest Cateyes Granite products.",
+      ],
+    },
+
+    {
+      title: "Applications of Cateyes Granite",
+      content: [
+        "Cateyes Granite is widely used in a variety of architectural and interior design applications, including:",
+      ],
+      points: [
+        "Flooring for luxury homes and apartments",
+        "Wall cladding in commercial spaces",
+        "Kitchen countertops and platforms",
+        "Staircases and window sills",
+        "Hotel lobbies and reception areas",
+        "Corporate offices and retail interiors",
+      ],
+      text: [
+        "Its durability and resistance to wear make it an excellent choice for high-traffic areas, while its natural patterns add a premium look to any space.",
+      ],
+    },
+
+    {
+      title: "Quality Assurance and Manufacturing Standards",
+      content: [
+        "At JK Granimarmo, quality is at the core of our operations. Each slab of Cateyes Granite undergoes rigorous inspection for:",
+      ],
+      points: [
+        "Uniform color and texture",
+        "Thickness accuracy and dimensional stability",
+        "Surface finish and polish quality",
+        "Structural integrity and durability",
+      ],
+      text: [
+        "This attention to detail strengthens our reputation as the Best Cateyes Granite Manufacturer in India, ensuring that our clients receive granite products that meet the highest industry benchmarks.",
+      ],
+    },
+
+    {
+      title: "Why Cateyes Granite from JK Granimarmo?",
+      content: [
+        "Choosing the right manufacturer is essential to achieve superior results in any granite-based project. JK Granimarmo offers unmatched advantages:",
+      ],
+      points: [
+        "Premium-quality Cateyes Granite directly from manufacturing units",
+        "Consistent supply for bulk and project requirements",
+        "Competitive pricing without compromising quality",
+        "Custom sizing and finishing options",
+        "Reliable delivery across India",
+      ],
+      text: [
+        "Our experience and dedication to excellence make us a preferred choice for architects, builders, and interior designers nationwide.",
+      ],
+    },
+
+    {
+      title: "Trusted Among Granite Manufacturers in India",
+      content: [
+        "In a competitive industry, trust and consistency define success. JK Granimarmo continues to build strong relationships with clients by delivering quality-driven solutions. Our manufacturing expertise and infrastructure support large-scale requirements while maintaining premium standards.",
+        "To explore our complete granite manufacturing capabilities, visit our homepage as the Best Granite Manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Sustainable and Responsible Manufacturing",
+      content: [
+        "JK Granimarmo follows responsible manufacturing practices to reduce environmental impact. We focus on:",
+      ],
+      points: [
+        "Efficient use of natural resources",
+        "Ethical sourcing of raw materials",
+        "Minimization of processing waste",
+        "Safe working conditions for employees",
+      ],
+      text: [
+        "This sustainable approach ensures long-term value for our clients while contributing to environmental conservation.",
+      ],
+    },
+
+    {
+      title: "Pan-India Supply and Export Capability",
+      content: [
+        "JK Granimarmo supplies Cateyes Granite across major Indian cities and also serves international markets. Our strong logistics network and protective packaging methods ensure safe transportation and timely delivery, regardless of order size or destination.",
+        "Whether it is a residential project or a large commercial development, we have the capacity and expertise to meet every requirement efficiently.",
+      ],
+    },
+
+    {
+      title: "Partner with the Best Cateyes Granite Manufacturer in India",
+      content: [
+        "Cateyes Granite adds sophistication, strength, and timeless appeal to any space. Choosing a reliable manufacturer ensures quality results and long-term performance. With advanced infrastructure, strict quality control, and years of experience, JK Granimarmo continues to lead as the Best Cateyes Granite Manufacturer in India.",
+        "If you are planning a project that demands premium aesthetics and uncompromising durability, trust JK Granimarmo to deliver excellence in every slab.",
+      ],
+    },
+  ],
+  },
+
+  "north-indian-3d-finish": {
+  title:
+    "Best 3D Finish Granite Manufacturer in India – Premium Textured Granite by JK Granimarmo",
+
+  intro: [
+    "In today’s modern architecture and interior design, 3D finish granite has emerged as a premium choice for creating bold, luxurious, and visually striking spaces. JK Granimarmo is widely recognized as the Best 3D Finish Granite Manufacturer in India, delivering high-quality textured granite that blends strength, durability, and artistic elegance. Our 3D finish granite products are crafted to add depth, dimension, and character to both residential and commercial projects.",
+    "With advanced manufacturing techniques and a strong commitment to quality, JK Granimarmo transforms natural granite into innovative surface solutions that redefine contemporary design. Our products are ideal for clients who want something beyond traditional polished granite and are looking for a unique architectural statement.",
+  ],
+
+  sections: [
+    {
+      title: "What is 3D Finish Granite?",
+      content: [
+        "3D finish granite is a specially processed form of granite that features textured, sculpted, or raised surface patterns. Unlike smooth polished granite, 3D finish granite creates a dramatic visual effect by adding depth and shadow to surfaces. This makes it an excellent choice for feature walls, exterior facades, accent panels, and luxury interiors.",
+      ],
+      text: [
+        "As the Best 3D Finish Granite Manufacturer in India, JK Granimarmo uses modern machinery and skilled craftsmanship to create uniform, high-quality textures that enhance the natural beauty of granite while maintaining its inherent strength and durability.",
+      ],
+    },
+
+    {
+      title: "About JK Granimarmo – Excellence in Granite Manufacturing",
+      content: [
+        "JK Granimarmo is a leading name in the natural stone industry, known for innovation, quality, and reliability. Our manufacturing facility is equipped with advanced technology that enables precise cutting, shaping, and finishing of granite slabs. We specialize in developing premium 3D finish granite surfaces that meet the aesthetic and technical requirements of modern architecture.",
+        "Our manufacturing process includes:",
+      ],
+      points: [
+        "Selection of premium-grade granite blocks",
+        "Precision cutting and shaping",
+        "Advanced surface texturing techniques",
+        "Strict quality inspection and finishing",
+      ],
+      text: [
+        "This structured approach ensures that every slab meets international quality standards, reinforcing our reputation as the Best 3D Finish Granite Manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Wide Range of 3D Finish Granite Designs",
+      content: [
+        "JK Granimarmo offers an extensive variety of 3D finish granite patterns and textures to suit different design styles and applications:",
+      ],
+      points: [
+        "Linear textured granite for modern interiors",
+        "Geometric 3D patterns for bold architectural statements",
+        "Natural rock finish granite for rustic appeal",
+        "Wave and ripple textures for artistic spaces",
+        "Custom-designed 3D finishes based on project needs",
+      ],
+      text: [
+        "Each design is carefully crafted to enhance the natural color, grain, and character of granite while adding a unique visual dimension.",
+      ],
+    },
+
+    {
+      title: "Applications of 3D Finish Granite",
+      content: [
+        "3D finish granite is versatile and suitable for both interior and exterior applications. Some of the most common uses include:",
+      ],
+      points: [
+        "Feature walls in luxury homes and villas",
+        "Exterior building facades",
+        "Hotel lobbies and reception areas",
+        "Corporate offices and commercial complexes",
+        "Retail showrooms and premium spaces",
+        "Landscape and architectural installations",
+      ],
+      text: [
+        "Because of its durability and resistance to weather and wear, 3D finish granite is an excellent choice for long-term architectural projects.",
+      ],
+    },
+
+    {
+      title: "Quality Assurance & Durability",
+      content: [
+        "At JK Granimarmo, quality is the foundation of our manufacturing process. Every 3D finish granite slab undergoes multiple quality checks to ensure:",
+      ],
+      points: [
+        "Uniform texture and depth",
+        "Accurate dimensions and thickness",
+        "Structural strength and durability",
+        "Consistent color and natural patterns",
+      ],
+      text: [
+        "Our granite is tested to perform well in different climatic conditions, making it suitable for both indoor and outdoor use. This dedication to quality strengthens our position as the Best 3D Finish Granite Manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Why Choose JK Granimarmo for 3D Finish Granite?",
+      content: [
+        "Selecting the right manufacturer is crucial for achieving superior design and long-lasting performance. JK Granimarmo stands apart due to its advanced infrastructure, skilled workforce, and customer-centric approach.",
+        "Key advantages include:",
+      ],
+      points: [
+        "Premium-quality granite sourced from trusted quarries",
+        "Advanced 3D surface finishing technology",
+        "Large production capacity for bulk requirements",
+        "Custom design and texture options",
+        "Reliable delivery across India",
+      ],
+      text: [
+        "Our consistent performance and client satisfaction make us a preferred partner for architects, builders, and interior designers.",
+      ],
+    },
+
+    {
+      title: "Innovation in Granite Surface Design",
+      content: [
+        "JK Granimarmo continuously invests in research and development to introduce new textures, finishes, and design concepts. Our 3D finish granite reflects modern architectural trends and allows designers to explore creative possibilities with natural stone.",
+        "By combining traditional stone craftsmanship with contemporary technology, we deliver products that are both artistic and functional. This innovation-driven mindset supports our recognition as the Best 3D Finish Granite Manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Pan-India Supply & Strong Distribution Network",
+      content: [
+        "JK Granimarmo supplies 3D finish granite across all major cities in India. Our efficient logistics and secure packaging ensure that granite slabs reach clients in perfect condition. Whether it is a residential project or a large commercial development, we have the capacity and experience to fulfill diverse requirements.",
+        "Our strong distribution network ensures timely delivery and consistent supply, helping projects stay on schedule.",
+      ],
+    },
+
+    {
+      title: "A Trusted Name in Granite Manufacturing",
+      content: [
+        "JK Granimarmo’s reputation is built on trust, quality, and long-term partnerships. Our expertise in granite processing and surface finishing allows us to offer innovative solutions that meet the evolving needs of the construction and design industry.",
+        "We are proud to be associated with premium architectural projects that demand excellence and originality. Many clients who explore our 3D finish granite also recognize us as the Best Granite Manufacturer in India, a reflection of our overall commitment to quality and innovation.",
+      ],
+    },
+
+    {
+      title: "Choose the Best 3D Finish Granite Manufacturer in India",
+      content: [
+        "3D finish granite is the perfect choice for creating dramatic, luxurious, and unforgettable spaces. Choosing the right manufacturer ensures superior finish, durability, and design consistency. With advanced manufacturing facilities, skilled professionals, and a passion for excellence, JK Granimarmo continues to lead as the Best 3D Finish Granite Manufacturer in India.",
+        "For architects, designers, and builders who seek innovative granite solutions that combine beauty with strength, JK Granimarmo is the ideal partner.",
+      ],
+    },
+  ],
+  },
+
+  "north-indian-multi-red": {
+  title:
+    "Best Multi Red Granite Manufacturer in India – Premium Quality by JK Granimarmo",
+
+  intro: [
+    "When it comes to strength, durability, and striking visual appeal, Multi Red Granite is one of the most preferred natural stones in construction and design. JK Granimarmo is proudly known as the Best Multi Red Granite Manufacturer in India, delivering superior-quality granite that enhances both residential and commercial spaces. With advanced manufacturing facilities and a commitment to excellence, we produce Multi Red Granite that meets international standards in quality and finish.",
+    "Multi Red Granite is admired for its bold red background with black and grey mineral patterns, making it an ideal choice for flooring, countertops, wall cladding, and exterior applications. At JK Granimarmo, every slab is carefully processed to ensure uniformity, durability, and long-lasting performance, making us a trusted partner for architects, builders, and contractors across India.",
+  ],
+
+  sections: [
+    {
+      title: "What Makes Multi Red Granite So Special?",
+      content: [
+        "Multi Red Granite is known for its vibrant color, strong composition, and resistance to wear and weather conditions. It is widely used in projects where both aesthetics and durability are required. The natural beauty of this granite variety adds richness and elegance to any space.",
+      ],
+      text: [
+        "As the Best Multi Red Granite Manufacturer in India, JK Granimarmo ensures that each slab reflects consistent color patterns, precise thickness, and flawless surface finish. Our granite is processed using modern technology that enhances its strength while maintaining its natural charm.",
+      ],
+    },
+
+    {
+      title: "About JK Granimarmo – Excellence in Granite Manufacturing",
+      content: [
+        "JK Granimarmo is a leading granite manufacturer and supplier with years of experience in natural stone processing. Our manufacturing process is designed to deliver premium granite products that meet the evolving needs of modern architecture and interior design.",
+        "Our facilities include:",
+      ],
+      points: [
+        "Advanced cutting and polishing machinery",
+        "Precision calibration units",
+        "Skilled technicians and strict quality inspection systems",
+      ],
+      text: [
+        "This structured approach enables us to maintain our reputation as the Best Multi Red Granite Manufacturer in India while consistently delivering reliable and high-quality products.",
+      ],
+    },
+
+    {
+      title: "Manufacturing Process of Multi Red Granite",
+      content: [
+        "At JK Granimarmo, quality begins at the source. We carefully select premium-grade granite blocks from trusted quarries and process them through a controlled manufacturing workflow:",
+      ],
+      points: [
+        "Block Selection – Only high-density and uniform blocks are chosen.",
+        "Cutting – Blocks are cut into slabs using advanced machinery.",
+        "Polishing – High-gloss and matte finishes are achieved as per requirement.",
+        "Calibration – Ensures uniform thickness and easy installation.",
+        "Inspection – Each slab is checked for color, strength, and surface quality.",
+      ],
+      text: [
+        "This process ensures that our Multi Red Granite meets the highest standards of durability and appearance.",
+      ],
+    },
+
+    {
+      title: "Applications of Multi Red Granite",
+      content: [
+        "Multi Red Granite manufactured by JK Granimarmo is widely used across multiple applications:",
+      ],
+      points: [
+        "Flooring in residential and commercial spaces",
+        "Kitchen countertops and platforms",
+        "Staircases and window sills",
+        "Wall cladding and building facades",
+        "Outdoor paving and landscaping",
+      ],
+      text: [
+        "Its ability to withstand heavy foot traffic and harsh weather conditions makes it a preferred choice for both indoor and outdoor projects.",
+      ],
+    },
+
+    {
+      title: "Quality Assurance & Durability Standards",
+      content: [
+        "At JK Granimarmo, quality control is an integral part of our manufacturing process. Each slab undergoes detailed inspection for:",
+      ],
+      points: [
+        "Color consistency and pattern uniformity",
+        "Thickness accuracy and structural strength",
+        "Surface finish and edge precision",
+      ],
+      text: [
+        "Our commitment to quality reinforces our position as the Best Multi Red Granite Manufacturer in India, trusted by clients who demand long-lasting and high-performance granite.",
+      ],
+    },
+
+    {
+      title: "Why JK Granimarmo Is the Preferred Choice",
+      content: [
+        "Choosing the right manufacturer is crucial for project success. JK Granimarmo stands out due to its transparent practices, superior quality standards, and customer-focused approach.",
+        "Key advantages of working with us:",
+      ],
+      points: [
+        "Premium-grade Multi Red Granite directly from the source",
+        "Large production capacity for bulk requirements",
+        "Competitive pricing without compromising quality",
+        "Custom sizing, thickness, and finishes",
+        "Reliable delivery across India and international markets",
+      ],
+      text: [
+        "Our expertise in granite manufacturing has also positioned us as a trusted name in the industry. Many clients recognize us as the Best Granite Manufacturer in India because of our consistent performance and product reliability.",
+      ],
+    },
+
+    {
+      title: "Pan-India Supply & Export Capabilities",
+      content: [
+        "JK Granimarmo supplies Multi Red Granite across all major Indian cities and exports to international markets. Our robust logistics network and secure packaging ensure that every slab reaches clients in perfect condition.",
+        "From small residential projects to large commercial developments, we have the capacity and expertise to meet diverse requirements efficiently.",
+      ],
+    },
+
+    {
+      title: "Sustainable & Responsible Manufacturing",
+      content: [
+        "We follow responsible quarrying and manufacturing practices to minimize environmental impact. Efficient resource utilization and waste management are integral to our operations. This sustainable approach ensures long-term value for our clients and contributes to eco-friendly construction practices.",
+      ],
+    },
+
+    {
+      title: "Partner with the Best Multi Red Granite Manufacturer in India",
+      content: [
+        "Multi Red Granite is an investment in strength, beauty, and durability. Choosing the right manufacturer ensures superior results and long-term satisfaction. With advanced infrastructure, skilled craftsmanship, and a strong commitment to quality, JK Granimarmo continues to lead as the Best Multi Red Granite Manufacturer in India.",
+        "If you are planning a project that demands premium granite with exceptional performance and striking appearance, trust JK Granimarmo to deliver excellence at every stage.",
+      ],
+    },
+  ],
+  },
+
+  "north-indian-k-white": {
+  title:
+    "Best K White Granite Manufacturer in India – Premium Quality by JK Granimarmo",
+
+  intro: [
+    "When it comes to durable, elegant, and timeless natural stone, K White Granite is one of the most preferred choices for modern construction and interior design. JK Granimarmo proudly stands as the Best K White Granite Manufacturer in India, offering premium-grade granite that delivers exceptional strength, uniform color, and superior finishing. Our K White Granite is widely used in residential, commercial, and large-scale infrastructure projects across the country.",
+    "With years of experience in granite manufacturing and processing, JK Granimarmo combines advanced technology with skilled craftsmanship to produce granite that meets international quality standards. Every slab is carefully manufactured to ensure consistency, durability, and visual appeal, making it an ideal choice for architects, builders, and designers who demand excellence.",
+  ],
+
+  sections: [
+    {
+      title: "Why K White Granite Is a Preferred Choice",
+      content: [
+        "K White Granite is known for its soft white and grey base, subtle patterns, and exceptional durability. It enhances the look of any space while offering long-lasting performance. Its neutral color makes it suitable for both contemporary and traditional designs, allowing easy coordination with different décor styles.",
+        "As the Best K White Granite Manufacturer in India, JK Granimarmo ensures that every slab of K White Granite reflects natural beauty and structural strength. This granite is highly resistant to heat, moisture, and wear, making it perfect for areas that experience heavy usage.",
+      ],
+    },
+
+    {
+      title: "About JK Granimarmo – Excellence in Granite Manufacturing",
+      content: [
+        "JK Granimarmo is a trusted name in the natural stone industry, known for its quality-driven manufacturing process and customer-centric approach. Our granite manufacturing units are equipped with modern machinery that ensures precise cutting, uniform thickness, and flawless surface finishing.",
+        "Our manufacturing process includes:",
+      ],
+      points: [
+        "Selection of premium K White Granite blocks",
+        "Precision cutting using advanced technology",
+        "Polishing and surface finishing for a refined look",
+        "Strict quality checks at every stage",
+      ],
+      text: [
+        "This systematic approach allows JK Granimarmo to maintain its position as the Best K White Granite Manufacturer in India, delivering granite that meets the highest expectations of performance and aesthetics.",
+      ],
+    },
+
+    {
+      title: "Applications of K White Granite",
+      content: [
+        "K White Granite manufactured by JK Granimarmo is widely used in various applications, including:",
+      ],
+      points: [
+        "Kitchen countertops and platforms",
+        "Flooring and wall cladding",
+        "Staircases and window sills",
+        "Bathroom vanity tops",
+        "Commercial and office interiors",
+        "Exterior facades and landscaping",
+      ],
+      text: [
+        "Its strength and weather resistance make it suitable for both indoor and outdoor use, ensuring long-term reliability.",
+      ],
+    },
+
+    {
+      title: "Premium Quality Standards",
+      content: [
+        "At JK Granimarmo, quality is the foundation of our manufacturing process. Every slab of K White Granite is tested for:",
+      ],
+      points: [
+        "Color consistency and natural pattern",
+        "Thickness accuracy and surface smoothness",
+        "Structural strength and durability",
+        "Resistance to stains, heat, and moisture",
+      ],
+      text: [
+        "These quality measures ensure that our granite delivers lasting value and superior performance, reinforcing our reputation as the Best K White Granite Manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Customization Options",
+      content: [
+        "Understanding that every project has unique requirements, JK Granimarmo offers customized solutions for K White Granite. We provide:",
+      ],
+      points: [
+        "Custom slab sizes and thicknesses",
+        "Various surface finishes such as polished, honed, and flamed",
+        "Edge profiling for countertops and staircases",
+        "Bulk supply for large construction projects",
+      ],
+      text: [
+        "This flexibility makes us a preferred partner for builders and designers seeking tailored granite solutions.",
+      ],
+    },
+
+    {
+      title: "Why Choose JK Granimarmo for K White Granite?",
+      content: [
+        "Choosing the right manufacturer is crucial for achieving long-lasting and visually stunning results. JK Granimarmo stands out due to its commitment to quality, reliability, and transparency.",
+        "Key reasons to work with us:",
+      ],
+      points: [
+        "Direct manufacturing ensures better pricing and consistency",
+        "Premium-quality raw material sourcing",
+        "Modern processing and finishing technology",
+        "Large inventory for uninterrupted supply",
+        "On-time delivery across India",
+      ],
+      text: [
+        "Our strong reputation in the market has positioned JK Granimarmo as a trusted brand for K White Granite manufacturing.",
+      ],
+    },
+
+    {
+      title: "Trusted by Industry Professionals",
+      content: [
+        "Architects, interior designers, contractors, and builders across India rely on JK Granimarmo for high-quality granite. Our dedication to precision manufacturing and dependable service has earned us long-term partnerships and repeat clients.",
+        "For those searching for the Best Granite Manufacturer in India, JK Granimarmo is a name that reflects quality, trust, and industry expertise.",
+      ],
+    },
+
+    {
+      title: "Pan-India Supply and Strong Logistics",
+      content: [
+        "JK Granimarmo supplies K White Granite to all major cities and regions across India. Our efficient logistics and secure packaging ensure that granite slabs reach clients safely and in perfect condition.",
+        "Whether it is a small residential project or a large commercial development, our infrastructure and supply chain are equipped to handle orders of all sizes.",
+      ],
+    },
+
+    {
+      title: "Sustainability and Responsible Practices",
+      content: [
+        "We believe in responsible manufacturing and sustainable resource utilization. Our granite processing methods focus on minimizing waste, conserving energy, and following environmentally conscious practices. This approach helps us maintain a balance between industrial growth and environmental responsibility.",
+      ],
+    },
+
+    {
+      title: "Partner with the Best K White Granite Manufacturer in India",
+      content: [
+        "K White Granite is a long-term investment in beauty, durability, and functionality. Choosing a reliable manufacturer ensures superior results and lasting value. With advanced manufacturing facilities, strict quality control, and customer-focused services, JK Granimarmo continues to lead as the Best K White Granite Manufacturer in India.",
+        "If you are planning a project that demands premium granite with flawless finish and exceptional durability, trust JK Granimarmo to deliver excellence in every slab.",
+      ],
+    },
+  ],
+  },
+
+  "north-indian-olivier-green": {
+  title:
+    "Best Olivier Green Granite Manufacturer in India – Premium Quality by JK Granimarmo",
+
+  intro: [
+    "JK Granimarmo is proud to be recognized as the Best Olivier Green Granite Manufacturer in India, offering world-class granite that combines natural beauty, durability, and exceptional finish. Olivier Green Granite is admired for its deep green tone, subtle patterns, and strong structural properties, making it an excellent choice for both residential and commercial projects.",
+    "With advanced processing facilities and strict quality control systems, JK Granimarmo ensures that every slab of Olivier Green Granite reflects perfection in texture, strength, and consistency. Our commitment to excellence has earned us the trust of architects, builders, interior designers, and exporters across India and international markets.",
+  ],
+
+  sections: [
+    {
+      title: "About Olivier Green Granite",
+      content: [
+        "Olivier Green Granite is known for its unique green shade with natural mineral patterns that give every slab a distinctive look. It is widely used in premium architectural and interior design projects due to its high durability and sophisticated appearance.",
+        "As the Best Olivier Green Granite Manufacturer in India, JK Granimarmo supplies granite that is processed using modern technology to enhance its strength, polish, and visual appeal. This granite variety is resistant to scratches, stains, and weather conditions, making it suitable for both indoor and outdoor applications.",
+      ],
+    },
+
+    {
+      title: "Why Olivier Green Granite is a Preferred Choice",
+      content: [
+        "Olivier Green Granite stands out among natural stones due to its versatility and long-lasting performance. It is a preferred material for:",
+      ],
+      points: [
+        "Luxury flooring and wall cladding",
+        "Kitchen countertops and islands",
+        "Staircases and window sills",
+        "Commercial spaces and corporate offices",
+        "Exterior facades and landscaping projects",
+      ],
+      text: [
+        "Its natural elegance and durability make it ideal for spaces where both aesthetics and strength are equally important.",
+      ],
+    },
+
+    {
+      title: "JK Granimarmo – Excellence in Granite Manufacturing",
+      content: [
+        "JK Granimarmo is a leading name in natural stone manufacturing and supply. With a strong focus on innovation, precision, and quality, we have established ourselves as the Best Olivier Green Granite Manufacturer in India.",
+        "Our manufacturing process includes:",
+      ],
+      points: [
+        "Careful selection of high-quality granite blocks",
+        "Precision cutting with advanced machinery",
+        "Resin treatment for enhanced durability",
+        "High-gloss polishing for a refined finish",
+        "Strict quality inspection at every stage",
+      ],
+      text: [
+        "This systematic approach ensures that our Olivier Green Granite meets international quality standards.",
+      ],
+    },
+
+    {
+      title: "Manufacturing Process at JK Granimarmo",
+      content: [
+        "Our granite manufacturing process is designed to deliver perfection in every slab.",
+      ],
+      points: [
+        "Only premium-grade granite blocks are selected from trusted quarries to ensure strength and visual consistency.",
+        "Advanced cutting technology is used to achieve accurate dimensions and smooth edges.",
+        "Granite slabs are treated with resin to improve durability and reduce porosity.",
+        "High-quality polishing brings out the natural depth and shine of Olivier Green Granite.",
+        "Each slab is carefully inspected for thickness, finish, and color consistency.",
+      ],
+      text: [
+        "This detailed process strengthens our reputation as the Best Olivier Green Granite Manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Applications of Olivier Green Granite",
+      content: [
+        "Olivier Green Granite supplied by JK Granimarmo is widely used in:",
+      ],
+      points: [
+        "Residential flooring and wall applications",
+        "Kitchen countertops and bathroom vanities",
+        "Hotel lobbies and luxury resorts",
+        "Shopping malls and corporate buildings",
+        "Exterior paving and cladding",
+      ],
+      text: [
+        "Its resistance to wear and weather makes it suitable for high-traffic and outdoor environments.",
+      ],
+    },
+
+    {
+      title: "Quality Assurance and Durability",
+      content: [
+        "Quality is the foundation of JK Granimarmo’s operations. Each slab of Olivier Green Granite is tested for:",
+      ],
+      points: [
+        "Strength and hardness",
+        "Surface uniformity and polish",
+        "Thickness accuracy",
+        "Resistance to stains and moisture",
+      ],
+      text: [
+        "These standards ensure that clients receive granite that performs exceptionally well over time. Our dedication to quality reinforces our status as the Best Olivier Green Granite Manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Why Choose JK Granimarmo",
+      content: [
+        "Choosing the right manufacturer is essential for achieving superior results in any granite project. JK Granimarmo stands out due to:",
+      ],
+      points: [
+        "Consistent quality and premium finishes",
+        "Large inventory for uninterrupted supply",
+        "Competitive pricing for bulk and project requirements",
+        "Customization in size, thickness, and finish",
+        "Reliable delivery across India and international markets",
+      ],
+      text: [
+        "Our customer-centric approach and transparent business practices make us a trusted partner in the stone industry.",
+      ],
+    },
+
+    {
+      title: "Trusted Name in Granite Manufacturing",
+      content: [
+        "JK Granimarmo is also widely respected as the Best Granite Manufacturer in India, known for maintaining the highest standards in granite processing and supply. Our experience, advanced infrastructure, and skilled workforce allow us to consistently deliver premium granite products for diverse applications.",
+      ],
+    },
+
+    {
+      title: "Pan-India Supply and Global Reach",
+      content: [
+        "We supply Olivier Green Granite across all major cities in India and export to international markets. Our strong logistics network ensures safe packaging and timely delivery, regardless of order size or destination.",
+        "Whether it is a luxury residential project or a large commercial development, JK Granimarmo has the capacity and expertise to fulfill requirements efficiently.",
+      ],
+    },
+
+    {
+      title: "Commitment to Sustainability",
+      content: [
+        "JK Granimarmo follows responsible and sustainable manufacturing practices. We promote ethical quarrying, efficient resource utilization, and minimal environmental impact. This approach ensures long-term sustainability while delivering premium natural stone products.",
+      ],
+    },
+
+    {
+      title: "Partner with the Best Olivier Green Granite Manufacturer in India",
+      content: [
+        "Olivier Green Granite adds elegance, durability, and long-lasting value to any space. Choosing the right manufacturer ensures quality results and peace of mind. With proven expertise, modern manufacturing facilities, and a customer-first approach, JK Granimarmo continues to lead as the Best Olivier Green Granite Manufacturer in India.",
+        "For premium-quality Olivier Green Granite that enhances both aesthetics and performance, trust JK Granimarmo as your reliable manufacturing partner.",
+      ],
+    },
+  ],
+  },
+
+  "north-indian-thunder-brown": {
+  title:
+    "Best Thunder Brown Granite Manufacturer in India – Premium Quality by JK Granimarmo",
+
+  intro: [
+    "When it comes to choosing a granite that combines strength, elegance, and timeless beauty, Thunder Brown Granite stands out as a premium option. JK Granimarmo is widely recognized as the Best Thunder Brown Granite Manufacturer in India, offering superior-quality granite that meets the highest standards of durability and aesthetics. Our Thunder Brown Granite is known for its rich brown base, striking black and grey patterns, and exceptional performance, making it a preferred choice for residential, commercial, and architectural projects.",
+    "With advanced manufacturing facilities, skilled craftsmanship, and strict quality control, JK Granimarmo ensures that every slab of Thunder Brown Granite reflects perfection. From sourcing premium blocks to precise processing and polishing, we maintain consistency and excellence at every stage.",
+  ],
+
+  sections: [
+    {
+      title: "About Thunder Brown Granite",
+      content: [
+        "Thunder Brown Granite is admired for its bold appearance and natural charm. The combination of deep brown shades with contrasting mineral patterns creates a luxurious and contemporary look. It is widely used in projects where both strength and visual impact are required.",
+        "This granite is highly resistant to heat, scratches, and moisture, making it ideal for:",
+      ],
+      points: [
+        "Kitchen countertops",
+        "Flooring and wall cladding",
+        "Staircases and window sills",
+        "Bathroom vanity tops",
+        "Commercial and high-traffic areas",
+      ],
+      text: [
+        "Its long-lasting nature and minimal maintenance requirements make Thunder Brown Granite a smart investment for any space.",
+      ],
+    },
+
+    {
+      title: "JK Granimarmo – Excellence in Granite Manufacturing",
+      content: [
+        "JK Granimarmo has built a strong reputation as a trusted granite manufacturer in India. Our commitment to quality, transparency, and customer satisfaction has helped us serve a diverse range of clients, including architects, builders, contractors, and exporters.",
+        "Our manufacturing process includes:",
+      ],
+      points: [
+        "Careful selection of high-grade granite blocks",
+        "Precision cutting using advanced machinery",
+        "High-quality polishing and surface finishing",
+        "Strict inspection before dispatch",
+      ],
+      text: [
+        "This systematic approach allows us to consistently deliver world-class Thunder Brown Granite, reinforcing our position as the Best Thunder Brown Granite Manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Advanced Manufacturing Infrastructure",
+      content: [
+        "Our state-of-the-art infrastructure is designed to meet large-scale and customized project requirements. With modern machinery and experienced technicians, we ensure accuracy in thickness, uniformity in color, and flawless surface finishes.",
+        "Key features of our facility include:",
+      ],
+      points: [
+        "High-capacity cutting machines",
+        "Automatic polishing lines",
+        "Quality control units for surface inspection",
+        "Secure packaging systems for safe transportation",
+      ],
+      text: [
+        "This enables JK Granimarmo to maintain high production standards while delivering granite that exceeds client expectations.",
+      ],
+    },
+
+    {
+      title: "Applications of Thunder Brown Granite",
+      content: [
+        "Thunder Brown Granite from JK Granimarmo is widely used across multiple sectors due to its durability and visual appeal:",
+      ],
+      points: [
+        "Residential interiors and exteriors",
+        "Luxury villas and apartments",
+        "Commercial buildings and office spaces",
+        "Hotels, resorts, and retail showrooms",
+        "Public infrastructure and institutional projects",
+      ],
+      text: [
+        "Because of its robustness and rich appearance, it is a popular choice for projects that demand both functionality and elegance.",
+      ],
+    },
+
+    {
+      title: "Quality Assurance & Consistency",
+      content: [
+        "At JK Granimarmo, quality is never compromised. Each Thunder Brown Granite slab undergoes thorough quality checks to ensure:",
+      ],
+      points: [
+        "Consistent color and pattern",
+        "Accurate thickness and dimensions",
+        "Smooth and durable surface finish",
+        "Structural strength and longevity",
+      ],
+      text: [
+        "This quality-focused approach helps us deliver granite that performs exceptionally well in all environments and climates.",
+      ],
+    },
+
+    {
+      title: "Why Choose JK Granimarmo?",
+      content: [
+        "Choosing the right manufacturer is essential for project success. JK Granimarmo stands out for its professionalism, reliability, and commitment to excellence.",
+        "Key advantages include:",
+      ],
+      points: [
+        "Direct manufacturing with complete quality control",
+        "Premium-grade Thunder Brown Granite",
+        "Competitive pricing for bulk and project orders",
+        "Customization in size, thickness, and finish",
+        "Timely delivery across India and international markets",
+      ],
+      text: [
+        "For those searching for the Best Granite Manufacturer in India, JK Granimarmo offers unmatched expertise, infrastructure, and product reliability.",
+      ],
+    },
+
+    {
+      title: "Customization Options",
+      content: [
+        "We understand that every project has unique requirements. That’s why JK Granimarmo provides customization options for Thunder Brown Granite, including:",
+      ],
+      points: [
+        "Slabs and tiles in multiple sizes",
+        "Polished, honed, and leather finishes",
+        "Edge profiling for countertops",
+        "Special thickness requirements",
+      ],
+      text: [
+        "This flexibility allows designers and builders to bring their creative vision to life with complete freedom.",
+      ],
+    },
+
+    {
+      title: "Pan-India Supply & Export Services",
+      content: [
+        "JK Granimarmo supplies Thunder Brown Granite across major Indian cities and also caters to international markets. Our strong logistics network and secure packaging ensure safe and timely delivery, regardless of order size or destination.",
+        "From small residential projects to large commercial developments, we have the capacity to deliver consistently and efficiently.",
+      ],
+    },
+
+    {
+      title: "Sustainability & Responsible Practices",
+      content: [
+        "We believe in responsible manufacturing. Our operations focus on minimizing waste, optimizing resource utilization, and following ethical quarrying practices. This commitment ensures that our granite manufacturing process remains environmentally conscious while delivering long-term value to our clients.",
+      ],
+    },
+
+    {
+      title: "Choose the Best Thunder Brown Granite Manufacturer in India",
+      content: [
+        "Thunder Brown Granite is more than just a building material; it is an investment in durability, luxury, and lasting beauty. By choosing JK Granimarmo, you partner with a brand that stands for quality, integrity, and excellence.",
+        "With advanced manufacturing, strict quality control, and a customer-centric approach, JK Granimarmo continues to lead as the Best Thunder Brown Granite Manufacturer in India, delivering granite that transforms spaces and enhances architectural value.",
+      ],
+    },
+  ],
+  },
+
+  "north-indian-zidane-black": {
+  title:
+    "Best Zidane Black Granite Manufacturer in India – Premium Quality by JK Granimarmo",
+
+  intro: [
+    "JK Granimarmo is a trusted name in the natural stone industry and is widely recognized as the Best Zidane Black Granite Manufacturer in India. Known for its deep black base, fine grains, and exceptional durability, Zidane Black Granite is one of the most premium granite varieties used in residential, commercial, and architectural projects. At JK Granimarmo, we manufacture and supply this granite with unmatched quality, precision finishing, and consistency.",
+    "Our manufacturing process is driven by modern technology and strict quality control measures, ensuring every slab meets international standards. With years of experience, advanced infrastructure, and a customer-focused approach, JK Granimarmo has built a strong reputation among architects, builders, contractors, and exporters who demand superior granite products.",
+  ],
+
+  sections: [
+    {
+      title: "About Zidane Black Granite",
+      content: [
+        "Zidane Black Granite is admired for its rich black color, smooth texture, and long-lasting performance. It is a highly versatile stone that suits both contemporary and classic design styles. Its strength, stain resistance, and low maintenance requirements make it ideal for areas with heavy usage.",
+        "This granite is widely used for:",
+      ],
+      points: [
+        "Flooring and wall cladding",
+        "Kitchen countertops and islands",
+        "Staircases and window sills",
+        "Exterior facades and paving",
+        "Commercial and industrial applications",
+      ],
+      text: [
+        "As the Best Zidane Black Granite Manufacturer in India, JK Granimarmo ensures that every slab reflects uniform color, perfect finish, and excellent structural strength.",
+      ],
+    },
+
+    {
+      title: "Why JK Granimarmo is a Leading Manufacturer of Zidane Black Granite",
+      content: [
+        "JK Granimarmo follows a complete in-house manufacturing process, from block selection to final polishing. This allows us to maintain consistency in quality and deliver granite that exceeds expectations.",
+        "Our manufacturing facilities include:",
+      ],
+      points: [
+        "Advanced cutting and polishing machinery",
+        "High-precision calibration systems",
+        "Skilled technicians and strict inspection protocols",
+      ],
+      text: [
+        "These capabilities make JK Granimarmo a reliable partner for clients seeking premium-grade Zidane Black Granite in bulk or customized sizes.",
+      ],
+    },
+
+    {
+      title: "Manufacturing Excellence at JK Granimarmo",
+      content: [
+        "Every block of Zidane Black Granite is carefully selected from trusted quarries and processed using state-of-the-art technology. Our focus on accuracy, finish quality, and strength ensures long-term performance in every application.",
+        "We maintain:",
+      ],
+      points: [
+        "Uniform thickness and surface precision",
+        "High-gloss and matte finish options",
+        "Consistent color and grain pattern",
+        "Safe packaging for damage-free delivery",
+      ],
+      text: [
+        "Because of this commitment, JK Granimarmo continues to set benchmarks as the Best Zidane Black Granite Manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Applications of Zidane Black Granite",
+      content: [
+        "Zidane Black Granite from JK Granimarmo is widely used in:",
+      ],
+      points: [
+        "Luxury residential projects",
+        "Corporate offices and commercial spaces",
+        "Hotels and hospitality projects",
+        "Industrial flooring and heavy-duty areas",
+        "Outdoor landscaping and paving",
+      ],
+      text: [
+        "Its exceptional durability and aesthetic appeal make it a preferred choice for high-end projects where both beauty and performance matter.",
+      ],
+    },
+
+    {
+      title: "Quality Assurance and Standards",
+      content: [
+        "Quality is the foundation of our manufacturing process. Each granite slab undergoes thorough inspection for:",
+      ],
+      points: [
+        "Color consistency",
+        "Surface finish and polish quality",
+        "Thickness accuracy",
+        "Structural strength and durability",
+      ],
+      text: [
+        "Our strict quality control procedures ensure that clients receive only premium-grade material, reinforcing our position as the Best Zidane Black Granite Manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Why Choose JK Granimarmo",
+      content: [
+        "Choosing the right granite manufacturer directly impacts the quality and success of any project. JK Granimarmo stands out for its reliability, transparency, and commitment to excellence.",
+        "Key advantages include:",
+      ],
+      points: [
+        "Direct manufacturing and competitive pricing",
+        "Large production capacity and stock availability",
+        "Custom sizes, thicknesses, and finishes",
+        "Timely delivery across India and overseas",
+        "Expert guidance from selection to supply",
+      ],
+      text: [
+        "To explore our complete granite manufacturing capabilities, visit our main page: Best Granite Manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Pan-India Supply and Export Network",
+      content: [
+        "JK Granimarmo supplies Zidane Black Granite across all major Indian cities and also exports to international markets. Our strong logistics and secure packaging ensure safe and on-time delivery for projects of all scales.",
+        "Whether you require granite for a small residential project or a large commercial development, we have the infrastructure and expertise to deliver consistently.",
+      ],
+    },
+
+    {
+      title: "Sustainable and Responsible Manufacturing",
+      content: [
+        "We follow responsible quarrying and processing practices to minimize environmental impact. Efficient resource usage and ethical sourcing form an important part of our manufacturing philosophy, helping us build a sustainable future for the natural stone industry.",
+      ],
+    },
+
+    {
+      title: "Partner with the Best Zidane Black Granite Manufacturer in India",
+      content: [
+        "Zidane Black Granite is a symbol of strength, elegance, and timeless appeal. Choosing the right manufacturer ensures long-term value and flawless execution. With advanced manufacturing facilities, a skilled workforce, and a proven track record, JK Granimarmo continues to lead as the Best Zidane Black Granite Manufacturer in India.",
+        "If you are looking for premium Zidane Black Granite that offers durability, beauty, and consistency, JK Granimarmo is your trusted partner for quality granite manufacturing in India.",
+      ],
+    },
+  ],
+  },
+
+  "alaska-granites-alaska-pink": {
+  title:
+    "Best Alaska Pink Granite Manufacturer in India – Premium Quality by JK Granimarmo",
+
+  intro: [
+    "When it comes to elegance, durability, and timeless beauty, Alaska Pink Granite stands out as one of the most preferred natural stones for modern construction and interior design. JK Granimarmo is proudly recognized as the Best Alaska Pink Granite Manufacturer in India, delivering premium-grade granite that meets the highest standards of quality, finish, and performance. Our Alaska Pink Granite is admired for its subtle pink tones, fine grains, and consistent texture, making it an excellent choice for both residential and commercial projects.",
+    "With years of experience in granite manufacturing and natural stone processing, JK Granimarmo ensures that every slab of Alaska Pink Granite reflects perfection. From quarry selection to precision cutting and polishing, we follow strict quality controls to provide granite that enhances the beauty and durability of any space.",
+  ],
+
+  sections: [
+    {
+      title: "About Alaska Pink Granite",
+      content: [
+        "Alaska Pink Granite is known for its soft pink base complemented by grey and black mineral patterns. This balanced color combination adds warmth and sophistication to interiors and exteriors alike. It is highly durable, scratch-resistant, and capable of withstanding heavy foot traffic, making it ideal for long-lasting applications.",
+      ],
+      points: [],
+      text: [
+        "Being the Best Alaska Pink Granite Manufacturer in India, JK Granimarmo ensures that our granite slabs maintain uniform color, accurate thickness, and flawless polish. Each slab is processed using advanced machinery and expert craftsmanship to achieve a superior finish that matches global standards.",
+      ],
+    },
+
+    {
+      title: "About JK Granimarmo",
+      content: [
+        "JK Granimarmo is a leading name in the natural stone industry, known for manufacturing and supplying high-quality granite and marble products. Our strong infrastructure, skilled workforce, and quality-driven approach allow us to deliver excellence across every project.",
+        "We handle the entire manufacturing process in-house, which includes:",
+      ],
+      points: [
+        "Selection of premium raw blocks",
+        "Precision cutting and calibration",
+        "Advanced polishing and surface finishing",
+        "Strict quality inspection before dispatch",
+      ],
+      text: [
+        "Our integrated operations enable us to offer consistent quality, competitive pricing, and timely delivery, strengthening our position as a trusted granite manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Why Alaska Pink Granite Is a Popular Choice",
+      content: [
+        "Alaska Pink Granite is widely chosen for its versatility and aesthetic appeal. Its soft yet vibrant shade complements a wide range of design styles, from contemporary to traditional. It is also resistant to heat, moisture, and wear, making it suitable for diverse applications.",
+        "Key features include:",
+      ],
+      points: [
+        "Elegant pink tone with natural texture",
+        "High compressive strength",
+        "Low water absorption",
+        "Easy maintenance",
+        "Long service life",
+      ],
+      text: [
+        "These properties make Alaska Pink Granite a premium choice for projects that demand both beauty and durability.",
+      ],
+    },
+
+    {
+      title: "Applications of Alaska Pink Granite",
+      content: [
+        "JK Granimarmo supplies Alaska Pink Granite for a wide range of applications, including:",
+      ],
+      points: [
+        "Flooring for homes and commercial buildings",
+        "Kitchen countertops and platforms",
+        "Staircases and window sills",
+        "Wall cladding and feature walls",
+        "Exterior facades and paving",
+        "Bathroom vanity tops",
+      ],
+      text: [
+        "Its adaptability makes it a perfect solution for architects, builders, and interior designers who want a refined and durable surface.",
+      ],
+    },
+
+    {
+      title: "Quality Standards at JK Granimarmo",
+      content: [
+        "As the Best Alaska Pink Granite Manufacturer in India, JK Granimarmo follows strict quality assurance processes at every stage. Each slab is inspected for:",
+      ],
+      points: [
+        "Color consistency",
+        "Structural strength",
+        "Surface finish",
+        "Thickness accuracy",
+        "Edge quality",
+      ],
+      text: [
+        "We use advanced polishing techniques that enhance the natural beauty of the granite while improving its resistance to stains and scratches. Our commitment to quality ensures that clients receive only premium-grade products.",
+      ],
+    },
+
+    {
+      title: "Why Choose JK Granimarmo for Alaska Pink Granite",
+      content: [
+        "JK Granimarmo stands apart because of its professionalism, reliability, and quality-focused manufacturing. Our clients trust us for:",
+      ],
+      points: [
+        "Premium-grade raw materials",
+        "Advanced processing technology",
+        "Large inventory and consistent supply",
+        "Custom sizes and finishes",
+        "Competitive pricing",
+        "On-time delivery",
+      ],
+      text: [
+        "These strengths have helped us build long-term relationships with builders, architects, contractors, and exporters.",
+      ],
+    },
+
+    {
+      title: "A Trusted Name in Granite Manufacturing",
+      content: [
+        "JK Granimarmo has earned recognition as a dependable granite manufacturing brand due to its dedication to excellence and customer satisfaction. Our Alaska Pink Granite is widely appreciated for its refined appearance and lasting performance.",
+        "For clients looking to explore other premium granite options, JK Granimarmo is also known as the Best Granite Manufacturer in India, offering a wide variety of colors and finishes to meet diverse architectural needs.",
+      ],
+    },
+
+    {
+      title: "Expertise Beyond Granite",
+      content: [
+        "In addition to granite manufacturing, JK Granimarmo has a strong presence in marble processing and supply. Our commitment to premium quality and innovation has also positioned us as the Best Marble Manufacturer in India, trusted for delivering exceptional marble solutions for luxury interiors and large-scale projects.",
+      ],
+    },
+
+    {
+      title: "Pan-India Supply and Export Capability",
+      content: [
+        "JK Granimarmo supplies Alaska Pink Granite across major cities in India and also caters to international markets. Our strong logistics network and secure packaging systems ensure that granite slabs reach clients in perfect condition, regardless of location or order size.",
+        "We are equipped to handle:",
+      ],
+      points: [
+        "Bulk project requirements",
+        "Export orders",
+        "Customized cutting and finishes",
+        "Timely and safe delivery",
+      ],
+      text: [],
+    },
+
+    {
+      title: "Partner with the Best Alaska Pink Granite Manufacturer in India",
+      content: [
+        "Choosing the right granite manufacturer is essential to achieving superior quality and long-term value in any project. With its advanced manufacturing facilities, skilled team, and customer-centric approach, JK Granimarmo continues to lead as the Best Alaska Pink Granite Manufacturer in India.",
+        "If you are looking for granite that combines elegance, strength, and reliability, Alaska Pink Granite by JK Granimarmo is the perfect choice. Our dedication to quality and excellence ensures that every project stands out with lasting beauty and performance.",
+      ],
+    },
+  ],
+  },
+
+  "alaska-granites-alaska-black": {
+  title:
+    "Best Alaska Black Granite Manufacturer in India – Premium Stone by JK Granimarmo",
+
+  intro: [
+    "When it comes to elegance, durability, and timeless appeal, Alaska Black Granite stands out as one of the most premium choices in natural stone. JK Granimarmo proudly holds its position as the Best Alaska Black Granite Manufacturer in India, delivering superior-quality granite that enhances both residential and commercial spaces. Our Alaska Black Granite is known for its deep black base, striking white patterns, and exceptional strength, making it a preferred material for luxury interiors and architectural projects.",
+    "With advanced manufacturing facilities and a strong focus on quality, JK Granimarmo ensures that every slab of Alaska Black Granite meets international standards. Our commitment to excellence has earned us the trust of architects, builders, interior designers, and exporters across India and beyond.",
+  ],
+
+  sections: [
+    {
+      title: "The Growing Demand for Alaska Black Granite",
+      content: [
+        "Alaska Black Granite has become one of the most sought-after granite varieties due to its bold appearance and versatility. It blends perfectly with modern, contemporary, and classic design themes. Its durability and low maintenance requirements make it suitable for high-traffic areas and premium applications.",
+        "As the Best Alaska Black Granite Manufacturer in India, JK Granimarmo understands the importance of consistent color, pattern uniformity, and surface finish. Our granite is carefully processed to preserve its natural beauty while enhancing its strength and longevity.",
+      ],
+    },
+
+    {
+      title: "About JK Granimarmo – Excellence in Granite Manufacturing",
+      content: [
+        "JK Granimarmo is a reputed name in the natural stone industry, known for manufacturing and supplying premium granite and marble products. Our Alaska Black Granite manufacturing process is designed to ensure maximum quality control at every stage, from block selection to final finishing.",
+        "Our facility is equipped with:",
+      ],
+      points: [
+        "Advanced cutting and polishing machinery",
+        "Precision calibration technology",
+        "Resin treatment for enhanced surface strength",
+        "Skilled professionals for quality inspection",
+      ],
+      text: [
+        "This infrastructure enables us to maintain our reputation as the Best Alaska Black Granite Manufacturer in India for projects of all scales.",
+      ],
+    },
+
+    {
+      title: "Features of Alaska Black Granite by JK Granimarmo",
+      content: [
+        "Our Alaska Black Granite is distinguished by its exceptional characteristics:",
+      ],
+      points: [
+        "Deep black background with striking white and silver patterns",
+        "High compressive strength and durability",
+        "Scratch and heat resistance",
+        "Low water absorption",
+        "Easy maintenance and long-lasting shine",
+      ],
+      text: [
+        "These features make Alaska Black Granite an ideal choice for both interior and exterior applications.",
+      ],
+    },
+
+    {
+      title: "Applications of Alaska Black Granite",
+      content: [
+        "Alaska Black Granite supplied by JK Granimarmo is widely used in:",
+      ],
+      points: [
+        "Kitchen countertops and islands",
+        "Flooring and wall cladding",
+        "Staircases and window sills",
+        "Bathroom vanities",
+        "Hotel lobbies and luxury commercial spaces",
+        "Exterior facades and architectural elements",
+      ],
+      text: [
+        "Its bold aesthetics and durability make it suitable for projects that demand both beauty and performance.",
+      ],
+    },
+
+    {
+      title: "Manufacturing Process & Quality Assurance",
+      content: [
+        "As the Best Alaska Black Granite Manufacturer in India, JK Granimarmo follows a strict quality-driven manufacturing process. Each granite block is carefully selected from trusted quarries and processed using modern machinery.",
+        "Our quality control includes:",
+      ],
+      points: [
+        "Inspection of raw blocks for structural integrity",
+        "Precision cutting to maintain thickness uniformity",
+        "High-quality polishing for a flawless surface",
+        "Final inspection for color consistency and finish",
+      ],
+      text: [
+        "This ensures that every slab delivered to clients reflects perfection and reliability.",
+      ],
+    },
+
+    {
+      title: "Why Choose JK Granimarmo for Alaska Black Granite?",
+      content: [
+        "Choosing the right manufacturer is crucial to achieving premium results. JK Granimarmo stands out due to its transparent practices, advanced infrastructure, and client-focused approach.",
+        "Benefits of working with us:",
+      ],
+      points: [
+        "Consistent supply of premium Alaska Black Granite",
+        "Competitive pricing directly from the manufacturer",
+        "Custom sizing and thickness options",
+        "Timely delivery across India and export markets",
+        "Dedicated technical and customer support",
+      ],
+      text: [
+        "Our long-term partnerships with builders and architects reflect our commitment to excellence.",
+      ],
+    },
+
+    {
+      title: "Trusted Name in Granite Manufacturing",
+      content: [
+        "JK Granimarmo is widely recognized as a trusted name in granite manufacturing. For clients exploring a comprehensive range of granite varieties, our expertise aligns with what defines the Best Granite Supplier in India, ensuring consistent quality, reliability, and innovation.",
+        "We also extend our craftsmanship across marble production, matching the standards expected from the Best Marble Manufacturer in India, offering a complete natural stone solution under one brand.",
+      ],
+    },
+
+    {
+      title: "Pan-India Supply & Global Exports",
+      content: [
+        "JK Granimarmo supplies Alaska Black Granite across major Indian cities and international destinations. Our robust logistics and packaging systems ensure safe transportation and timely delivery, regardless of order size.",
+        "From luxury homes to large commercial developments, we have the capacity and experience to fulfill diverse project requirements.",
+      ],
+    },
+
+    {
+      title: "Sustainability & Responsible Practices",
+      content: [
+        "We believe in sustainable manufacturing practices. Our quarrying and processing methods are designed to minimize environmental impact while maintaining operational efficiency. Ethical sourcing and responsible production are integral to our business philosophy.",
+      ],
+    },
+
+    {
+      title: "Partner with the Best Alaska Black Granite Manufacturer in India",
+      content: [
+        "Alaska Black Granite is an investment in luxury, durability, and timeless design. Choosing a reliable manufacturer ensures superior quality and long-term value. With advanced manufacturing capabilities, a customer-first approach, and proven industry expertise, JK Granimarmo continues to lead as the Best Alaska Black Granite Manufacturer in India.",
+        "If you are looking for premium Alaska Black Granite that combines elegance, strength, and flawless finish, JK Granimarmo is your trusted partner for excellence in natural stone.",
+      ],
+    },
+  ],
+  },
+
+  "alaska-granites-alaska-gold": {
+  title:
+    "Best Alaska Gold Granite Manufacturer in India – Premium Granite by JK Granimarmo",
+
+  intro: [
+    "When luxury meets strength and durability, Alaska Gold Granite becomes the first choice for architects, designers, and builders. JK Granimarmo is proudly recognized as the Best Alaska Gold Granite Manufacturer in India, offering premium-quality granite that adds elegance, warmth, and timeless appeal to every space. With its unique golden hues, subtle veining, and superior finish, Alaska Gold Granite is ideal for high-end residential and commercial projects.",
+    "At JK Granimarmo, we combine advanced manufacturing technology with strict quality standards to ensure every slab reflects perfection. Our granite is processed with precision to maintain its natural beauty, structural strength, and long-lasting performance.",
+  ],
+
+  sections: [
+    {
+      title: "About Alaska Gold Granite",
+      content: [
+        "Alaska Gold Granite is a premium natural stone known for its rich golden background, intricate patterns, and outstanding durability. It is widely used for:",
+      ],
+      points: [
+        "Luxury flooring",
+        "Kitchen countertops",
+        "Wall cladding",
+        "Staircases",
+        "Facades and exterior applications",
+      ],
+      text: [
+        "Its resistance to scratches, stains, and heat makes it a practical and visually appealing choice for both indoor and outdoor use. As the Best Alaska Gold Granite Manufacturer in India, JK Granimarmo ensures that each slab is processed to enhance its natural texture and strength.",
+      ],
+    },
+
+    {
+      title: "JK Granimarmo – Excellence in Granite Manufacturing",
+      content: [
+        "JK Granimarmo is a trusted name in the natural stone industry, known for its commitment to quality, innovation, and customer satisfaction. Our manufacturing facility is equipped with advanced machinery that allows us to process granite with high accuracy and consistent finish.",
+        "Our process includes:",
+      ],
+      points: [
+        "Selection of premium-grade granite blocks",
+        "Precision cutting using modern gang saws",
+        "Surface polishing and finishing",
+        "Quality inspection at every stage",
+      ],
+      text: [
+        "This attention to detail enables us to deliver flawless Alaska Gold Granite that meets global standards.",
+      ],
+    },
+
+    {
+      title: "Why Alaska Gold Granite is a Premium Choice",
+      content: [
+        "Alaska Gold Granite is favored by designers and architects for several reasons:",
+      ],
+      points: [
+        "Elegant golden tones that enhance interiors",
+        "High compressive strength and durability",
+        "Resistance to moisture and temperature variations",
+        "Easy maintenance and long-lasting shine",
+        "Versatility for both residential and commercial spaces",
+      ],
+      text: [
+        "By choosing JK Granimarmo, you partner with the Best Alaska Gold Granite Manufacturer in India, ensuring quality that enhances the value of your project.",
+      ],
+    },
+
+    {
+      title: "Applications of Alaska Gold Granite",
+      content: [
+        "Our Alaska Gold Granite is widely used in:",
+      ],
+      points: [
+        "Premium residential flooring",
+        "Luxury kitchen countertops",
+        "Hotel and resort interiors",
+        "Commercial building lobbies",
+        "Corporate offices and retail spaces",
+        "Exterior wall cladding and paving",
+      ],
+      text: [
+        "Its aesthetic charm and robust performance make it suitable for high-traffic areas and luxury architectural designs.",
+      ],
+    },
+
+    {
+      title: "Manufacturing Standards and Quality Assurance",
+      content: [
+        "Quality is the foundation of JK Granimarmo’s operations. Each Alaska Gold Granite slab undergoes strict quality checks for:",
+      ],
+      points: [
+        "Color consistency",
+        "Thickness accuracy",
+        "Surface finish",
+        "Structural integrity",
+      ],
+      text: [
+        "We ensure that only the best material reaches our clients, reinforcing our reputation as the Best Alaska Gold Granite Manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Why Choose JK Granimarmo",
+      content: [
+        "JK Granimarmo stands apart due to its commitment to excellence, transparency, and customer satisfaction. Clients choose us because we provide:",
+      ],
+      points: [
+        "Premium-grade Alaska Gold Granite",
+        "Large inventory for bulk supply",
+        "Custom sizes and finishes",
+        "Competitive pricing",
+        "Reliable delivery schedules",
+      ],
+      text: [
+        "Our focus on quality and reliability has built long-term relationships with architects, builders, and developers.",
+      ],
+    },
+
+    {
+      title: "Integrated Expertise in Natural Stone",
+      content: [
+        "JK Granimarmo is also known for its expertise in granite and marble manufacturing. Our strong infrastructure and industry experience allow us to deliver excellence across multiple stone categories. Many clients who search for the Best Granite Supplier in India trust JK Granimarmo for its consistent quality and professional approach. Similarly, those seeking the Best Marble Manufacturer in India rely on our manufacturing excellence and premium product standards.",
+      ],
+    },
+
+    {
+      title: "Pan-India Supply and Export Capability",
+      content: [
+        "We supply Alaska Gold Granite across India and to international markets. Our logistics network ensures safe packaging and timely delivery, regardless of order size or destination. From small residential projects to large commercial developments, JK Granimarmo has the capability to fulfill all requirements efficiently.",
+      ],
+    },
+
+    {
+      title: "Sustainable and Responsible Manufacturing",
+      content: [
+        "We follow responsible sourcing and processing practices to minimize environmental impact. Our manufacturing processes emphasize resource efficiency, waste reduction, and ethical operations. This sustainable approach makes JK Granimarmo a future-ready granite manufacturer.",
+      ],
+    },
+
+    {
+      title: "Trusted Partner for Premium Granite Projects",
+      content: [
+        "Choosing the right granite manufacturer is essential for the success of any project. With modern manufacturing facilities, strict quality control, and unmatched expertise, JK Granimarmo continues to lead as the Best Alaska Gold Granite Manufacturer in India.",
+        "Our granite enhances not just the visual appeal of spaces but also adds long-term value through durability and reliability.",
+      ],
+    },
+
+    {
+      title: "Choose JK Granimarmo for Alaska Gold Granite Excellence",
+      content: [
+        "If you are planning a luxury residential or commercial project and want granite that reflects elegance and performance, JK Granimarmo is your ideal partner. Our Alaska Gold Granite offers unmatched beauty, superior strength, and lasting quality.",
+        "With a strong legacy in natural stone manufacturing and a customer-focused approach, JK Granimarmo proudly stands as the Best Alaska Gold Granite Manufacturer in India, delivering excellence that transforms spaces into architectural masterpieces.",
+      ],
+    },
+  ],
+  },
+
+  "alaska-granites-alaska-white": {
+  title:
+    "Best Alaska White Granite Manufacturer in India – Premium Stone by JK Granimarmo",
+
+  intro: [
+    "Alaska White Granite is admired for its soft white background, elegant grey veining, and subtle patterns that bring sophistication to any space. JK Granimarmo is proudly recognized as the Best Alaska White Granite Manufacturer in India, offering superior-quality granite that blends beauty, strength, and long-term durability. Our Alaska White Granite is widely used in luxury residences, commercial buildings, hotels, and architectural projects where refined aesthetics and performance are essential.",
+    "With years of experience in natural stone manufacturing, JK Granimarmo ensures that every slab of Alaska White Granite is processed using advanced technology and strict quality control measures. From quarry selection to finishing and dispatch, our focus remains on delivering granite that meets international standards while enhancing the visual appeal of every project.",
+  ],
+
+  sections: [
+    {
+      title: "What Makes Alaska White Granite a Premium Choice",
+      content: [
+        "Alaska White Granite is known for its unique combination of light tones and intricate mineral patterns. It adds a sense of openness and elegance to interiors while maintaining the toughness that granite is famous for. This balance of beauty and durability makes it one of the most preferred granite varieties for both modern and classic designs.",
+        "As the Best Alaska White Granite Manufacturer in India, JK Granimarmo supplies granite that is:",
+      ],
+      points: [
+        "Highly resistant to scratches and stains",
+        "Durable enough for high-traffic areas",
+        "Easy to maintain and clean",
+        "Visually appealing for luxury interiors",
+      ],
+      text: [
+        "Its versatility makes it suitable for flooring, wall cladding, countertops, staircases, and exterior applications.",
+      ],
+    },
+
+    {
+      title: "About JK Granimarmo – Excellence in Granite Manufacturing",
+      content: [
+        "JK Granimarmo is a trusted name in the natural stone industry, known for quality-driven manufacturing and reliable supply. Our granite manufacturing process is designed to ensure consistency, precision, and premium finish in every slab.",
+        "Our facility is equipped with:",
+      ],
+      points: [
+        "Advanced cutting and calibration machines",
+        "High-performance polishing units",
+        "Strict inspection systems for thickness and surface finish",
+      ],
+      text: [
+        "These capabilities allow us to maintain uniform quality and deliver products that meet the expectations of architects, builders, and designers. This dedication to excellence has positioned us as the Best Alaska White Granite Manufacturer in India for both domestic and international markets.",
+      ],
+    },
+
+    {
+      title: "Premium Processing for Superior Finish",
+      content: [
+        "At JK Granimarmo, Alaska White Granite undergoes a carefully monitored manufacturing process. From block selection to final polishing, each stage is controlled to ensure optimal quality. Our granite is available in multiple finishes such as:",
+      ],
+      points: [
+        "Polished finish for luxurious interiors",
+        "Honed finish for subtle elegance",
+        "Leather finish for textured appeal",
+        "Flamed finish for outdoor applications",
+      ],
+      text: [
+        "Each finish enhances the natural beauty of Alaska White Granite while ensuring durability and performance.",
+      ],
+    },
+
+    {
+      title: "Applications of Alaska White Granite",
+      content: [
+        "Alaska White Granite supplied by JK Granimarmo is widely used in:",
+      ],
+      points: [
+        "Residential flooring and wall cladding",
+        "Kitchen countertops and islands",
+        "Bathroom vanities and backsplashes",
+        "Staircases and window sills",
+        "Hotel lobbies and commercial interiors",
+        "Exterior facades and landscaping areas",
+      ],
+      text: [
+        "Its neutral tone complements a wide range of color palettes and interior themes, making it a versatile choice for designers.",
+      ],
+    },
+
+    {
+      title: "Quality Assurance and Durability",
+      content: [
+        "Quality is the foundation of our manufacturing process. Every slab of Alaska White Granite is inspected for:",
+      ],
+      points: [
+        "Color consistency and pattern uniformity",
+        "Thickness accuracy and structural strength",
+        "Surface finish and polish quality",
+      ],
+      text: [
+        "This ensures that our clients receive granite that performs exceptionally well in both residential and commercial environments. Such rigorous quality control strengthens our reputation as the Best Alaska White Granite Manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Why Choose JK Granimarmo for Alaska White Granite",
+      content: [
+        "Choosing the right manufacturer ensures lasting beauty and performance. JK Granimarmo stands apart due to its transparent processes, premium infrastructure, and commitment to customer satisfaction.",
+        "Key reasons to choose us:",
+      ],
+      points: [
+        "Direct manufacturing ensures consistent quality",
+        "Large inventory for timely project completion",
+        "Competitive pricing without compromising standards",
+        "Custom sizes and thickness as per project needs",
+        "Reliable supply across India and overseas",
+      ],
+      text: [
+        "For clients seeking a dependable granite partner, JK Granimarmo offers unmatched expertise and reliability.",
+      ],
+    },
+
+    {
+      title: "Trusted Manufacturing Expertise",
+      content: [
+        "JK Granimarmo is also widely acknowledged as the Best Granite Supplier in India because of its strong manufacturing capabilities, diverse granite portfolio, and customer-focused service. Our experience in handling premium granite varieties enables us to meet complex project requirements with ease and efficiency.",
+        "In addition to granite, we also offer premium marble solutions, making us a complete natural stone partner. Our reputation as the Best Marble Manufacturer in India reflects our commitment to quality across all natural stone categories.",
+      ],
+    },
+
+    {
+      title: "Pan-India Supply and Global Reach",
+      content: [
+        "JK Granimarmo supplies Alaska White Granite across major Indian cities and exports to international markets. Our strong logistics network, safe packaging systems, and efficient handling ensure that granite reaches clients in perfect condition, regardless of distance.",
+        "From small residential projects to large commercial developments, we have the capacity and expertise to deliver on time and at scale.",
+      ],
+    },
+
+    {
+      title: "Sustainable and Responsible Practices",
+      content: [
+        "We follow responsible quarrying and manufacturing practices to minimize environmental impact. Efficient resource utilization and ethical sourcing are integral to our operations, ensuring long-term sustainability while maintaining product excellence.",
+      ],
+    },
+
+    {
+      title: "Choose the Best Alaska White Granite Manufacturer in India",
+      content: [
+        "Alaska White Granite is a perfect blend of elegance, durability, and timeless appeal. Partnering with the right manufacturer ensures that your investment delivers lasting value and visual excellence. With advanced infrastructure, skilled professionals, and an uncompromising approach to quality, JK Granimarmo continues to lead as the Best Alaska White Granite Manufacturer in India.",
+        "For premium granite that enhances the beauty and strength of your projects, trust JK Granimarmo for consistent quality, reliable service, and unmatched expertise.",
+      ],
+    },
+  ],
+  },
+
+  "alaska-granites-alaska-blue-dunes": {
+  title:
+    "Best Alaska Blue Dunes Granite Manufacturer in India – Premium Granite by JK Granimarmo",
+
+  intro: [
+    "Granite has always been a symbol of strength, elegance, and timeless beauty, and Alaska Blue Dunes Granite is one of the most premium choices in the natural stone industry. JK Granimarmo proudly stands as the Best Alaska Blue Dunes Granite Manufacturer in India, offering world-class granite that combines durability with stunning visual appeal. Known for its unique bluish-grey base, subtle dunes-like patterns, and superior finish, Alaska Blue Dunes Granite is widely used in luxury residential, commercial, and architectural projects.",
+    "With advanced manufacturing facilities and years of expertise in natural stone processing, JK Granimarmo delivers Alaska Blue Dunes Granite that meets the highest standards of quality, precision, and consistency. Our granite is carefully processed to enhance its natural beauty while ensuring long-lasting performance.",
+  ],
+
+  sections: [
+    {
+      title: "The Growing Demand for Alaska Blue Dunes Granite",
+      content: [
+        "Alaska Blue Dunes Granite has gained immense popularity due to its modern appearance and exceptional durability. Its neutral color palette blends effortlessly with contemporary and classic design themes, making it ideal for a wide range of applications. From luxury villas to premium commercial spaces, this granite adds sophistication and strength to every project.",
+        "As the Best Alaska Blue Dunes Granite Manufacturer in India, JK Granimarmo understands the expectations of architects, designers, and builders who seek excellence. We ensure each slab showcases uniform patterns, perfect finishing, and superior structural integrity.",
+      ],
+    },
+
+    {
+      title: "About JK Granimarmo – Excellence in Granite Manufacturing",
+      content: [
+        "JK Granimarmo is a trusted name in the natural stone industry, known for its quality-driven approach and customer-centric values. Our granite manufacturing process is designed to deliver perfection at every stage, from raw block selection to final polishing.",
+        "Our manufacturing infrastructure includes:",
+      ],
+      points: [
+        "Advanced cutting and gang saw machines",
+        "Precision polishing and surface treatment units",
+        "Skilled technicians and quality control experts",
+      ],
+      text: [
+        "This systematic process allows us to consistently maintain our reputation as the Best Alaska Blue Dunes Granite Manufacturer in India for both domestic and international clients.",
+      ],
+    },
+
+    {
+      title: "Unique Features of Alaska Blue Dunes Granite",
+      content: [
+        "Alaska Blue Dunes Granite stands apart due to its remarkable characteristics:",
+      ],
+      points: [
+        "Elegant bluish-grey color with flowing dune-like patterns",
+        "High resistance to scratches, heat, and moisture",
+        "Exceptional durability for long-term use",
+        "Low maintenance and easy cleaning",
+        "Suitable for both interior and exterior applications",
+      ],
+      text: [
+        "These qualities make Alaska Blue Dunes Granite a preferred choice for projects that demand both beauty and performance.",
+      ],
+    },
+
+    {
+      title: "Applications of Alaska Blue Dunes Granite",
+      content: [
+        "Granite manufactured by JK Granimarmo is widely used in:",
+      ],
+      points: [
+        "Kitchen countertops and islands",
+        "Flooring and wall cladding",
+        "Staircases and window sills",
+        "Bathroom vanity tops",
+        "Commercial lobbies and corporate interiors",
+        "Exterior paving and building facades",
+      ],
+      text: [
+        "Its versatility and strength make it an excellent material for high-traffic areas and premium architectural designs.",
+      ],
+    },
+
+    {
+      title: "Quality Assurance and Precision Manufacturing",
+      content: [
+        "At JK Granimarmo, quality is the foundation of our manufacturing process. Each slab of Alaska Blue Dunes Granite undergoes strict inspection for:",
+      ],
+      points: [
+        "Thickness and dimensional accuracy",
+        "Color consistency and surface finish",
+        "Structural strength and durability",
+      ],
+      text: [
+        "Our commitment to excellence ensures that every product reflects the standards expected from the Best Alaska Blue Dunes Granite Manufacturer in India.",
+      ],
+    },
+
+    {
+      title: "Why JK Granimarmo Is the Right Choice",
+      content: [
+        "In a competitive market, JK Granimarmo stands out due to its unwavering dedication to quality and reliability. Clients choose us because we offer:",
+      ],
+      points: [
+        "Premium-grade raw materials",
+        "Advanced processing technology",
+        "Consistent supply for large projects",
+        "Competitive pricing without quality compromise",
+        "Timely delivery across India and global markets",
+      ],
+      text: [
+        "Our expertise in granite manufacturing also strengthens our reputation as the Best Granite Supplier in India, delivering exceptional natural stone solutions across diverse requirements.",
+      ],
+    },
+
+    {
+      title: "A Complete Natural Stone Solution Provider",
+      content: [
+        "JK Granimarmo is not only known for granite excellence but also for its expertise in marble manufacturing. Our strong presence across multiple natural stone segments reflects our capability to deliver comprehensive solutions for architects and developers. This versatility positions us among the most reliable brands in the industry, recognized as the Best Marble Manufacturer in India for premium marble requirements.",
+      ],
+    },
+
+    {
+      title: "Sustainable and Responsible Manufacturing",
+      content: [
+        "We follow environmentally responsible practices in sourcing and processing granite. Our operations are focused on:",
+      ],
+      points: [
+        "Efficient use of natural resources",
+        "Minimizing waste during manufacturing",
+        "Promoting sustainable quarrying methods",
+      ],
+      text: [
+        "This approach ensures that our manufacturing process is aligned with long-term environmental responsibility while maintaining top-quality standards.",
+      ],
+    },
+
+    {
+      title: "Pan-India Supply and Global Reach",
+      content: [
+        "JK Granimarmo supplies Alaska Blue Dunes Granite across all major Indian cities and exports to international markets. Our strong logistics network and secure packaging ensure safe and timely delivery, regardless of project size or location.",
+        "Whether it is a luxury residential project or a large commercial development, our manufacturing and supply capabilities allow us to meet all demands efficiently.",
+      ],
+    },
+
+    {
+      title: "Partner with the Best Alaska Blue Dunes Granite Manufacturer in India",
+      content: [
+        "Choosing the right manufacturer is crucial for achieving outstanding results in any project. With advanced infrastructure, quality-driven processes, and a customer-focused approach, JK Granimarmo continues to lead as the Best Alaska Blue Dunes Granite Manufacturer in India.",
+        "Our Alaska Blue Dunes Granite is crafted to enhance spaces with elegance, durability, and timeless charm. Trust JK Granimarmo for granite that defines excellence and delivers lasting value.",
+      ],
+    },
+  ],
+  },
+
+
+  "alaska-granites-alphonso-brown-alaska": {
+  title:
+    "Best Alphonso Brown Alaska Granite Manufacturer in India – Premium Granite by JK Granimarmo",
+
+  intro: [
+    "When it comes to premium natural stone, Alphonso Brown Alaska Granite stands out for its rich color, striking patterns, and exceptional durability. JK Granimarmo is proudly recognized as the Best Alphonso Brown Alaska Granite Manufacturer in India, delivering world-class granite that enhances both residential and commercial spaces. With advanced manufacturing facilities, strict quality control, and a customer-focused approach, we ensure that every slab reflects perfection in design and performance.",
+    "Our Alphonso Brown Alaska Granite is sourced from carefully selected quarries and processed using modern technology to achieve precise thickness, smooth surface finish, and consistent patterns. This makes it an ideal choice for architects, builders, and designers seeking elegance combined with long-lasting strength.",
+  ],
+
+  sections: [
+    {
+      title: "About Alphonso Brown Alaska Granite",
+      content: [
+        "Alphonso Brown Alaska Granite is known for its deep brown base with beautiful waves and mineral formations that create a bold yet sophisticated appearance. It is a versatile stone suitable for both modern and traditional spaces. Its hardness and resistance to scratches, stains, and heat make it a preferred material for high-traffic areas and luxury interiors.",
+        "As the Best Alphonso Brown Alaska Granite Manufacturer in India, JK Granimarmo ensures that each slab meets international quality standards, offering uniform texture, high gloss, and excellent structural integrity.",
+      ],
+    },
+
+    {
+      title: "About JK Granimarmo",
+      content: [
+        "JK Granimarmo is a trusted name in the natural stone industry, known for manufacturing and supplying premium granite and marble products across India and international markets. Our strength lies in our advanced infrastructure, skilled workforce, and dedication to quality.",
+        "Our manufacturing facility is equipped with:",
+      ],
+      points: [
+        "High-performance cutting and polishing machines",
+        "Resin treatment lines for enhanced durability",
+        "Precision calibration systems",
+        "Expert quality inspection teams",
+      ],
+      text: [
+        "This complete in-house control enables us to maintain consistency and deliver granite products that exceed expectations.",
+      ],
+    },
+
+    {
+      title: "Manufacturing Excellence in Alphonso Brown Alaska Granite",
+      content: [
+        "As the Best Alphonso Brown Alaska Granite Manufacturer in India, we follow a well-defined manufacturing process to ensure superior output:",
+      ],
+      points: [
+        "Careful Quarry Selection – Only premium-quality blocks with uniform color and structure are chosen.",
+        "Advanced Processing – Granite blocks are cut using modern gang saws and CNC machines for precise dimensions.",
+        "Surface Treatment & Polishing – High-gloss polishing and optional finishes such as leather or flamed enhance the stone’s appearance.",
+        "Quality Inspection – Every slab is checked for thickness accuracy, polish level, and pattern consistency.",
+        "Secure Packaging & Dispatch – Strong packaging ensures safe transportation across India and abroad.",
+      ],
+    },
+
+    {
+      title: "Applications of Alphonso Brown Alaska Granite",
+      content: [
+        "Our Alphonso Brown Alaska Granite is widely used in:",
+      ],
+      points: [
+        "Flooring for luxury residences and commercial buildings",
+        "Kitchen countertops and islands",
+        "Bathroom vanity tops",
+        "Staircases and wall cladding",
+        "Hotel lobbies and corporate interiors",
+        "Exterior facades and architectural features",
+      ],
+      text: [
+        "Its unique appearance and high durability make it suitable for both interior and exterior use.",
+      ],
+    },
+
+    {
+      title: "Quality Standards and Durability",
+      content: [
+        "JK Granimarmo maintains strict quality benchmarks to ensure that our Alphonso Brown Alaska Granite delivers long-term performance. The granite is tested for:",
+      ],
+      points: [
+        "High compressive strength",
+        "Resistance to water absorption",
+        "Scratch and heat resistance",
+        "Color stability and surface durability",
+      ],
+      text: [
+        "These qualities make it ideal for spaces that demand both elegance and strength.",
+      ],
+    },
+
+    {
+      title: "Why Choose JK Granimarmo",
+      content: [
+        "What makes JK Granimarmo a preferred choice is our commitment to reliability, transparency, and premium quality. We do not just manufacture granite; we create long-lasting value for our clients.",
+        "Our advantages include:",
+      ],
+      points: [
+        "Consistent availability of Alphonso Brown Alaska Granite",
+        "Custom sizing and finishing options",
+        "Competitive pricing directly from the manufacturer",
+        "Timely delivery across India",
+        "Strong client support from selection to supply",
+      ],
+      text: [
+        "Our manufacturing excellence places us among the most reliable names in the natural stone industry. For those exploring other granite varieties, JK Granimarmo is also known as the Best Granite Supplier in India, offering a wide range of premium granite options for diverse project needs.",
+      ],
+    },
+
+    {
+      title: "Expertise Beyond Granite",
+      content: [
+        "In addition to granite, JK Granimarmo is highly respected in marble manufacturing as well. Our dedication to quality and craftsmanship has established us as the Best Marble Manufacturer in India, trusted by architects and developers for luxury marble solutions.",
+        "This multi-stone expertise allows our clients to source all their premium surface requirements from one reliable brand.",
+      ],
+    },
+
+    {
+      title: "Pan-India Supply and Global Reach",
+      content: [
+        "JK Granimarmo supplies Alphonso Brown Alaska Granite across all major Indian cities and also exports to international markets. Our logistics system ensures:",
+      ],
+      points: [
+        "Safe packaging",
+        "Damage-free transportation",
+        "Timely delivery for all project sizes",
+      ],
+      text: [
+        "Whether it is a single residential project or a large commercial development, we are equipped to handle bulk requirements with efficiency.",
+      ],
+    },
+
+    {
+      title: "Customization Options",
+      content: [
+        "To meet project-specific needs, we offer:",
+      ],
+      points: [
+        "Custom slab sizes",
+        "Multiple surface finishes (polished, leather, flamed)",
+        "Edge profiling for countertops",
+        "Thickness customization",
+      ],
+      text: [
+        "This flexibility allows designers and builders to achieve their desired look and functionality.",
+      ],
+    },
+
+    {
+      title: "Commitment to Sustainability",
+      content: [
+        "JK Granimarmo believes in responsible manufacturing. We adopt eco-friendly practices such as:",
+      ],
+      points: [
+        "Ethical quarry sourcing",
+        "Efficient resource utilization",
+        "Minimal waste generation",
+        "Safe working conditions",
+      ],
+      text: [
+        "Our sustainable approach ensures long-term environmental balance while maintaining superior product quality.",
+      ],
+    },
+
+    {
+      title: "Trusted Partner for Premium Granite Projects",
+      content: [
+        "Choosing the right manufacturer plays a critical role in the success of any project. As the Best Alphonso Brown Alaska Granite Manufacturer in India, JK Granimarmo offers unmatched quality, manufacturing precision, and customer support.",
+        "Our granite adds a touch of luxury, strength, and sophistication to every space it is used in, making it an investment that delivers both beauty and performance.",
+      ],
+    },
+
+    {
+      title: "Best Alphonso Brown Alaska Granite Manufacturer in India – JK Granimarmo",
+      content: [
+        "If you are looking for premium Alphonso Brown Alaska Granite that meets the highest standards of quality and design, JK Granimarmo is your ideal partner. With advanced facilities, experienced professionals, and a strong commitment to excellence, we continue to lead as the Best Alphonso Brown Alaska Granite Manufacturer in India.",
+        "Trust JK Granimarmo to deliver granite that defines elegance, durability, and timeless appeal.",
+      ],
+    },
+  ],
+  },
+    
+  }
 };
