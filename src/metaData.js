@@ -195,17 +195,131 @@ const SLUG_DESCRIPTIONS = {
     description:
       "Best Bianco Lasa White Marble Supplier in India offering premium quality marble, pure white elegance, competitive pricing, and reliable nationwide delivery.",
   },
-  
+
 
   // ... continue for all Imported Marble colors
 
   // Granites
-  "granites/north-indian/jirawal-white": {
-    title: "Jirawal White Granite Supplier",
+  "granites/north-indian-jirawal-white": {
+    title: "Best Jirawal White Granite Manufacturer in India",
     description:
-      "Premium Jirawal White Granite for flooring, countertops, and architectural projects.",
+      "Best Jirawal White Granite Manufacturer in India offering premium quality granite, competitive pricing, custom sizes, and reliable nationwide & export supply.",
   },
-  // ... continue for all granite types
+
+  "granites/north-indian-z-black": {
+    title: "Best Z Black Granite Manufacturer in India",
+    description:
+      "Best Z Black Granite Manufacturer in India delivering premium quality slabs and tiles, fine finishes, competitive prices, and dependable export supply.",
+  },
+
+  "granites/north-indian-tiger-skin": {
+    title: "Best Tiger Skin Granite Manufacturer in India",
+    description:
+      "Best Tiger Skin Granite Manufacturer in India providing premium quality granite with rich patterns, durable finishes, competitive pricing, and global supply.",
+  },
+
+  "granites/north-indian-tan-brown": {
+    title: "Best Tan Brown Granite Manufacturer in India",
+    description:
+      "Best Tan Brown Granite Manufacturer in India offering premium slabs and tiles, rich brown tones, durable finishes, competitive prices, and export supply.",
+  },
+
+  "granites/north-indian-r-black": {
+    title: "Best R Black Granite Manufacturer in India",
+    description:
+      "Best R Black Granite Manufacturer in India supplying premium quality slabs and tiles, consistent color, superior finish, competitive pricing, and export-ready supply.",
+  },
+
+  "granites/north-indian-majestik-black": {
+    title: "Best Majestik Black Granite Manufacturer in India",
+    description:
+      "Best Majestik Black Granite Manufacturer in India offering premium quality slabs and tiles, deep black finish, durability, competitive pricing, and export supply.",
+  },
+
+  "granites/north-indian-cherry-red": {
+    title: "Best Cherry Red Granite Manufacturer in India",
+    description:
+      "Best Cherry Red Granite Manufacturer in India offering premium quality slabs and tiles, vibrant red color, durable finish, competitive pricing, and global supply.",
+  },
+
+  "granites/north-indian-cateyes": {
+    title: "Best Cateyes Granite Manufacturer in India",
+    description:
+      "Best Cateyes Granite Manufacturer in India offering premium quality slabs and tiles, unique crystal patterns, durable finish, competitive prices, and export supply.",
+  },
+
+  "granites/north-indian-3d-finish": {
+    title: "Best 3D Finish Granite Manufacturer in India",
+    description:
+      "Best 3D Finish Granite Manufacturer in India delivering premium textured granite, innovative designs, durable quality, competitive pricing, and export-ready supply.",
+  },
+
+  "granites/north-indian-multi-red": {
+    title: "Best Multi Red Granite Manufacturer in India",
+    description:
+      "Best Multi Red Granite Manufacturer in India offering premium quality slabs and tiles, rich red patterns, durable finish, competitive pricing, and export supply.",
+  },
+
+  "granites/north-indian-k-white": {
+    title: "Best K White Granite Manufacturer in India",
+    description:
+      "Best K White Granite Manufacturer in India offering premium quality slabs and tiles, elegant white finish, durable surfaces, competitive pricing, and reliable export supply.",
+  },
+
+  "granites/north-indian-olivier-green": {
+    title: "Best Olivier Green Granite Manufacturer in India",
+    description:
+      "Best Olivier Green Granite Manufacturer in India offering premium quality slabs and tiles, elegant green patterns, durable finish, competitive pricing, and global supply.",
+  },
+
+  "granites/north-indian-thunder-brown": {
+    title: "Best Thunder Brown Granite Manufacturer in India",
+    description:
+      "Best Thunder Brown Granite Manufacturer in India offering premium quality slabs and tiles, rich brown tones, durable finish, competitive pricing, and reliable export supply.",
+  },
+
+  "granites/north-indian-zidane-black": {
+    title: "Best Zidane Black Granite Manufacturer in India",
+    description:
+      "Best Zidane Black Granite Manufacturer in India offering premium quality slabs and tiles, deep black finish, durable surfaces, competitive pricing, and global export supply.",
+  },
+
+  "granites/alaska-granites-alaska-pink": {
+    title: "Best Alaska Pink Granite Manufacturer in India",
+    description:
+      "Best Alaska Pink Granite Manufacturer in India offering premium quality granite for elegant and durable spaces.",
+  },
+
+  "granites/alaska-granites-alaska-black": {
+    title: "Best Alaska Black Granite Manufacturer in India",
+    description:
+      "Best Alaska Black Granite Manufacturer in India offering premium quality granite for luxury floors, walls, and projects.",
+  },
+
+  "granites/alaska-granites-alaska-gold": {
+    title: "Best Alaska Gold Granite Manufacturer in India",
+    description:
+      "Best Alaska Gold Granite Manufacturer in India offering strong, stylish, and long-lasting granite for premium projects.",
+  },
+
+  "granites/alaska-granites-alaska-white": {
+    title: "Best Alaska White Granite Manufacturer in India",
+    description:
+      "Best Alaska White Granite Manufacturer in India offering premium quality granite with timeless elegance and superior finish.",
+  },
+
+  "granites/alaska-granites-alaska-blue-dunes": {
+    title: "Best Alaska Blue Dunes Granite Manufacturer in India",
+    description:
+      "Best Alaska Blue Dunes Granite Manufacturer in India offering premium quality granite with lasting beauty and excellence.",
+  },
+
+  "granites/alaska-granites-alphonso-brown-alaska": {
+    title: "Best Alphonso Brown Alaska Granite Manufacturer in India",
+    description:
+      "Best Alphonso Brown Alaska Granite Manufacturer in India offering premium granite for strong and elegant spaces.",
+  },
+
 
   // Tiles
   "tiles/choco": {
